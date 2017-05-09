@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+PV-BurgandyStGaffneySt, 14.1, 2015-03-03 07:00:00, 120, bicycle riders, NA, 57, 38, 11, 1, 7, 4, 3, 3, 25, 
+PV-BurgandyStGaffneySt, 14.1, 2011-03-01 07:00:00, 120, bicycle riders, NA, 39, 21, 4, 2, 12, 6, 3, 3, 16, 
+PV-BurgandyStGaffneySt, 14.1, 2008-03-04 07:00:00, 120, bicycle riders, NA, 37, 24, 7, 1, 5, 5, 1, 19, 12, 

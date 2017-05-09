@@ -1,0 +1,18 @@
+C-NicholsonStHardingSt-2011-03-01
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+C-NicholsonStHardingSt,Nicholson St and Harding St,Coburg,9.1,321801.26,5820412.39,30 A1,Lygon  - Holmes - Nicholson,Munro - Harding
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+C-NicholsonStHardingSt,2011-03-01,15,bicycle riders,N,
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-NicholsonStHardingSt,2011-03-01 07:00:00,15,bicycle riders,NA,0,2,0,0,1,0,0,0,0,0,1,0
+C-NicholsonStHardingSt,2011-03-01 07:15:00,15,bicycle riders,NA,0,1,0,0,2,0,0,0,0,0,1,0
+C-NicholsonStHardingSt,2011-03-01 07:30:00,15,bicycle riders,NA,0,2,2,0,0,0,0,0,0,0,0,0
+C-NicholsonStHardingSt,2011-03-01 07:45:00,15,bicycle riders,NA,0,1,0,0,3,0,0,0,0,0,1,0
+C-NicholsonStHardingSt,2011-03-01 08:00:00,15,bicycle riders,NA,0,3,1,1,1,0,0,0,0,0,3,2
+C-NicholsonStHardingSt,2011-03-01 08:15:00,15,bicycle riders,NA,0,7,0,0,0,0,2,0,0,0,1,0
+C-NicholsonStHardingSt,2011-03-01 08:30:00,15,bicycle riders,NA,0,0,1,1,4,0,1,0,0,0,2,0
+C-NicholsonStHardingSt,2011-03-01 08:45:00,15,bicycle riders,NA,0,2,0,0,2,0,0,0,0,0,2,0

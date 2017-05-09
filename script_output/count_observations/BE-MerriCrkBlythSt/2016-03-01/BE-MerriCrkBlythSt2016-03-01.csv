@@ -1,0 +1,28 @@
+BE-MerriCrkBlythSt-2016-03-01
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+BE-MerriCrkBlythSt,Merri Creek Trail & Blyth St,Brunswick East,6.7,322429.11,5818077.44,29 B8,Merri Creek Trail,Blyth St
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+BE-MerriCrkBlythSt,2016-03-01,15,bicycle riders,Y,Rebecca Andi
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-MerriCrkBlythSt,2016-03-01 07:00:00,15,bicycle riders,F,0,1,0,0,2,0,0,0,0,0,2,1
+BE-MerriCrkBlythSt,2016-03-01 07:15:00,15,bicycle riders,F,0,1,0,0,3,0,1,1,0,0,3,0
+BE-MerriCrkBlythSt,2016-03-01 07:30:00,15,bicycle riders,F,0,6,0,0,3,0,1,0,0,0,5,1
+BE-MerriCrkBlythSt,2016-03-01 07:45:00,15,bicycle riders,F,0,8,0,1,6,1,0,1,0,0,1,0
+BE-MerriCrkBlythSt,2016-03-01 08:00:00,15,bicycle riders,F,0,4,0,0,5,0,1,1,0,0,1,1
+BE-MerriCrkBlythSt,2016-03-01 08:15:00,15,bicycle riders,F,0,10,1,0,6,0,0,3,0,0,4,0
+BE-MerriCrkBlythSt,2016-03-01 08:30:00,15,bicycle riders,F,2,13,0,2,4,6,0,3,0,0,2,1
+BE-MerriCrkBlythSt,2016-03-01 08:45:00,15,bicycle riders,F,0,6,0,2,7,5,0,0,0,0,2,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-MerriCrkBlythSt,2016-03-01 07:00:00,15,bicycle riders,M,0,7,0,0,1,0,0,0,0,0,1,0
+BE-MerriCrkBlythSt,2016-03-01 07:15:00,15,bicycle riders,M,0,4,0,2,1,0,1,1,0,0,3,0
+BE-MerriCrkBlythSt,2016-03-01 07:30:00,15,bicycle riders,M,0,12,0,2,12,0,0,4,0,0,4,0
+BE-MerriCrkBlythSt,2016-03-01 07:45:00,15,bicycle riders,M,0,17,0,1,15,1,1,2,0,2,3,0
+BE-MerriCrkBlythSt,2016-03-01 08:00:00,15,bicycle riders,M,3,16,1,1,10,0,1,2,0,0,5,0
+BE-MerriCrkBlythSt,2016-03-01 08:15:00,15,bicycle riders,M,1,25,0,0,11,0,0,2,0,1,2,0
+BE-MerriCrkBlythSt,2016-03-01 08:30:00,15,bicycle riders,M,1,30,0,3,8,5,0,4,0,0,9,1
+BE-MerriCrkBlythSt,2016-03-01 08:45:00,15,bicycle riders,M,1,18,3,2,9,5,0,1,0,1,6,3

@@ -1,0 +1,28 @@
+C-MerriCrkHardingSt-2015-03-03
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+C-MerriCrkHardingSt,Merri Creek Trail  at the Harding St Suspension Bridge,Coburg,11.3,322015.64,5820397.1,30 B2,Merri Creek Trail,Munro - Harding
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+C-MerriCrkHardingSt,2015-03-03,15,bicycle riders,Y,James Cunningham
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-MerriCrkHardingSt,2015-03-03 07:00:00,15,bicycle riders,F,3,0,0,0,0,0,0,0,0,0,1,0
+C-MerriCrkHardingSt,2015-03-03 07:15:00,15,bicycle riders,F,3,0,0,0,0,0,0,0,0,0,0,0
+C-MerriCrkHardingSt,2015-03-03 07:30:00,15,bicycle riders,F,3,0,0,0,2,1,0,0,0,0,1,0
+C-MerriCrkHardingSt,2015-03-03 07:45:00,15,bicycle riders,F,3,0,0,0,0,0,0,0,0,0,0,0
+C-MerriCrkHardingSt,2015-03-03 08:00:00,15,bicycle riders,F,5,0,0,0,1,1,0,0,0,0,2,0
+C-MerriCrkHardingSt,2015-03-03 08:15:00,15,bicycle riders,F,1,0,0,0,0,2,0,0,0,0,1,0
+C-MerriCrkHardingSt,2015-03-03 08:30:00,15,bicycle riders,F,3,0,0,0,1,0,0,0,0,0,2,0
+C-MerriCrkHardingSt,2015-03-03 08:45:00,15,bicycle riders,F,2,0,0,0,2,0,0,0,0,0,1,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-MerriCrkHardingSt,2015-03-03 07:00:00,15,bicycle riders,M,5,0,1,0,2,1,0,0,0,0,2,0
+C-MerriCrkHardingSt,2015-03-03 07:15:00,15,bicycle riders,M,4,0,0,0,2,0,0,0,0,0,1,0
+C-MerriCrkHardingSt,2015-03-03 07:30:00,15,bicycle riders,M,8,0,0,0,1,4,0,0,1,0,0,0
+C-MerriCrkHardingSt,2015-03-03 07:45:00,15,bicycle riders,M,6,0,0,0,0,2,0,0,0,0,1,0
+C-MerriCrkHardingSt,2015-03-03 08:00:00,15,bicycle riders,M,7,0,1,0,4,3,0,0,0,0,2,0
+C-MerriCrkHardingSt,2015-03-03 08:15:00,15,bicycle riders,M,14,0,0,1,0,0,0,0,0,0,3,0
+C-MerriCrkHardingSt,2015-03-03 08:30:00,15,bicycle riders,M,11,0,0,0,3,3,0,0,1,0,2,0
+C-MerriCrkHardingSt,2015-03-03 08:45:00,15,bicycle riders,M,5,0,0,0,1,2,0,0,0,0,2,0

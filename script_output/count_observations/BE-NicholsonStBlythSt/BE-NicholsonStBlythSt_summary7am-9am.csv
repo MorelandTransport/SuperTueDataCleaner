@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BE-NicholsonStBlythSt, 6.3, 2017-03-07 07:00:00, 120, bicycle riders, NA, 113, 34, 31, 19, 29, 13, 33, 33, 25, 
+BE-NicholsonStBlythSt, 6.3, 2013-03-05 07:00:00, 120, bicycle riders, NA, 176, 22, 36, 68, 50, 89, 31, 31, 32, 
+BE-NicholsonStBlythSt, 6.3, 2011-03-01 07:00:00, 120, bicycle riders, NA, 169, 83, 37, 13, 36, 19, 44, 44, 21, 

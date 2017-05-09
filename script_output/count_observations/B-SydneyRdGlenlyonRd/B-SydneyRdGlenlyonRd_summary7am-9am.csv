@@ -1,0 +1,5 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-SydneyRdGlenlyonRd, 5.1, 2016-03-01 07:00:00, 120, bicycle riders, NA, 459, 277, 92, 23, 67, 27, 33, 33, 81, 
+B-SydneyRdGlenlyonRd, 5.1, 2012-03-06 07:00:00, 120, bicycle riders, NA, 281, 196, 27, 24, 34, 13, 20, 20, 34, 
+B-SydneyRdGlenlyonRd, 5.1, 2010-03-02 07:00:00, 120, bicycle riders, NA, 458, 273, 72, 25, 88, 28, 48, 48, 46, 
+B-SydneyRdGlenlyonRd, 5.1, 2008-03-11 07:00:00, 120, bicycle riders, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 

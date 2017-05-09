@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+CN-SussexStBoundaryRd, 12.0, 2017-03-07 07:00:00, 120, bicycle riders, NA, 15, 4, 3, 2, 6, 3, 9, 9, 1, 
+CN-SussexStBoundaryRd, 12.0, 2013-03-05 07:00:00, 120, bicycle riders, NA, 19, 3, 6, 2, 8, 4, 9, 9, 4, 
+CN-SussexStBoundaryRd, 12.0, 2008-03-04 07:00:00, 120, bicycle riders, NA, 15, 5, 2, 3, 6, 2, 9, 2, 2, 

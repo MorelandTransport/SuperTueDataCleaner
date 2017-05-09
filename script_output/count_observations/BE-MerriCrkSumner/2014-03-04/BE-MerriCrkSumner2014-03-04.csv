@@ -1,0 +1,28 @@
+BE-MerriCrkSumner-2014-03-04
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+BE-MerriCrkSumner,Merri Creek Trail & Sumner Park Bridge,Brunswick East,6.3,322573.83,5817498.2,29 C9,Merri Creek Trail,Glenlyon - Dawson
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+BE-MerriCrkSumner,2014-03-04,15,bicycle riders,Y,Tim Read
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-MerriCrkSumner,2014-03-04 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,1,0,0,0,0
+BE-MerriCrkSumner,2014-03-04 07:15:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,0,1
+BE-MerriCrkSumner,2014-03-04 07:30:00,15,bicycle riders,F,0,4,0,1,0,0,0,2,1,0,0,0
+BE-MerriCrkSumner,2014-03-04 07:45:00,15,bicycle riders,F,0,2,0,1,3,0,0,0,0,1,0,0
+BE-MerriCrkSumner,2014-03-04 08:00:00,15,bicycle riders,F,0,3,0,0,2,0,0,0,1,0,0,0
+BE-MerriCrkSumner,2014-03-04 08:15:00,15,bicycle riders,F,2,7,0,4,3,0,0,0,0,0,0,0
+BE-MerriCrkSumner,2014-03-04 08:30:00,15,bicycle riders,F,5,8,0,0,1,2,0,2,1,0,2,0
+BE-MerriCrkSumner,2014-03-04 08:45:00,15,bicycle riders,F,2,7,0,8,0,2,0,2,0,0,0,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-MerriCrkSumner,2014-03-04 07:00:00,15,bicycle riders,M,1,2,0,0,0,0,0,0,0,0,0,0
+BE-MerriCrkSumner,2014-03-04 07:15:00,15,bicycle riders,M,0,2,0,0,0,0,0,1,0,0,0,1
+BE-MerriCrkSumner,2014-03-04 07:30:00,15,bicycle riders,M,0,7,0,3,0,0,1,3,0,0,1,0
+BE-MerriCrkSumner,2014-03-04 07:45:00,15,bicycle riders,M,0,5,0,1,3,0,0,0,0,0,0,0
+BE-MerriCrkSumner,2014-03-04 08:00:00,15,bicycle riders,M,1,5,0,1,2,1,0,0,0,0,1,0
+BE-MerriCrkSumner,2014-03-04 08:15:00,15,bicycle riders,M,5,13,0,2,5,0,0,1,0,0,1,0
+BE-MerriCrkSumner,2014-03-04 08:30:00,15,bicycle riders,M,13,10,0,1,2,0,0,1,0,0,2,0
+BE-MerriCrkSumner,2014-03-04 08:45:00,15,bicycle riders,M,3,9,0,5,2,3,0,0,0,0,0,1

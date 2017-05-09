@@ -1,0 +1,28 @@
+C-BourkeStOHeaSt-2016-03-01
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+C-BourkeStOHeaSt,OHea St Path and Bourke St,Coburg,9.7,320024.3,5821419.22,17 F11,West Brunswick Shimmy,OHea St Shared Path
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+C-BourkeStOHeaSt,2016-03-01,15,bicycle riders,Y,Matthew Mifsud
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-BourkeStOHeaSt,2016-03-01 07:00:00,15,bicycle riders,F,NA,NA,NA,0,0,NA,0,NA,0,NA,3,0
+C-BourkeStOHeaSt,2016-03-01 07:15:00,15,bicycle riders,F,NA,NA,NA,0,0,NA,0,NA,0,NA,3,0
+C-BourkeStOHeaSt,2016-03-01 07:30:00,15,bicycle riders,F,NA,NA,NA,0,1,NA,0,NA,0,NA,2,0
+C-BourkeStOHeaSt,2016-03-01 07:45:00,15,bicycle riders,F,NA,NA,NA,0,1,NA,0,NA,0,NA,4,0
+C-BourkeStOHeaSt,2016-03-01 08:00:00,15,bicycle riders,F,NA,NA,NA,0,0,NA,0,NA,1,NA,3,0
+C-BourkeStOHeaSt,2016-03-01 08:15:00,15,bicycle riders,F,NA,NA,NA,1,0,NA,0,NA,2,NA,0,0
+C-BourkeStOHeaSt,2016-03-01 08:30:00,15,bicycle riders,F,NA,NA,NA,0,4,NA,1,NA,0,NA,2,0
+C-BourkeStOHeaSt,2016-03-01 08:45:00,15,bicycle riders,F,NA,NA,NA,0,10,NA,1,NA,0,NA,4,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-BourkeStOHeaSt,2016-03-01 07:00:00,15,bicycle riders,M,NA,NA,NA,0,2,NA,0,NA,0,NA,0,0
+C-BourkeStOHeaSt,2016-03-01 07:15:00,15,bicycle riders,M,NA,NA,NA,0,0,NA,0,NA,0,NA,1,0
+C-BourkeStOHeaSt,2016-03-01 07:30:00,15,bicycle riders,M,NA,NA,NA,0,2,NA,0,NA,0,NA,3,0
+C-BourkeStOHeaSt,2016-03-01 07:45:00,15,bicycle riders,M,NA,NA,NA,0,2,NA,0,NA,1,NA,11,0
+C-BourkeStOHeaSt,2016-03-01 08:00:00,15,bicycle riders,M,NA,NA,NA,0,1,NA,0,NA,0,NA,6,0
+C-BourkeStOHeaSt,2016-03-01 08:15:00,15,bicycle riders,M,NA,NA,NA,1,1,NA,0,NA,2,NA,7,0
+C-BourkeStOHeaSt,2016-03-01 08:30:00,15,bicycle riders,M,NA,NA,NA,0,2,NA,0,NA,0,NA,6,0
+C-BourkeStOHeaSt,2016-03-01 08:45:00,15,bicycle riders,M,NA,NA,NA,0,8,NA,2,NA,0,NA,5,0

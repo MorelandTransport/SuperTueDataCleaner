@@ -1,0 +1,18 @@
+BW-CityLinkDawsonSt-2008-03-11
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+BW-CityLinkDawsonSt,Dawson St and Jewel Crs - near CityLink,Brunswick West,7.1,318424.79,5817844.06,29 B8,Moonee Ponds Creek Trail,Dawson St
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+BW-CityLinkDawsonSt,2008-03-11,120,bicycle riders,N,BV Count - no breakdown available
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BW-CityLinkDawsonSt,2008-03-11 07:00:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 07:15:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 07:30:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 07:45:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 08:00:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 08:15:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 08:30:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BW-CityLinkDawsonSt,2008-03-11 08:45:00,120,bicycle riders,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

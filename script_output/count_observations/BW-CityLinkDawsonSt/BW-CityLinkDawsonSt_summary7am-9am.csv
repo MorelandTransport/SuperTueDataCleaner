@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-CityLinkDawsonSt, 7.1, 2015-03-03 07:00:00, 120, bicycle riders, NA, 47, NA, 28, 3, 16, NA, 19, 19, 22, 
+BW-CityLinkDawsonSt, 7.1, 2010-03-02 07:00:00, 120, bicycle riders, NA, 10, NA, 10, 0, 0, NA, 0, 0, 10, 
+BW-CityLinkDawsonSt, 7.1, 2008-03-11 07:00:00, 120, bicycle riders, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 

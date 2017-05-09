@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-DalyStDawsonSt, 6.6, 2016-03-01 07:00:00, 120, bicycle riders, NA, 133, 28, 29, 5, 71, 6, 64, 64, 21, 
+BW-DalyStDawsonSt, 6.6, 2012-03-06 07:00:00, 120, bicycle riders, NA, 70, 8, 16, 1, 45, 1, 45, 45, 14, 
+BW-DalyStDawsonSt, 6.6, 2010-03-02 07:00:00, 120, bicycle riders, NA, 119, 18, 32, 5, 64, 0, 75, 75, 28, 

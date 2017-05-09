@@ -1,0 +1,18 @@
+B-SydneyRdGlenlyonRd-2012-03-06
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+B-SydneyRdGlenlyonRd,Sydney Rd and Glenylon Rd / Dawson St,Brunswick,5.1,320445.98,5817514.76,29 K9,Sydney Rd,Glenlyon - Dawson
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+B-SydneyRdGlenlyonRd,2012-03-06,15,bicycle riders,y,
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+B-SydneyRdGlenlyonRd,2012-03-06 07:00:00,15,bicycle riders,NA,0,14,0,0,3,0,0,1,2,0,0,3
+B-SydneyRdGlenlyonRd,2012-03-06 07:15:00,15,bicycle riders,NA,0,17,0,1,0,0,0,0,1,0,3,0
+B-SydneyRdGlenlyonRd,2012-03-06 07:30:00,15,bicycle riders,NA,0,20,0,3,5,1,0,0,0,0,1,4
+B-SydneyRdGlenlyonRd,2012-03-06 07:45:00,15,bicycle riders,NA,0,18,0,2,5,0,0,0,0,1,2,2
+B-SydneyRdGlenlyonRd,2012-03-06 08:00:00,15,bicycle riders,NA,1,27,0,1,2,0,0,3,0,0,2,2
+B-SydneyRdGlenlyonRd,2012-03-06 08:15:00,15,bicycle riders,NA,0,29,3,3,1,0,2,0,0,0,5,3
+B-SydneyRdGlenlyonRd,2012-03-06 08:30:00,15,bicycle riders,NA,1,33,1,0,0,0,9,1,0,0,1,0
+B-SydneyRdGlenlyonRd,2012-03-06 08:45:00,15,bicycle riders,NA,0,31,1,0,0,0,2,2,1,4,0,1

@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+G-LoganStGlenroyRd, 15.6, 2016-03-01 07:00:00, 120, bicycle riders, NA, 18, 0, 12, NA, 6, 4, 4, 4, 10, 
+G-LoganStGlenroyRd, 15.6, 2012-03-06 07:00:00, 120, bicycle riders, NA, 8, 1, 4, NA, 3, 0, 4, 4, 4, 
+G-LoganStGlenroyRd, 15.6, 2011-03-01 07:00:00, 120, bicycle riders, NA, 7, 1, 6, NA, 0, 0, 0, 0, 7, 

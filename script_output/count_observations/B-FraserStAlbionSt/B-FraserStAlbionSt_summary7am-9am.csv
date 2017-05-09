@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-FraserStAlbionSt, 7.2, 2017-03-07 07:00:00, 120, bicycle riders, NA, 114, 59, 15, 4, 36, 5, 38, 38, 20, 
+B-FraserStAlbionSt, 7.2, 2014-03-04 07:00:00, 120, bicycle riders, NA, 84, NA, 14, 1, 69, NA, 38, 38, 13, 
+B-FraserStAlbionSt, 7.2, 2012-03-06 07:00:00, 120, bicycle riders, NA, 68, NA, 8, 2, 58, NA, 17, 17, 10, 

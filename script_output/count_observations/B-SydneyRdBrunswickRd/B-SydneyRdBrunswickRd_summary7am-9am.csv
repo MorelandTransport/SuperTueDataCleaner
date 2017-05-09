@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-SydneyRdBrunswickRd, 4.5, 2017-03-07 07:00:00, 120, bicycle riders, NA, 549, 432, 15, 31, 71, 32, 13, 13, 13, 
+B-SydneyRdBrunswickRd, 4.5, 2014-03-04 07:00:00, 120, bicycle riders, NA, 689, 547, 19, 42, 81, 40, 16, 16, 15, 
+B-SydneyRdBrunswickRd, 4.5, 2008-03-04 07:00:00, 120, bicycle riders, NA, 436, 334, 17, 32, 53, 32, 13, 385, 6, 

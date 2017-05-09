@@ -1,0 +1,5 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-MelvilleRdVictoriaSt, 7.2, 2017-03-07 07:00:00, 120, bicycle riders, NA, 103, 58, 24, 10, 11, 14, 20, 20, 18, 
+BW-MelvilleRdVictoriaSt, 7.2, 2013-03-05 07:00:00, 120, bicycle riders, NA, 86, 49, 14, 5, 18, 7, 20, 20, 15, 
+BW-MelvilleRdVictoriaSt, 7.2, 2011-03-01 07:00:00, 120, bicycle riders, NA, 55, 35, 6, 5, 9, 7, 14, 14, 8, 
+BW-MelvilleRdVictoriaSt, 7.2, 2010-03-02 07:00:00, 120, bicycle riders, NA, 75, 49, 10, 7, 9, 8, 17, 17, 11, 

@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-MelvilleDawsonSt, 6.6, 2016-03-01 07:00:00, 120, bicycle riders, NA, 78, 33, 14, NA, 31, 0, 64, 64, 14, 
+BW-MelvilleDawsonSt, 6.6, 2012-03-06 07:00:00, 120, bicycle riders, NA, 57, 24, 14, NA, 19, 1, 41, 41, 15, 
+BW-MelvilleDawsonSt, 6.6, 2010-03-02 07:00:00, 120, bicycle riders, NA, 57, 34, 12, NA, 11, 2, 45, 45, 10, 

@@ -1,0 +1,5 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-UpfieldParkSt, 4.5, 2015-02-26 07:00:00, 120, bicycle riders, NA, 1134, 930, 40, 30, 134, 50, 630, 630, 29, 
+B-UpfieldParkSt, 4.5, 2013-03-21 07:00:00, 120, bicycle riders, NA, 681, 553, 40, 27, 61, 50, 328, 328, 27, 
+B-UpfieldParkSt, 4.5, 2011-03-29 07:00:00, 120, bicycle riders, NA, 807, 571, 103, 22, 111, 45, 399, 399, 60, 
+B-UpfieldParkSt, 4.5, 2009-04-02 07:00:00, 120, bicycle riders, NA, 681, 547, 31, 25, 78, 49, 354, 354, 19, 

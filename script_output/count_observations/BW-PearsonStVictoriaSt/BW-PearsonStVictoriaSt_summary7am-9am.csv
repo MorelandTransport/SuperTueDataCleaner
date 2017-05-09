@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-PearsonStVictoriaSt, 6.7, 2016-03-01 07:00:00, 120, bicycle riders, NA, 181, 124, 18, 10, 29, 10, 62, 62, 13, 
+BW-PearsonStVictoriaSt, 6.7, 2013-03-05 07:00:00, 120, bicycle riders, NA, 153, 94, 13, 14, 32, 15, 53, 53, 11, 
+BW-PearsonStVictoriaSt, 6.7, 2011-03-01 07:00:00, 120, bicycle riders, NA, 112, 89, 3, 5, 15, 6, 33, 33, 4, 

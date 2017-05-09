@@ -1,0 +1,28 @@
+B-UpfieldParkSt-2009-04-02
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+B-UpfieldParkSt,Upfield Shared Path and Park St,Brunswick,4.5,320186.38,5816875.04,29 G10,Upfield Shared Path,Park St
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+B-UpfieldParkSt,2009-04-02,15,bicycle riders,Y,
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+B-UpfieldParkSt,2009-04-02 07:00:00,15,bicycle riders,F,4,3,0,0,1,0,0,1,0,0,0,0
+B-UpfieldParkSt,2009-04-02 07:15:00,15,bicycle riders,F,5,5,0,0,0,0,0,1,0,0,1,0
+B-UpfieldParkSt,2009-04-02 07:30:00,15,bicycle riders,F,8,12,1,0,0,1,0,0,0,1,3,0
+B-UpfieldParkSt,2009-04-02 07:45:00,15,bicycle riders,F,17,13,0,0,0,2,0,0,0,0,3,0
+B-UpfieldParkSt,2009-04-02 08:00:00,15,bicycle riders,F,15,29,1,0,0,0,0,1,0,1,4,0
+B-UpfieldParkSt,2009-04-02 08:15:00,15,bicycle riders,F,22,25,0,0,0,0,0,1,0,0,0,1
+B-UpfieldParkSt,2009-04-02 08:30:00,15,bicycle riders,F,24,16,0,0,1,1,0,0,0,1,4,0
+B-UpfieldParkSt,2009-04-02 08:45:00,15,bicycle riders,F,18,21,0,1,1,1,0,2,0,1,3,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+B-UpfieldParkSt,2009-04-02 07:00:00,15,bicycle riders,M,6,10,0,0,0,1,0,0,0,0,1,0
+B-UpfieldParkSt,2009-04-02 07:15:00,15,bicycle riders,M,8,10,0,0,1,0,0,0,0,0,2,0
+B-UpfieldParkSt,2009-04-02 07:30:00,15,bicycle riders,M,22,13,0,0,1,0,1,3,0,2,6,0
+B-UpfieldParkSt,2009-04-02 07:45:00,15,bicycle riders,M,22,21,1,0,0,2,0,1,0,0,1,1
+B-UpfieldParkSt,2009-04-02 08:00:00,15,bicycle riders,M,28,19,0,0,3,0,0,7,0,3,5,1
+B-UpfieldParkSt,2009-04-02 08:15:00,15,bicycle riders,M,37,18,0,0,2,3,0,0,0,0,4,3
+B-UpfieldParkSt,2009-04-02 08:30:00,15,bicycle riders,M,35,19,0,0,2,3,0,2,0,0,8,2
+B-UpfieldParkSt,2009-04-02 08:45:00,15,bicycle riders,M,25,14,0,0,3,1,0,5,0,1,13,2

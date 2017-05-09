@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+C-NicholsonStMorelandRd, 8.7, 2016-03-01 07:00:00, 120, bicycle riders, NA, 147, 78, 19, 6, 44, 4, 47, 47, 27, 
+C-NicholsonStMorelandRd, 8.7, 2012-03-06 07:00:00, 120, bicycle riders, NA, 118, 63, 22, 6, 27, 5, 31, 31, 24, 
+C-NicholsonStMorelandRd, 8.7, 2010-03-02 07:00:00, 120, bicycle riders, NA, 109, 38, 24, 9, 38, 9, 34, 34, 21, 

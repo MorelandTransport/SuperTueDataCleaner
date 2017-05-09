@@ -1,0 +1,5 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+C-SydneyRdMorelandRd, 6.9, 2015-02-26 07:00:00, 120, bicycle riders, NA, 156, 78, 25, 17, 36, 17, 30, 30, 24, 
+C-SydneyRdMorelandRd, 6.9, 2013-03-21 07:00:00, 120, bicycle riders, NA, 150, 67, 35, 19, 29, 18, 25, 25, 29, 
+C-SydneyRdMorelandRd, 6.9, 2011-03-29 07:00:00, 120, bicycle riders, NA, 138, 84, 20, 12, 22, 13, 18, 18, 17, 
+C-SydneyRdMorelandRd, 6.9, 2009-04-02 07:00:00, 120, bicycle riders, NA, 122, 57, 23, 18, 24, 16, 20, 20, 19, 

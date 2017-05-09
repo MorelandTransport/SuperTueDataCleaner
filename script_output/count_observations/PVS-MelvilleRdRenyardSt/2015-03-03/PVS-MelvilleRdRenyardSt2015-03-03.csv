@@ -1,0 +1,28 @@
+PVS-MelvilleRdRenyardSt-2015-03-03
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+PVS-MelvilleRdRenyardSt,Melville Rd and Reynard St,Pascoe Vale South,9.3,318898.26,5820318.17,29 C2,Melville Rd,Renyard St
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+PVS-MelvilleRdRenyardSt,2015-03-03,15,bicycle riders,Y,Colin McLaren
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+PVS-MelvilleRdRenyardSt,2015-03-03 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,1
+PVS-MelvilleRdRenyardSt,2015-03-03 07:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 07:30:00,15,bicycle riders,F,0,0,0,0,2,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 07:45:00,15,bicycle riders,F,0,1,0,1,0,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:00:00,15,bicycle riders,F,0,1,0,0,1,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,2,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:30:00,15,bicycle riders,F,0,0,0,0,2,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:45:00,15,bicycle riders,F,1,0,0,0,0,0,0,0,0,0,0,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+PVS-MelvilleRdRenyardSt,2015-03-03 07:00:00,15,bicycle riders,M,0,2,0,0,0,0,0,0,0,0,0,1
+PVS-MelvilleRdRenyardSt,2015-03-03 07:15:00,15,bicycle riders,M,0,2,0,0,0,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 07:30:00,15,bicycle riders,M,0,3,0,0,0,0,0,0,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 07:45:00,15,bicycle riders,M,0,2,0,0,1,0,0,1,0,0,2,1
+PVS-MelvilleRdRenyardSt,2015-03-03 08:00:00,15,bicycle riders,M,0,3,0,0,5,1,0,1,0,0,1,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:15:00,15,bicycle riders,M,0,4,2,0,2,0,0,1,0,0,1,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:30:00,15,bicycle riders,M,1,3,0,1,1,0,0,1,0,0,0,0
+PVS-MelvilleRdRenyardSt,2015-03-03 08:45:00,15,bicycle riders,M,0,1,0,0,1,0,0,0,0,0,0,1

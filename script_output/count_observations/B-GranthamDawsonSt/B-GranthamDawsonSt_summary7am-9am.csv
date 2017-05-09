@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-GranthamDawsonSt, 6.1, 2016-03-01 07:00:00, 120, bicycle riders, NA, 180, NA, 26, 4, 150, NA, 74, 74, 24, 
+B-GranthamDawsonSt, 6.1, 2015-03-03 07:00:00, 120, bicycle riders, NA, 187, NA, 35, 18, 134, NA, 76, 76, 44, 
+B-GranthamDawsonSt, 6.1, 2013-03-05 07:00:00, 120, bicycle riders, NA, 185, NA, 31, 10, 144, NA, 74, 74, 30, 

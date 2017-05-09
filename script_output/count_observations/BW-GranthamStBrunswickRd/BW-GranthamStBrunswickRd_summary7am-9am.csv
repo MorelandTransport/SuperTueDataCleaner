@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-GranthamStBrunswickRd, 5.5, 2017-03-07 07:00:00, 120, bicycle riders, NA, 195, 142, 24, 4, 25, 8, 34, 34, 6, 
+BW-GranthamStBrunswickRd, 5.5, 2012-03-06 07:00:00, 120, bicycle riders, NA, 139, 106, 11, 3, 19, 5, 29, 29, 9, 
+BW-GranthamStBrunswickRd, 5.5, 2009-03-03 07:00:00, 120, bicycle riders, NA, 119, 9, 81, 14, 3, 21, 4, 11, 71, 

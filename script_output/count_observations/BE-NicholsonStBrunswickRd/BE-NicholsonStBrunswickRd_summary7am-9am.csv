@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BE-NicholsonStBrunswickRd, 5.0, 2016-03-01 07:00:00, 120, bicycle riders, NA, 124, 86, 21, 10, 7, 12, 7, 7, 19, 
+BE-NicholsonStBrunswickRd, 5.0, 2012-03-06 07:00:00, 120, bicycle riders, NA, 165, 117, 26, 10, 12, 11, 10, 10, 38, 
+BE-NicholsonStBrunswickRd, 5.0, 2010-03-02 07:00:00, 120, bicycle riders, NA, 166, 121, 30, 10, 5, 11, 4, 4, 39, 

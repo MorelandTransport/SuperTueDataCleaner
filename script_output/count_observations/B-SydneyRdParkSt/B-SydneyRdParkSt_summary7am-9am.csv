@@ -1,0 +1,6 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-SydneyRdParkSt, 4.4, 2015-02-26 07:00:00, 120, bicycle riders, NA, 1063, 475, 59, 11, 518, 12, 257, 257, 36, 
+B-SydneyRdParkSt, 4.4, 2013-03-21 07:00:00, 120, bicycle riders, NA, 747, 350, 46, 25, 326, 22, 205, 205, 34, 
+B-SydneyRdParkSt, 4.4, 2011-04-29 07:00:00, 120, bicycle riders, NA, 766, 320, 57, 70, 319, 49, 161, 161, 44, 
+B-SydneyRdParkSt, 4.4, 2009-04-02 07:00:00, 120, bicycle riders, NA, 740, 344, 41, 17, 338, 14, 211, 211, 31, 
+B-SydneyRdParkSt, 4.4, 2003-04-01 07:00:00, 120, bicycle riders, NA, 491, 256, 44, 23, 168, 18, 50, 50, 31, 

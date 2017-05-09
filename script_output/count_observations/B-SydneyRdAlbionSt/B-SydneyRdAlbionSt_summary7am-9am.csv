@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-SydneyRdAlbionSt, 6.3, 2016-03-01 07:00:00, 120, bicycle riders, NA, 233, 110, 75, 13, 35, 13, 22, 22, 56, 
+B-SydneyRdAlbionSt, 6.3, 2014-03-04 07:00:00, 120, bicycle riders, NA, 216, 117, 52, 19, 28, 26, 16, 16, 35, 
+B-SydneyRdAlbionSt, 6.3, 2012-03-06 07:00:00, 120, bicycle riders, NA, 223, 126, 58, 9, 30, 13, 19, 19, 35, 

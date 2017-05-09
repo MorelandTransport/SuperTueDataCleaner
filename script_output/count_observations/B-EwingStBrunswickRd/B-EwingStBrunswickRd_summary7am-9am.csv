@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-EwingStBrunswickRd, 5.2, 2016-03-01 07:00:00, 120, bicycle riders, NA, 287, 238, 20, 13, 16, 19, 15, 15, 57, 
+B-EwingStBrunswickRd, 5.2, 2013-03-05 07:00:00, 120, bicycle riders, NA, 293, 235, 25, 15, 18, 18, 30, 30, 40, 
+B-EwingStBrunswickRd, 5.2, 2011-03-01 07:00:00, 120, bicycle riders, NA, 209, 144, 34, 8, 23, 6, 28, 28, 64, 

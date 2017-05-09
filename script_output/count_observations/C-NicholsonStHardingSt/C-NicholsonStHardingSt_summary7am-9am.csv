@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+C-NicholsonStHardingSt, 9.1, 2017-03-07 07:00:00, 120, bicycle riders, NA, 91, 41, 18, 12, 20, 11, 23, 23, 29, 
+C-NicholsonStHardingSt, 9.1, 2013-03-05 07:00:00, 120, bicycle riders, NA, 91, 37, 27, 8, 19, 7, 14, 14, 40, 
+C-NicholsonStHardingSt, 9.1, 2009-03-03 07:00:00, 120, bicycle riders, NA, 76, 37, 15, 7, 17, 8, 16, 38, 14, 

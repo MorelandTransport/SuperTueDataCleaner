@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+C-BarrowStHardingSt, 8.6, 2017-03-07 07:00:00, 120, bicycle riders, NA, 91, 8, 46, 11, 26, 7, 24, 24, 45, 
+C-BarrowStHardingSt, 8.6, 2013-03-05 07:00:00, 120, bicycle riders, NA, 48, 7, 12, 24, 5, 32, 5, 5, 3, 
+C-BarrowStHardingSt, 8.6, 2009-03-03 07:00:00, 120, bicycle riders, NA, 31, 0, 18, 1, 12, 1, 12, 2, 16, 

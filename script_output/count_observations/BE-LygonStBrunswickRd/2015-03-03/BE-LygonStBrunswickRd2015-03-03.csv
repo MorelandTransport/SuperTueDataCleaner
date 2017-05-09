@@ -1,0 +1,28 @@
+BE-LygonStBrunswickRd-2015-03-03
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+BE-LygonStBrunswickRd,Lygon Street and Brunswick Road,Brunswick East,4.8,321287.35,5816845.22,29 J10,Lygon  - Holmes - Nicholson,Brunswick Rd
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+BE-LygonStBrunswickRd,2015-03-03,15,bicycle riders,Y,Anne Frost
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-LygonStBrunswickRd,2015-03-03 07:00:00,15,bicycle riders,F,0,6,0,0,1,0,0,0,0,0,0,0
+BE-LygonStBrunswickRd,2015-03-03 07:15:00,15,bicycle riders,F,1,2,0,0,0,0,1,1,0,0,0,0
+BE-LygonStBrunswickRd,2015-03-03 07:30:00,15,bicycle riders,F,0,11,1,0,0,1,0,0,0,0,0,0
+BE-LygonStBrunswickRd,2015-03-03 07:45:00,15,bicycle riders,F,1,8,0,0,0,0,0,1,0,0,0,1
+BE-LygonStBrunswickRd,2015-03-03 08:00:00,15,bicycle riders,F,1,18,0,0,0,0,0,0,0,0,1,1
+BE-LygonStBrunswickRd,2015-03-03 08:15:00,15,bicycle riders,F,0,9,0,2,1,0,0,0,0,0,2,0
+BE-LygonStBrunswickRd,2015-03-03 08:30:00,15,bicycle riders,F,3,18,1,0,1,0,0,2,0,0,0,1
+BE-LygonStBrunswickRd,2015-03-03 08:45:00,15,bicycle riders,F,6,16,0,0,2,0,0,2,1,0,2,2
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+BE-LygonStBrunswickRd,2015-03-03 07:00:00,15,bicycle riders,M,1,10,0,0,0,0,1,0,0,0,1,0
+BE-LygonStBrunswickRd,2015-03-03 07:15:00,15,bicycle riders,M,1,8,0,0,1,0,0,0,0,0,0,0
+BE-LygonStBrunswickRd,2015-03-03 07:30:00,15,bicycle riders,M,0,9,0,0,1,1,1,2,0,0,1,2
+BE-LygonStBrunswickRd,2015-03-03 07:45:00,15,bicycle riders,M,0,14,0,0,1,1,1,2,0,1,0,0
+BE-LygonStBrunswickRd,2015-03-03 08:00:00,15,bicycle riders,M,0,19,1,2,1,0,0,1,0,0,2,0
+BE-LygonStBrunswickRd,2015-03-03 08:15:00,15,bicycle riders,M,0,17,0,4,0,1,0,6,0,0,1,1
+BE-LygonStBrunswickRd,2015-03-03 08:30:00,15,bicycle riders,M,6,21,1,0,1,0,0,0,1,0,0,2
+BE-LygonStBrunswickRd,2015-03-03 08:45:00,15,bicycle riders,M,3,19,0,1,1,4,0,1,1,1,1,1

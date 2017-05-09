@@ -1,0 +1,28 @@
+G-HarringtonStWestRingRdTrail-2015-03-03
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+G-HarringtonStWestRingRdTrail,Electric St Harrington Ave and Western Ring Rd Trail,Glenroy,17.3,316276.41,5826014.69,6 G11,Craigieburn Express,Western Ring Road Trail
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+G-HarringtonStWestRingRdTrail,2015-03-03,15,bicycle riders,Y,Nic Dolby
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+G-HarringtonStWestRingRdTrail,2015-03-03 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 07:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 07:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 07:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:00:00,15,bicycle riders,F,0,0,0,0,0,1,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,1,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+G-HarringtonStWestRingRdTrail,2015-03-03 07:00:00,15,bicycle riders,M,0,0,0,0,0,0,0,1,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 07:15:00,15,bicycle riders,M,1,0,1,0,1,0,0,0,0,0,0,1
+G-HarringtonStWestRingRdTrail,2015-03-03 07:30:00,15,bicycle riders,M,0,0,0,1,2,0,0,0,0,0,1,0
+G-HarringtonStWestRingRdTrail,2015-03-03 07:45:00,15,bicycle riders,M,0,0,0,0,2,0,0,0,0,1,1,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:00:00,15,bicycle riders,M,0,1,0,0,1,0,0,1,0,0,1,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:15:00,15,bicycle riders,M,0,0,0,0,0,0,0,0,0,1,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:30:00,15,bicycle riders,M,0,0,0,0,1,0,0,0,0,0,0,0
+G-HarringtonStWestRingRdTrail,2015-03-03 08:45:00,15,bicycle riders,M,0,0,0,0,0,0,0,0,0,1,0,0

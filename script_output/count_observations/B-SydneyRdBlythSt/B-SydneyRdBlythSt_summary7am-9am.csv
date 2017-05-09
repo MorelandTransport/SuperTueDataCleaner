@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+B-SydneyRdBlythSt, 5.8, 2017-03-07 07:00:00, 120, bicycle riders, NA, 208, 154, 36, 18, NA, 16, 11, 11, NA, 
+B-SydneyRdBlythSt, 5.8, 2013-03-05 07:00:00, 120, bicycle riders, NA, 231, 175, 34, 22, 0, 17, 9, 9, NA, 
+B-SydneyRdBlythSt, 5.8, 2008-03-04 07:00:00, 120, bicycle riders, NA, 193, 136, 33, 24, 0, 23, 6, 164, 0, 

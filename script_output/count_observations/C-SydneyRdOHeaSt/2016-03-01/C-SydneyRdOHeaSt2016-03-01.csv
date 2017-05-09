@@ -1,0 +1,28 @@
+C-SydneyRdOHeaSt-2016-03-01
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+C-SydneyRdOHeaSt,Sydney Rd and Ohea St,Coburg,8.8,320860.11,5821334.55,17 H11,Sydney Rd,OHea St Shared Path
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+C-SydneyRdOHeaSt,2016-03-01,15,bicycle riders,Y,Robin Dexter
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-SydneyRdOHeaSt,2016-03-01 07:00:00,15,bicycle riders,F,0,0,0,0,1,0,0,0,0,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 07:15:00,15,bicycle riders,F,0,0,0,1,0,1,0,0,0,0,0,1
+C-SydneyRdOHeaSt,2016-03-01 07:30:00,15,bicycle riders,F,0,0,0,1,1,0,0,0,0,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 07:45:00,15,bicycle riders,F,0,0,0,0,1,0,0,1,0,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 08:00:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,1,0
+C-SydneyRdOHeaSt,2016-03-01 08:15:00,15,bicycle riders,F,0,0,0,0,1,0,0,0,0,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 08:30:00,15,bicycle riders,F,0,0,0,1,1,0,0,0,0,0,0,1
+C-SydneyRdOHeaSt,2016-03-01 08:45:00,15,bicycle riders,F,0,1,0,1,5,0,0,0,0,0,1,1
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-SydneyRdOHeaSt,2016-03-01 07:00:00,15,bicycle riders,M,0,1,0,2,1,0,0,0,0,0,2,0
+C-SydneyRdOHeaSt,2016-03-01 07:15:00,15,bicycle riders,M,0,4,0,2,1,0,0,0,0,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 07:30:00,15,bicycle riders,M,0,1,0,3,1,0,0,0,0,0,1,0
+C-SydneyRdOHeaSt,2016-03-01 07:45:00,15,bicycle riders,M,0,1,0,5,3,0,0,0,1,0,0,0
+C-SydneyRdOHeaSt,2016-03-01 08:00:00,15,bicycle riders,M,0,0,0,0,1,0,0,0,0,0,3,0
+C-SydneyRdOHeaSt,2016-03-01 08:15:00,15,bicycle riders,M,1,2,0,2,1,1,0,0,0,0,1,4
+C-SydneyRdOHeaSt,2016-03-01 08:30:00,15,bicycle riders,M,0,1,0,0,1,0,0,0,0,1,2,1
+C-SydneyRdOHeaSt,2016-03-01 08:45:00,15,bicycle riders,M,0,0,0,2,2,0,0,0,0,0,3,1

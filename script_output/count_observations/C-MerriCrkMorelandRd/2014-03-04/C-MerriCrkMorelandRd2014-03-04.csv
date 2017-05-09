@@ -1,0 +1,28 @@
+C-MerriCrkMorelandRd-2014-03-04
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+C-MerriCrkMorelandRd,Merri Creek Trail & Moreland Rd,Coburg,8.2,322040.61,5819193.3,29 C9,Merri Creek Trail,Moreland Rd
+
+countsite, count_date, bin_duration, counting, gender_split, counter
+C-MerriCrkMorelandRd,2014-03-04,15,bicycle riders,Y,Cathy Dowden
+
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-MerriCrkMorelandRd,2014-03-04 07:00:00,15,bicycle riders,F,0,1,0,0,0,2,0,0,0,0,0,0
+C-MerriCrkMorelandRd,2014-03-04 07:15:00,15,bicycle riders,F,0,2,0,0,0,0,0,0,0,0,1,1
+C-MerriCrkMorelandRd,2014-03-04 07:30:00,15,bicycle riders,F,0,3,0,1,0,1,0,0,0,0,1,0
+C-MerriCrkMorelandRd,2014-03-04 07:45:00,15,bicycle riders,F,0,1,0,1,0,0,1,1,0,0,0,0
+C-MerriCrkMorelandRd,2014-03-04 08:00:00,15,bicycle riders,F,0,8,0,0,2,0,0,1,1,1,1,0
+C-MerriCrkMorelandRd,2014-03-04 08:15:00,15,bicycle riders,F,0,1,1,1,2,0,0,2,0,0,4,0
+C-MerriCrkMorelandRd,2014-03-04 08:30:00,15,bicycle riders,F,0,13,1,2,1,0,0,1,1,0,1,0
+C-MerriCrkMorelandRd,2014-03-04 08:45:00,15,bicycle riders,F,0,6,0,2,1,0,0,2,0,0,1,0
+
+countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
+C-MerriCrkMorelandRd,2014-03-04 07:00:00,15,bicycle riders,M,1,6,0,2,2,0,0,1,0,0,1,0
+C-MerriCrkMorelandRd,2014-03-04 07:15:00,15,bicycle riders,M,0,3,0,0,2,1,1,1,0,0,1,1
+C-MerriCrkMorelandRd,2014-03-04 07:30:00,15,bicycle riders,M,0,4,1,1,1,0,1,2,1,1,8,0
+C-MerriCrkMorelandRd,2014-03-04 07:45:00,15,bicycle riders,M,1,7,1,2,1,1,0,1,0,0,1,1
+C-MerriCrkMorelandRd,2014-03-04 08:00:00,15,bicycle riders,M,2,10,0,4,1,0,0,1,2,0,5,0
+C-MerriCrkMorelandRd,2014-03-04 08:15:00,15,bicycle riders,M,0,20,1,3,4,3,0,0,0,0,2,1
+C-MerriCrkMorelandRd,2014-03-04 08:30:00,15,bicycle riders,M,0,10,1,2,3,0,0,2,1,0,1,0
+C-MerriCrkMorelandRd,2014-03-04 08:45:00,15,bicycle riders,M,0,9,0,1,1,0,0,0,2,0,2,0

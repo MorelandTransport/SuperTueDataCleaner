@@ -1,0 +1,4 @@
+countsite, dist_from_cbd, time, bin_duration, counting, gender, total, from_north, from_east, from_south, from_west, to_north, to_east, to_south, to_west, 
+BW-55TramParkSt, 5.2, 2017-03-07 07:00:00, 120, bicycle riders, NA, 287, 159, 21, 0, 107, 1, 90, 90, 32, 
+BW-55TramParkSt, 5.2, 2014-03-04 07:00:00, 120, bicycle riders, NA, 300, 129, 45, 5, 121, 6, 78, 78, 47, 
+BW-55TramParkSt, 5.2, 2013-03-05 07:00:00, 120, bicycle riders, NA, 245, 114, 25, 1, 105, 0, 88, 88, 31, 
