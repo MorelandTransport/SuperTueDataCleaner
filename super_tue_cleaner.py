@@ -24,8 +24,13 @@
 
 import os
 import collections
-from xlrd import open_workbook,xldate_as_tuple
 from datetime import date,datetime,time
+
+try:
+    from xlrd import open_workbook,xldate_as_tuple
+except:
+    print("Install python module xlrd.  Available from https://pypi.python.org/pypi/xlrd")
+    exit()
 
 # - functions  -
 def sum_with_na (dic):
