@@ -1,28 +1,28 @@
 BE-TruscottBrunswickRd-2011-03-01
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BE-TruscottBrunswickRd,Truscott / Amess St and Brunswick Road,Brunswick East,4.7,321645.0,5816805.39,29 K10,East Brunswick Shimmy,Brunswick Rd
+BE-TruscottBrunswickRd, Truscott / Amess St and Brunswick Road, Brunswick East, 4.7, 321645.0, 5816805.39, 29 K10, East Brunswick Shimmy, Brunswick Rd
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BE-TruscottBrunswickRd,2011-03-01,15,bicycle riders,Y,Stepehn Nowicki
+BE-TruscottBrunswickRd, 2011-03-01, 15, bicycle riders, Y, Stepehn Nowicki
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-TruscottBrunswickRd,2011-03-01 07:00:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,0,0
-BE-TruscottBrunswickRd,2011-03-01 07:15:00,15,bicycle riders,F,0,1,0,0,1,0,0,0,0,0,0,0
-BE-TruscottBrunswickRd,2011-03-01 07:30:00,15,bicycle riders,F,0,3,0,0,0,1,0,0,0,0,1,0
-BE-TruscottBrunswickRd,2011-03-01 07:45:00,15,bicycle riders,F,0,11,1,0,2,0,1,0,0,0,1,0
-BE-TruscottBrunswickRd,2011-03-01 08:00:00,15,bicycle riders,F,0,11,2,0,1,0,0,0,0,0,0,0
-BE-TruscottBrunswickRd,2011-03-01 08:15:00,15,bicycle riders,F,0,15,5,0,1,0,0,0,0,1,0,0
-BE-TruscottBrunswickRd,2011-03-01 08:30:00,15,bicycle riders,F,0,18,8,0,1,0,0,0,0,0,3,1
-BE-TruscottBrunswickRd,2011-03-01 08:45:00,15,bicycle riders,F,0,16,9,0,1,0,0,1,0,2,0,0
+BE-TruscottBrunswickRd, 2011-03-01 07:00:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 07:15:00, 15, bicycle riders, F, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 07:30:00, 15, bicycle riders, F, 0, 3, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
+BE-TruscottBrunswickRd, 2011-03-01 07:45:00, 15, bicycle riders, F, 0, 11, 1, 0, 2, 0, 1, 0, 0, 0, 1, 0
+BE-TruscottBrunswickRd, 2011-03-01 08:00:00, 15, bicycle riders, F, 0, 11, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 08:15:00, 15, bicycle riders, F, 0, 15, 5, 0, 1, 0, 0, 0, 0, 1, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 08:30:00, 15, bicycle riders, F, 0, 18, 8, 0, 1, 0, 0, 0, 0, 0, 3, 1
+BE-TruscottBrunswickRd, 2011-03-01 08:45:00, 15, bicycle riders, F, 0, 16, 9, 0, 1, 0, 0, 1, 0, 2, 0, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-TruscottBrunswickRd,2011-03-01 07:00:00,15,bicycle riders,M,0,1,1,0,6,0,0,0,0,0,1,0
-BE-TruscottBrunswickRd,2011-03-01 07:15:00,15,bicycle riders,M,0,7,4,1,3,0,0,1,0,0,4,1
-BE-TruscottBrunswickRd,2011-03-01 07:30:00,15,bicycle riders,M,0,10,4,0,1,1,0,0,0,1,1,0
-BE-TruscottBrunswickRd,2011-03-01 07:45:00,15,bicycle riders,M,0,11,1,1,6,0,0,0,0,1,0,1
-BE-TruscottBrunswickRd,2011-03-01 08:00:00,15,bicycle riders,M,0,9,4,1,4,0,0,1,0,0,0,0
-BE-TruscottBrunswickRd,2011-03-01 08:15:00,15,bicycle riders,M,0,18,13,0,7,0,0,0,0,0,0,0
-BE-TruscottBrunswickRd,2011-03-01 08:30:00,15,bicycle riders,M,0,13,8,1,1,0,0,0,0,0,4,1
-BE-TruscottBrunswickRd,2011-03-01 08:45:00,15,bicycle riders,M,0,13,11,0,0,0,0,0,0,0,2,1
+BE-TruscottBrunswickRd, 2011-03-01 07:00:00, 15, bicycle riders, M, 0, 1, 1, 0, 6, 0, 0, 0, 0, 0, 1, 0
+BE-TruscottBrunswickRd, 2011-03-01 07:15:00, 15, bicycle riders, M, 0, 7, 4, 1, 3, 0, 0, 1, 0, 0, 4, 1
+BE-TruscottBrunswickRd, 2011-03-01 07:30:00, 15, bicycle riders, M, 0, 10, 4, 0, 1, 1, 0, 0, 0, 1, 1, 0
+BE-TruscottBrunswickRd, 2011-03-01 07:45:00, 15, bicycle riders, M, 0, 11, 1, 1, 6, 0, 0, 0, 0, 1, 0, 1
+BE-TruscottBrunswickRd, 2011-03-01 08:00:00, 15, bicycle riders, M, 0, 9, 4, 1, 4, 0, 0, 1, 0, 0, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 08:15:00, 15, bicycle riders, M, 0, 18, 13, 0, 7, 0, 0, 0, 0, 0, 0, 0
+BE-TruscottBrunswickRd, 2011-03-01 08:30:00, 15, bicycle riders, M, 0, 13, 8, 1, 1, 0, 0, 0, 0, 0, 4, 1
+BE-TruscottBrunswickRd, 2011-03-01 08:45:00, 15, bicycle riders, M, 0, 13, 11, 0, 0, 0, 0, 0, 0, 0, 2, 1

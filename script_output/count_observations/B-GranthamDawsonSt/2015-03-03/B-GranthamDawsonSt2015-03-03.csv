@@ -1,28 +1,28 @@
 B-GranthamDawsonSt-2015-03-03
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-GranthamDawsonSt,Grantham St and Dawson St,Brunswick,6.1,319432.93,5817706.24,29 E8,Grantham St,Glenlyon - Dawson
+B-GranthamDawsonSt, Grantham St and Dawson St, Brunswick, 6.1, 319432.93, 5817706.24, 29 E8, Grantham St, Glenlyon - Dawson
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-B-GranthamDawsonSt,2015-03-03,15,bicycle riders,Y,Linda Birch
+B-GranthamDawsonSt, 2015-03-03, 15, bicycle riders, Y, Linda Birch
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-GranthamDawsonSt,2015-03-03 07:00:00,15,bicycle riders,F,NA,NA,NA,1,0,NA,0,NA,0,NA,3,2
-B-GranthamDawsonSt,2015-03-03 07:15:00,15,bicycle riders,F,NA,NA,NA,0,2,NA,0,NA,0,NA,1,3
-B-GranthamDawsonSt,2015-03-03 07:30:00,15,bicycle riders,F,NA,NA,NA,0,2,NA,0,NA,0,NA,3,5
-B-GranthamDawsonSt,2015-03-03 07:45:00,15,bicycle riders,F,NA,NA,NA,0,0,NA,0,NA,0,NA,3,2
-B-GranthamDawsonSt,2015-03-03 08:00:00,15,bicycle riders,F,NA,NA,NA,0,2,NA,2,NA,1,NA,3,4
-B-GranthamDawsonSt,2015-03-03 08:15:00,15,bicycle riders,F,NA,NA,NA,1,1,NA,0,NA,0,NA,6,4
-B-GranthamDawsonSt,2015-03-03 08:30:00,15,bicycle riders,F,NA,NA,NA,0,1,NA,3,NA,0,NA,3,7
-B-GranthamDawsonSt,2015-03-03 08:45:00,15,bicycle riders,F,NA,NA,NA,0,2,NA,2,NA,0,NA,1,2
+B-GranthamDawsonSt, 2015-03-03 07:00:00, 15, bicycle riders, F, NA, NA, NA, 1, 0, NA, 0, NA, 0, NA, 3, 2
+B-GranthamDawsonSt, 2015-03-03 07:15:00, 15, bicycle riders, F, NA, NA, NA, 0, 2, NA, 0, NA, 0, NA, 1, 3
+B-GranthamDawsonSt, 2015-03-03 07:30:00, 15, bicycle riders, F, NA, NA, NA, 0, 2, NA, 0, NA, 0, NA, 3, 5
+B-GranthamDawsonSt, 2015-03-03 07:45:00, 15, bicycle riders, F, NA, NA, NA, 0, 0, NA, 0, NA, 0, NA, 3, 2
+B-GranthamDawsonSt, 2015-03-03 08:00:00, 15, bicycle riders, F, NA, NA, NA, 0, 2, NA, 2, NA, 1, NA, 3, 4
+B-GranthamDawsonSt, 2015-03-03 08:15:00, 15, bicycle riders, F, NA, NA, NA, 1, 1, NA, 0, NA, 0, NA, 6, 4
+B-GranthamDawsonSt, 2015-03-03 08:30:00, 15, bicycle riders, F, NA, NA, NA, 0, 1, NA, 3, NA, 0, NA, 3, 7
+B-GranthamDawsonSt, 2015-03-03 08:45:00, 15, bicycle riders, F, NA, NA, NA, 0, 2, NA, 2, NA, 0, NA, 1, 2
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-GranthamDawsonSt,2015-03-03 07:00:00,15,bicycle riders,M,NA,NA,NA,0,0,NA,0,NA,0,NA,7,1
-B-GranthamDawsonSt,2015-03-03 07:15:00,15,bicycle riders,M,NA,NA,NA,0,2,NA,0,NA,0,NA,3,3
-B-GranthamDawsonSt,2015-03-03 07:30:00,15,bicycle riders,M,NA,NA,NA,1,1,NA,0,NA,0,NA,9,2
-B-GranthamDawsonSt,2015-03-03 07:45:00,15,bicycle riders,M,NA,NA,NA,0,1,NA,1,NA,1,NA,7,8
-B-GranthamDawsonSt,2015-03-03 08:00:00,15,bicycle riders,M,NA,NA,NA,3,1,NA,1,NA,0,NA,6,5
-B-GranthamDawsonSt,2015-03-03 08:15:00,15,bicycle riders,M,NA,NA,NA,0,4,NA,0,NA,0,NA,6,7
-B-GranthamDawsonSt,2015-03-03 08:30:00,15,bicycle riders,M,NA,NA,NA,0,7,NA,5,NA,0,NA,6,6
-B-GranthamDawsonSt,2015-03-03 08:45:00,15,bicycle riders,M,NA,NA,NA,0,3,NA,1,NA,1,NA,6,0
+B-GranthamDawsonSt, 2015-03-03 07:00:00, 15, bicycle riders, M, NA, NA, NA, 0, 0, NA, 0, NA, 0, NA, 7, 1
+B-GranthamDawsonSt, 2015-03-03 07:15:00, 15, bicycle riders, M, NA, NA, NA, 0, 2, NA, 0, NA, 0, NA, 3, 3
+B-GranthamDawsonSt, 2015-03-03 07:30:00, 15, bicycle riders, M, NA, NA, NA, 1, 1, NA, 0, NA, 0, NA, 9, 2
+B-GranthamDawsonSt, 2015-03-03 07:45:00, 15, bicycle riders, M, NA, NA, NA, 0, 1, NA, 1, NA, 1, NA, 7, 8
+B-GranthamDawsonSt, 2015-03-03 08:00:00, 15, bicycle riders, M, NA, NA, NA, 3, 1, NA, 1, NA, 0, NA, 6, 5
+B-GranthamDawsonSt, 2015-03-03 08:15:00, 15, bicycle riders, M, NA, NA, NA, 0, 4, NA, 0, NA, 0, NA, 6, 7
+B-GranthamDawsonSt, 2015-03-03 08:30:00, 15, bicycle riders, M, NA, NA, NA, 0, 7, NA, 5, NA, 0, NA, 6, 6
+B-GranthamDawsonSt, 2015-03-03 08:45:00, 15, bicycle riders, M, NA, NA, NA, 0, 3, NA, 1, NA, 1, NA, 6, 0

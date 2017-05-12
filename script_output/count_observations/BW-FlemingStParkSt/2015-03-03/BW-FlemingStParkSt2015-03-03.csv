@@ -1,28 +1,28 @@
 BW-FlemingStParkSt-2015-03-03
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BW-FlemingStParkSt,Fleming St and Park St,Brunswick West,5.6,319031.96,5817025.18,29 D10,Fleming St,Park St
+BW-FlemingStParkSt, Fleming St and Park St, Brunswick West, 5.6, 319031.96, 5817025.18, 29 D10, Fleming St, Park St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BW-FlemingStParkSt,2015-03-03,15,bicycle riders,Y,Brett Giannini
+BW-FlemingStParkSt, 2015-03-03, 15, bicycle riders, Y, Brett Giannini
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-FlemingStParkSt,2015-03-03 07:00:00,15,bicycle riders,F,2,NA,1,NA,0,0,NA,NA,NA,0,0,NA
-BW-FlemingStParkSt,2015-03-03 07:15:00,15,bicycle riders,F,5,NA,0,NA,0,0,NA,NA,NA,0,1,NA
-BW-FlemingStParkSt,2015-03-03 07:30:00,15,bicycle riders,F,1,NA,0,NA,0,0,NA,NA,NA,0,2,NA
-BW-FlemingStParkSt,2015-03-03 07:45:00,15,bicycle riders,F,2,NA,1,NA,0,0,NA,NA,NA,0,2,NA
-BW-FlemingStParkSt,2015-03-03 08:00:00,15,bicycle riders,F,1,NA,0,NA,1,0,NA,NA,NA,0,0,NA
-BW-FlemingStParkSt,2015-03-03 08:15:00,15,bicycle riders,F,5,NA,0,NA,1,0,NA,NA,NA,0,1,NA
-BW-FlemingStParkSt,2015-03-03 08:30:00,15,bicycle riders,F,2,NA,0,NA,0,0,NA,NA,NA,1,2,NA
-BW-FlemingStParkSt,2015-03-03 08:45:00,15,bicycle riders,F,7,NA,0,NA,0,0,NA,NA,NA,0,1,NA
+BW-FlemingStParkSt, 2015-03-03 07:00:00, 15, bicycle riders, F, 2, NA, 1, NA, 0, 0, NA, NA, NA, 0, 0, NA
+BW-FlemingStParkSt, 2015-03-03 07:15:00, 15, bicycle riders, F, 5, NA, 0, NA, 0, 0, NA, NA, NA, 0, 1, NA
+BW-FlemingStParkSt, 2015-03-03 07:30:00, 15, bicycle riders, F, 1, NA, 0, NA, 0, 0, NA, NA, NA, 0, 2, NA
+BW-FlemingStParkSt, 2015-03-03 07:45:00, 15, bicycle riders, F, 2, NA, 1, NA, 0, 0, NA, NA, NA, 0, 2, NA
+BW-FlemingStParkSt, 2015-03-03 08:00:00, 15, bicycle riders, F, 1, NA, 0, NA, 1, 0, NA, NA, NA, 0, 0, NA
+BW-FlemingStParkSt, 2015-03-03 08:15:00, 15, bicycle riders, F, 5, NA, 0, NA, 1, 0, NA, NA, NA, 0, 1, NA
+BW-FlemingStParkSt, 2015-03-03 08:30:00, 15, bicycle riders, F, 2, NA, 0, NA, 0, 0, NA, NA, NA, 1, 2, NA
+BW-FlemingStParkSt, 2015-03-03 08:45:00, 15, bicycle riders, F, 7, NA, 0, NA, 0, 0, NA, NA, NA, 0, 1, NA
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-FlemingStParkSt,2015-03-03 07:00:00,15,bicycle riders,M,3,NA,1,NA,0,0,NA,NA,NA,0,1,NA
-BW-FlemingStParkSt,2015-03-03 07:15:00,15,bicycle riders,M,4,NA,0,NA,0,1,NA,NA,NA,0,2,NA
-BW-FlemingStParkSt,2015-03-03 07:30:00,15,bicycle riders,M,5,NA,1,NA,1,1,NA,NA,NA,0,4,NA
-BW-FlemingStParkSt,2015-03-03 07:45:00,15,bicycle riders,M,7,NA,2,NA,0,1,NA,NA,NA,0,2,NA
-BW-FlemingStParkSt,2015-03-03 08:00:00,15,bicycle riders,M,11,NA,1,NA,4,0,NA,NA,NA,0,1,NA
-BW-FlemingStParkSt,2015-03-03 08:15:00,15,bicycle riders,M,12,NA,1,NA,1,0,NA,NA,NA,1,4,NA
-BW-FlemingStParkSt,2015-03-03 08:30:00,15,bicycle riders,M,7,NA,1,NA,0,0,NA,NA,NA,1,1,NA
-BW-FlemingStParkSt,2015-03-03 08:45:00,15,bicycle riders,M,11,NA,1,NA,2,0,NA,NA,NA,1,0,NA
+BW-FlemingStParkSt, 2015-03-03 07:00:00, 15, bicycle riders, M, 3, NA, 1, NA, 0, 0, NA, NA, NA, 0, 1, NA
+BW-FlemingStParkSt, 2015-03-03 07:15:00, 15, bicycle riders, M, 4, NA, 0, NA, 0, 1, NA, NA, NA, 0, 2, NA
+BW-FlemingStParkSt, 2015-03-03 07:30:00, 15, bicycle riders, M, 5, NA, 1, NA, 1, 1, NA, NA, NA, 0, 4, NA
+BW-FlemingStParkSt, 2015-03-03 07:45:00, 15, bicycle riders, M, 7, NA, 2, NA, 0, 1, NA, NA, NA, 0, 2, NA
+BW-FlemingStParkSt, 2015-03-03 08:00:00, 15, bicycle riders, M, 11, NA, 1, NA, 4, 0, NA, NA, NA, 0, 1, NA
+BW-FlemingStParkSt, 2015-03-03 08:15:00, 15, bicycle riders, M, 12, NA, 1, NA, 1, 0, NA, NA, NA, 1, 4, NA
+BW-FlemingStParkSt, 2015-03-03 08:30:00, 15, bicycle riders, M, 7, NA, 1, NA, 0, 0, NA, NA, NA, 1, 1, NA
+BW-FlemingStParkSt, 2015-03-03 08:45:00, 15, bicycle riders, M, 11, NA, 1, NA, 2, 0, NA, NA, NA, 1, 0, NA

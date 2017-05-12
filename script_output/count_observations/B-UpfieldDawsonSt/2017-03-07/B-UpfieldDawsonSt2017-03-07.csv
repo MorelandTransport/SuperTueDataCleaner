@@ -1,18 +1,18 @@
 B-UpfieldDawsonSt-2017-03-07
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-UpfieldDawsonSt,Upfield Path and Dawson St,Brunswick,5.3,320448.88,5817573.33,29 G8,Upfield Shared Path,Glenlyon - Dawson
+B-UpfieldDawsonSt, Upfield Path and Dawson St, Brunswick, 5.3, 320448.88, 5817573.33, 29 G8, Upfield Shared Path, Glenlyon - Dawson
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-B-UpfieldDawsonSt,2017-03-07,15,bicycle riders,,Denise Whimpey & Gavin Anderson
+B-UpfieldDawsonSt, 2017-03-07, 15, bicycle riders, , Denise Whimpey & Gavin Anderson
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-UpfieldDawsonSt,2017-03-07 07:00:00,15,bicycle riders,NA,0,23,0,2,2,2,0,0,1,1,2,2
-B-UpfieldDawsonSt,2017-03-07 07:15:00,15,bicycle riders,NA,0,33,0,0,5,0,0,1,1,2,0,1
-B-UpfieldDawsonSt,2017-03-07 07:30:00,15,bicycle riders,NA,0,65,3,3,4,3,1,2,0,0,2,2
-B-UpfieldDawsonSt,2017-03-07 07:45:00,15,bicycle riders,NA,2,48,0,0,5,0,0,5,1,0,7,1
-B-UpfieldDawsonSt,2017-03-07 08:00:00,15,bicycle riders,NA,2,90,0,3,4,2,0,3,0,0,5,6
-B-UpfieldDawsonSt,2017-03-07 08:15:00,15,bicycle riders,NA,6,102,5,0,5,1,0,4,0,0,4,2
-B-UpfieldDawsonSt,2017-03-07 08:30:00,15,bicycle riders,NA,0,83,7,5,4,0,0,4,0,0,2,7
-B-UpfieldDawsonSt,2017-03-07 08:45:00,15,bicycle riders,NA,4,38,5,0,1,0,1,3,0,0,8,3
+B-UpfieldDawsonSt, 2017-03-07 07:00:00, 15, bicycle riders, NA, 0, 23, 0, 2, 2, 2, 0, 0, 1, 1, 2, 2
+B-UpfieldDawsonSt, 2017-03-07 07:15:00, 15, bicycle riders, NA, 0, 33, 0, 0, 5, 0, 0, 1, 1, 2, 0, 1
+B-UpfieldDawsonSt, 2017-03-07 07:30:00, 15, bicycle riders, NA, 0, 65, 3, 3, 4, 3, 1, 2, 0, 0, 2, 2
+B-UpfieldDawsonSt, 2017-03-07 07:45:00, 15, bicycle riders, NA, 2, 48, 0, 0, 5, 0, 0, 5, 1, 0, 7, 1
+B-UpfieldDawsonSt, 2017-03-07 08:00:00, 15, bicycle riders, NA, 2, 90, 0, 3, 4, 2, 0, 3, 0, 0, 5, 6
+B-UpfieldDawsonSt, 2017-03-07 08:15:00, 15, bicycle riders, NA, 6, 102, 5, 0, 5, 1, 0, 4, 0, 0, 4, 2
+B-UpfieldDawsonSt, 2017-03-07 08:30:00, 15, bicycle riders, NA, 0, 83, 7, 5, 4, 0, 0, 4, 0, 0, 2, 7
+B-UpfieldDawsonSt, 2017-03-07 08:45:00, 15, bicycle riders, NA, 4, 38, 5, 0, 1, 0, 1, 3, 0, 0, 8, 3

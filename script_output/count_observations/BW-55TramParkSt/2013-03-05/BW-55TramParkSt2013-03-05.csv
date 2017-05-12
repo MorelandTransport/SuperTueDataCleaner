@@ -1,28 +1,28 @@
 BW-55TramParkSt-2013-03-05
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BW-55TramParkSt,55 Tram and Park St,Brunswick West,5.2,319428.72,5816965.79,29 E10,West Brunswick Shimmy,Park St
+BW-55TramParkSt, 55 Tram and Park St, Brunswick West, 5.2, 319428.72, 5816965.79, 29 E10, West Brunswick Shimmy, Park St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BW-55TramParkSt,2013-03-05,15,bicycle riders,Y,
+BW-55TramParkSt, 2013-03-05, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-55TramParkSt,2013-03-05 07:00:00,15,bicycle riders,F,0,2,0,0,1,0,0,0,0,0,2,0
-BW-55TramParkSt,2013-03-05 07:15:00,15,bicycle riders,F,2,1,0,0,1,0,0,0,0,0,2,0
-BW-55TramParkSt,2013-03-05 07:30:00,15,bicycle riders,F,0,2,0,0,2,0,0,0,0,0,4,0
-BW-55TramParkSt,2013-03-05 07:45:00,15,bicycle riders,F,1,9,0,0,1,0,0,0,0,0,1,1
-BW-55TramParkSt,2013-03-05 08:00:00,15,bicycle riders,F,1,6,0,0,1,0,0,0,0,0,5,2
-BW-55TramParkSt,2013-03-05 08:15:00,15,bicycle riders,F,3,3,0,1,1,0,0,0,0,0,5,4
-BW-55TramParkSt,2013-03-05 08:30:00,15,bicycle riders,F,0,5,0,0,1,0,0,0,0,0,2,1
-BW-55TramParkSt,2013-03-05 08:45:00,15,bicycle riders,F,0,7,0,0,1,0,0,0,0,0,5,4
+BW-55TramParkSt, 2013-03-05 07:00:00, 15, bicycle riders, F, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0
+BW-55TramParkSt, 2013-03-05 07:15:00, 15, bicycle riders, F, 2, 1, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0
+BW-55TramParkSt, 2013-03-05 07:30:00, 15, bicycle riders, F, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 4, 0
+BW-55TramParkSt, 2013-03-05 07:45:00, 15, bicycle riders, F, 1, 9, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1
+BW-55TramParkSt, 2013-03-05 08:00:00, 15, bicycle riders, F, 1, 6, 0, 0, 1, 0, 0, 0, 0, 0, 5, 2
+BW-55TramParkSt, 2013-03-05 08:15:00, 15, bicycle riders, F, 3, 3, 0, 1, 1, 0, 0, 0, 0, 0, 5, 4
+BW-55TramParkSt, 2013-03-05 08:30:00, 15, bicycle riders, F, 0, 5, 0, 0, 1, 0, 0, 0, 0, 0, 2, 1
+BW-55TramParkSt, 2013-03-05 08:45:00, 15, bicycle riders, F, 0, 7, 0, 0, 1, 0, 0, 0, 0, 0, 5, 4
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-55TramParkSt,2013-03-05 07:00:00,15,bicycle riders,M,0,3,0,0,1,0,0,0,0,0,4,1
-BW-55TramParkSt,2013-03-05 07:15:00,15,bicycle riders,M,0,6,0,0,1,0,0,0,0,0,4,5
-BW-55TramParkSt,2013-03-05 07:30:00,15,bicycle riders,M,0,5,2,0,2,0,0,0,0,0,6,0
-BW-55TramParkSt,2013-03-05 07:45:00,15,bicycle riders,M,1,6,0,0,1,0,0,0,0,0,4,2
-BW-55TramParkSt,2013-03-05 08:00:00,15,bicycle riders,M,7,10,1,0,2,0,1,0,0,0,9,1
-BW-55TramParkSt,2013-03-05 08:15:00,15,bicycle riders,M,1,7,0,0,3,0,0,0,0,0,5,7
-BW-55TramParkSt,2013-03-05 08:30:00,15,bicycle riders,M,2,9,2,0,1,0,0,0,0,0,4,5
-BW-55TramParkSt,2013-03-05 08:45:00,15,bicycle riders,M,3,6,1,0,4,0,0,0,0,0,5,5
+BW-55TramParkSt, 2013-03-05 07:00:00, 15, bicycle riders, M, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 4, 1
+BW-55TramParkSt, 2013-03-05 07:15:00, 15, bicycle riders, M, 0, 6, 0, 0, 1, 0, 0, 0, 0, 0, 4, 5
+BW-55TramParkSt, 2013-03-05 07:30:00, 15, bicycle riders, M, 0, 5, 2, 0, 2, 0, 0, 0, 0, 0, 6, 0
+BW-55TramParkSt, 2013-03-05 07:45:00, 15, bicycle riders, M, 1, 6, 0, 0, 1, 0, 0, 0, 0, 0, 4, 2
+BW-55TramParkSt, 2013-03-05 08:00:00, 15, bicycle riders, M, 7, 10, 1, 0, 2, 0, 1, 0, 0, 0, 9, 1
+BW-55TramParkSt, 2013-03-05 08:15:00, 15, bicycle riders, M, 1, 7, 0, 0, 3, 0, 0, 0, 0, 0, 5, 7
+BW-55TramParkSt, 2013-03-05 08:30:00, 15, bicycle riders, M, 2, 9, 2, 0, 1, 0, 0, 0, 0, 0, 4, 5
+BW-55TramParkSt, 2013-03-05 08:45:00, 15, bicycle riders, M, 3, 6, 1, 0, 4, 0, 0, 0, 0, 0, 5, 5

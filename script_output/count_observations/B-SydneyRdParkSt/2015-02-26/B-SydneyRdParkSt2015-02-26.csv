@@ -1,28 +1,28 @@
 B-SydneyRdParkSt-2015-02-26
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-SydneyRdParkSt,Sydney Rd and Park St,Brunswick,4.4,320365.86,5816853.53,29 G10,Sydney Rd,Park St
+B-SydneyRdParkSt, Sydney Rd and Park St, Brunswick, 4.4, 320365.86, 5816853.53, 29 G10, Sydney Rd, Park St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-B-SydneyRdParkSt,2015-02-26,15,bicycle riders,Y,
+B-SydneyRdParkSt, 2015-02-26, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-SydneyRdParkSt,2015-02-26 07:00:00,15,bicycle riders,F,2,10,0,0,2,0,0,1,1,0,4,3
-B-SydneyRdParkSt,2015-02-26 07:15:00,15,bicycle riders,F,1,19,0,2,0,0,0,0,0,0,5,5
-B-SydneyRdParkSt,2015-02-26 07:30:00,15,bicycle riders,F,4,24,0,3,4,1,0,1,0,0,14,11
-B-SydneyRdParkSt,2015-02-26 07:45:00,15,bicycle riders,F,2,40,0,0,3,0,0,1,0,0,13,26
-B-SydneyRdParkSt,2015-02-26 08:00:00,15,bicycle riders,F,4,38,0,1,1,0,0,1,0,0,19,36
-B-SydneyRdParkSt,2015-02-26 08:15:00,15,bicycle riders,F,9,58,0,2,3,1,0,1,0,0,21,34
-B-SydneyRdParkSt,2015-02-26 08:30:00,15,bicycle riders,F,1,44,0,1,7,1,1,1,0,0,26,34
-B-SydneyRdParkSt,2015-02-26 08:45:00,15,bicycle riders,F,3,39,0,2,3,1,0,0,0,0,11,26
+B-SydneyRdParkSt, 2015-02-26 07:00:00, 15, bicycle riders, F, 2, 10, 0, 0, 2, 0, 0, 1, 1, 0, 4, 3
+B-SydneyRdParkSt, 2015-02-26 07:15:00, 15, bicycle riders, F, 1, 19, 0, 2, 0, 0, 0, 0, 0, 0, 5, 5
+B-SydneyRdParkSt, 2015-02-26 07:30:00, 15, bicycle riders, F, 4, 24, 0, 3, 4, 1, 0, 1, 0, 0, 14, 11
+B-SydneyRdParkSt, 2015-02-26 07:45:00, 15, bicycle riders, F, 2, 40, 0, 0, 3, 0, 0, 1, 0, 0, 13, 26
+B-SydneyRdParkSt, 2015-02-26 08:00:00, 15, bicycle riders, F, 4, 38, 0, 1, 1, 0, 0, 1, 0, 0, 19, 36
+B-SydneyRdParkSt, 2015-02-26 08:15:00, 15, bicycle riders, F, 9, 58, 0, 2, 3, 1, 0, 1, 0, 0, 21, 34
+B-SydneyRdParkSt, 2015-02-26 08:30:00, 15, bicycle riders, F, 1, 44, 0, 1, 7, 1, 1, 1, 0, 0, 26, 34
+B-SydneyRdParkSt, 2015-02-26 08:45:00, 15, bicycle riders, F, 3, 39, 0, 2, 3, 1, 0, 0, 0, 0, 11, 26
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-SydneyRdParkSt,2015-02-26 07:00:00,15,bicycle riders,M,0,4,0,2,1,0,0,0,0,0,6,6
-B-SydneyRdParkSt,2015-02-26 07:15:00,15,bicycle riders,M,0,16,0,1,0,0,0,0,0,0,8,7
-B-SydneyRdParkSt,2015-02-26 07:30:00,15,bicycle riders,M,3,15,0,3,2,0,0,0,0,0,13,13
-B-SydneyRdParkSt,2015-02-26 07:45:00,15,bicycle riders,M,5,11,0,2,2,0,0,2,0,0,8,10
-B-SydneyRdParkSt,2015-02-26 08:00:00,15,bicycle riders,M,1,29,1,2,0,0,0,0,0,0,6,20
-B-SydneyRdParkSt,2015-02-26 08:15:00,15,bicycle riders,M,3,19,0,0,1,0,0,0,0,0,29,30
-B-SydneyRdParkSt,2015-02-26 08:30:00,15,bicycle riders,M,2,23,0,0,2,0,0,0,0,0,18,20
-B-SydneyRdParkSt,2015-02-26 08:45:00,15,bicycle riders,M,1,44,0,1,2,0,1,0,0,0,14,22
+B-SydneyRdParkSt, 2015-02-26 07:00:00, 15, bicycle riders, M, 0, 4, 0, 2, 1, 0, 0, 0, 0, 0, 6, 6
+B-SydneyRdParkSt, 2015-02-26 07:15:00, 15, bicycle riders, M, 0, 16, 0, 1, 0, 0, 0, 0, 0, 0, 8, 7
+B-SydneyRdParkSt, 2015-02-26 07:30:00, 15, bicycle riders, M, 3, 15, 0, 3, 2, 0, 0, 0, 0, 0, 13, 13
+B-SydneyRdParkSt, 2015-02-26 07:45:00, 15, bicycle riders, M, 5, 11, 0, 2, 2, 0, 0, 2, 0, 0, 8, 10
+B-SydneyRdParkSt, 2015-02-26 08:00:00, 15, bicycle riders, M, 1, 29, 1, 2, 0, 0, 0, 0, 0, 0, 6, 20
+B-SydneyRdParkSt, 2015-02-26 08:15:00, 15, bicycle riders, M, 3, 19, 0, 0, 1, 0, 0, 0, 0, 0, 29, 30
+B-SydneyRdParkSt, 2015-02-26 08:30:00, 15, bicycle riders, M, 2, 23, 0, 0, 2, 0, 0, 0, 0, 0, 18, 20
+B-SydneyRdParkSt, 2015-02-26 08:45:00, 15, bicycle riders, M, 1, 44, 0, 1, 2, 0, 1, 0, 0, 0, 14, 22

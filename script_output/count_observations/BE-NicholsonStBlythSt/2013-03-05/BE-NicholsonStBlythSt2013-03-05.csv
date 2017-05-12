@@ -1,28 +1,28 @@
 BE-NicholsonStBlythSt-2013-03-05
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BE-NicholsonStBlythSt,Nicholson St  & Blyth St,Brunswick East,6.3,322101.18,5818077.54,30 A7,Nicholson St,Blyth St
+BE-NicholsonStBlythSt, Nicholson St  & Blyth St, Brunswick East, 6.3, 322101.18, 5818077.54, 30 A7, Nicholson St, Blyth St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BE-NicholsonStBlythSt,2013-03-05,15,bicycle riders,Y,
+BE-NicholsonStBlythSt, 2013-03-05, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-NicholsonStBlythSt,2013-03-05 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,2,0
-BE-NicholsonStBlythSt,2013-03-05 07:15:00,15,bicycle riders,F,0,0,0,0,2,0,0,0,0,0,2,0
-BE-NicholsonStBlythSt,2013-03-05 07:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,2,0,1,1,0
-BE-NicholsonStBlythSt,2013-03-05 07:45:00,15,bicycle riders,F,0,0,0,0,1,0,0,4,0,2,1,0
-BE-NicholsonStBlythSt,2013-03-05 08:00:00,15,bicycle riders,F,0,4,0,0,4,1,0,5,0,2,1,0
-BE-NicholsonStBlythSt,2013-03-05 08:15:00,15,bicycle riders,F,0,0,0,0,1,1,0,2,0,0,3,0
-BE-NicholsonStBlythSt,2013-03-05 08:30:00,15,bicycle riders,F,0,0,0,0,1,1,0,5,0,1,2,1
-BE-NicholsonStBlythSt,2013-03-05 08:45:00,15,bicycle riders,F,0,2,0,1,1,2,1,6,0,1,2,2
+BE-NicholsonStBlythSt, 2013-03-05 07:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0
+BE-NicholsonStBlythSt, 2013-03-05 07:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2, 0
+BE-NicholsonStBlythSt, 2013-03-05 07:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0
+BE-NicholsonStBlythSt, 2013-03-05 07:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 1, 0, 0, 4, 0, 2, 1, 0
+BE-NicholsonStBlythSt, 2013-03-05 08:00:00, 15, bicycle riders, F, 0, 4, 0, 0, 4, 1, 0, 5, 0, 2, 1, 0
+BE-NicholsonStBlythSt, 2013-03-05 08:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 1, 1, 0, 2, 0, 0, 3, 0
+BE-NicholsonStBlythSt, 2013-03-05 08:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 1, 1, 0, 5, 0, 1, 2, 1
+BE-NicholsonStBlythSt, 2013-03-05 08:45:00, 15, bicycle riders, F, 0, 2, 0, 1, 1, 2, 1, 6, 0, 1, 2, 2
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-NicholsonStBlythSt,2013-03-05 07:00:00,15,bicycle riders,M,0,2,0,0,1,0,0,2,0,0,3,0
-BE-NicholsonStBlythSt,2013-03-05 07:15:00,15,bicycle riders,M,0,0,2,0,3,0,0,0,0,0,1,0
-BE-NicholsonStBlythSt,2013-03-05 07:30:00,15,bicycle riders,M,0,0,0,2,1,1,0,6,0,1,3,1
-BE-NicholsonStBlythSt,2013-03-05 07:45:00,15,bicycle riders,M,0,1,2,1,2,1,0,4,0,1,0,0
-BE-NicholsonStBlythSt,2013-03-05 08:00:00,15,bicycle riders,M,0,0,2,0,2,0,0,8,0,0,3,0
-BE-NicholsonStBlythSt,2013-03-05 08:15:00,15,bicycle riders,M,0,1,1,0,1,0,0,8,0,1,3,1
-BE-NicholsonStBlythSt,2013-03-05 08:30:00,15,bicycle riders,M,0,2,1,0,1,4,1,6,0,1,4,1
-BE-NicholsonStBlythSt,2013-03-05 08:45:00,15,bicycle riders,M,0,1,1,0,0,0,0,8,0,1,0,1
+BE-NicholsonStBlythSt, 2013-03-05 07:00:00, 15, bicycle riders, M, 0, 2, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0
+BE-NicholsonStBlythSt, 2013-03-05 07:15:00, 15, bicycle riders, M, 0, 0, 2, 0, 3, 0, 0, 0, 0, 0, 1, 0
+BE-NicholsonStBlythSt, 2013-03-05 07:30:00, 15, bicycle riders, M, 0, 0, 0, 2, 1, 1, 0, 6, 0, 1, 3, 1
+BE-NicholsonStBlythSt, 2013-03-05 07:45:00, 15, bicycle riders, M, 0, 1, 2, 1, 2, 1, 0, 4, 0, 1, 0, 0
+BE-NicholsonStBlythSt, 2013-03-05 08:00:00, 15, bicycle riders, M, 0, 0, 2, 0, 2, 0, 0, 8, 0, 0, 3, 0
+BE-NicholsonStBlythSt, 2013-03-05 08:15:00, 15, bicycle riders, M, 0, 1, 1, 0, 1, 0, 0, 8, 0, 1, 3, 1
+BE-NicholsonStBlythSt, 2013-03-05 08:30:00, 15, bicycle riders, M, 0, 2, 1, 0, 1, 4, 1, 6, 0, 1, 4, 1
+BE-NicholsonStBlythSt, 2013-03-05 08:45:00, 15, bicycle riders, M, 0, 1, 1, 0, 0, 0, 0, 8, 0, 1, 0, 1

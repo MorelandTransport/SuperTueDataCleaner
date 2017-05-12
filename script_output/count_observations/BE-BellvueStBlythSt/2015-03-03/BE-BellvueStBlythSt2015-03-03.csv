@@ -1,28 +1,28 @@
 BE-BellvueStBlythSt-2015-03-03
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BE-BellvueStBlythSt,Bellvue St Elesbury (EB Shimmy) and Blyth St,Brunswick East,6.4,321842.98,5818104.26,29 G10,East Brunswick Shimmy,Blyth St
+BE-BellvueStBlythSt, Bellvue St Elesbury (EB Shimmy) and Blyth St, Brunswick East, 6.4, 321842.98, 5818104.26, 29 G10, East Brunswick Shimmy, Blyth St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BE-BellvueStBlythSt,2015-03-03,15,bicycle riders,Y,Pam Duncan
+BE-BellvueStBlythSt, 2015-03-03, 15, bicycle riders, Y, Pam Duncan
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-BellvueStBlythSt,2015-03-03 07:00:00,15,bicycle riders,F,0,2,0,0,0,0,0,0,0,0,0,2
-BE-BellvueStBlythSt,2015-03-03 07:15:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,0,0
-BE-BellvueStBlythSt,2015-03-03 07:30:00,15,bicycle riders,F,0,3,0,1,3,0,0,0,0,0,1,0
-BE-BellvueStBlythSt,2015-03-03 07:45:00,15,bicycle riders,F,0,8,0,0,3,0,1,1,0,0,1,1
-BE-BellvueStBlythSt,2015-03-03 08:00:00,15,bicycle riders,F,0,5,0,1,0,0,0,0,0,0,3,0
-BE-BellvueStBlythSt,2015-03-03 08:15:00,15,bicycle riders,F,0,9,0,1,2,0,0,0,0,0,2,1
-BE-BellvueStBlythSt,2015-03-03 08:30:00,15,bicycle riders,F,0,5,0,0,1,0,0,1,0,0,1,1
-BE-BellvueStBlythSt,2015-03-03 08:45:00,15,bicycle riders,F,1,9,0,0,1,0,0,3,0,0,4,0
+BE-BellvueStBlythSt, 2015-03-03 07:00:00, 15, bicycle riders, F, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+BE-BellvueStBlythSt, 2015-03-03 07:15:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BE-BellvueStBlythSt, 2015-03-03 07:30:00, 15, bicycle riders, F, 0, 3, 0, 1, 3, 0, 0, 0, 0, 0, 1, 0
+BE-BellvueStBlythSt, 2015-03-03 07:45:00, 15, bicycle riders, F, 0, 8, 0, 0, 3, 0, 1, 1, 0, 0, 1, 1
+BE-BellvueStBlythSt, 2015-03-03 08:00:00, 15, bicycle riders, F, 0, 5, 0, 1, 0, 0, 0, 0, 0, 0, 3, 0
+BE-BellvueStBlythSt, 2015-03-03 08:15:00, 15, bicycle riders, F, 0, 9, 0, 1, 2, 0, 0, 0, 0, 0, 2, 1
+BE-BellvueStBlythSt, 2015-03-03 08:30:00, 15, bicycle riders, F, 0, 5, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1
+BE-BellvueStBlythSt, 2015-03-03 08:45:00, 15, bicycle riders, F, 1, 9, 0, 0, 1, 0, 0, 3, 0, 0, 4, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BE-BellvueStBlythSt,2015-03-03 07:00:00,15,bicycle riders,M,0,2,1,1,1,0,0,0,0,0,0,1
-BE-BellvueStBlythSt,2015-03-03 07:15:00,15,bicycle riders,M,0,3,0,0,1,0,0,0,0,0,2,1
-BE-BellvueStBlythSt,2015-03-03 07:30:00,15,bicycle riders,M,0,4,0,0,2,0,0,0,1,0,1,1
-BE-BellvueStBlythSt,2015-03-03 07:45:00,15,bicycle riders,M,0,8,1,0,4,0,0,1,0,1,5,0
-BE-BellvueStBlythSt,2015-03-03 08:00:00,15,bicycle riders,M,0,6,0,0,2,0,0,1,0,1,2,0
-BE-BellvueStBlythSt,2015-03-03 08:15:00,15,bicycle riders,M,1,6,0,1,1,0,0,2,0,0,1,2
-BE-BellvueStBlythSt,2015-03-03 08:30:00,15,bicycle riders,M,0,10,0,0,3,0,0,3,0,0,3,1
-BE-BellvueStBlythSt,2015-03-03 08:45:00,15,bicycle riders,M,1,6,0,2,2,0,0,2,1,0,3,1
+BE-BellvueStBlythSt, 2015-03-03 07:00:00, 15, bicycle riders, M, 0, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1
+BE-BellvueStBlythSt, 2015-03-03 07:15:00, 15, bicycle riders, M, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 2, 1
+BE-BellvueStBlythSt, 2015-03-03 07:30:00, 15, bicycle riders, M, 0, 4, 0, 0, 2, 0, 0, 0, 1, 0, 1, 1
+BE-BellvueStBlythSt, 2015-03-03 07:45:00, 15, bicycle riders, M, 0, 8, 1, 0, 4, 0, 0, 1, 0, 1, 5, 0
+BE-BellvueStBlythSt, 2015-03-03 08:00:00, 15, bicycle riders, M, 0, 6, 0, 0, 2, 0, 0, 1, 0, 1, 2, 0
+BE-BellvueStBlythSt, 2015-03-03 08:15:00, 15, bicycle riders, M, 1, 6, 0, 1, 1, 0, 0, 2, 0, 0, 1, 2
+BE-BellvueStBlythSt, 2015-03-03 08:30:00, 15, bicycle riders, M, 0, 10, 0, 0, 3, 0, 0, 3, 0, 0, 3, 1
+BE-BellvueStBlythSt, 2015-03-03 08:45:00, 15, bicycle riders, M, 1, 6, 0, 2, 2, 0, 0, 2, 1, 0, 3, 1

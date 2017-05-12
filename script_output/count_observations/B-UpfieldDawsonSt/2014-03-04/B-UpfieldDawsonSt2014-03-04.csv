@@ -1,28 +1,28 @@
 B-UpfieldDawsonSt-2014-03-04
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-UpfieldDawsonSt,Upfield Path and Dawson St,Brunswick,5.3,320448.88,5817573.33,29 G8,Upfield Shared Path,Glenlyon - Dawson
+B-UpfieldDawsonSt, Upfield Path and Dawson St, Brunswick, 5.3, 320448.88, 5817573.33, 29 G8, Upfield Shared Path, Glenlyon - Dawson
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-B-UpfieldDawsonSt,2014-03-04,15,bicycle riders,Y,Andi Sebastian
+B-UpfieldDawsonSt, 2014-03-04, 15, bicycle riders, Y, Andi Sebastian
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-UpfieldDawsonSt,2014-03-04 07:00:00,15,bicycle riders,F,0,29,1,1,2,1,0,1,2,2,1,1
-B-UpfieldDawsonSt,2014-03-04 07:15:00,15,bicycle riders,F,0,16,0,0,0,1,0,1,0,1,1,0
-B-UpfieldDawsonSt,2014-03-04 07:30:00,15,bicycle riders,F,1,30,0,2,1,1,1,3,0,1,7,3
-B-UpfieldDawsonSt,2014-03-04 07:45:00,15,bicycle riders,F,2,45,0,0,0,0,0,1,0,1,1,0
-B-UpfieldDawsonSt,2014-03-04 08:00:00,15,bicycle riders,F,2,60,0,1,2,0,1,2,0,3,1,2
-B-UpfieldDawsonSt,2014-03-04 08:15:00,15,bicycle riders,F,0,80,0,3,1,2,0,4,0,1,2,6
-B-UpfieldDawsonSt,2014-03-04 08:30:00,15,bicycle riders,F,2,65,2,0,2,0,0,4,0,0,5,2
-B-UpfieldDawsonSt,2014-03-04 08:45:00,15,bicycle riders,F,2,35,4,0,6,3,2,5,0,0,5,0
+B-UpfieldDawsonSt, 2014-03-04 07:00:00, 15, bicycle riders, F, 0, 29, 1, 1, 2, 1, 0, 1, 2, 2, 1, 1
+B-UpfieldDawsonSt, 2014-03-04 07:15:00, 15, bicycle riders, F, 0, 16, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0
+B-UpfieldDawsonSt, 2014-03-04 07:30:00, 15, bicycle riders, F, 1, 30, 0, 2, 1, 1, 1, 3, 0, 1, 7, 3
+B-UpfieldDawsonSt, 2014-03-04 07:45:00, 15, bicycle riders, F, 2, 45, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0
+B-UpfieldDawsonSt, 2014-03-04 08:00:00, 15, bicycle riders, F, 2, 60, 0, 1, 2, 0, 1, 2, 0, 3, 1, 2
+B-UpfieldDawsonSt, 2014-03-04 08:15:00, 15, bicycle riders, F, 0, 80, 0, 3, 1, 2, 0, 4, 0, 1, 2, 6
+B-UpfieldDawsonSt, 2014-03-04 08:30:00, 15, bicycle riders, F, 2, 65, 2, 0, 2, 0, 0, 4, 0, 0, 5, 2
+B-UpfieldDawsonSt, 2014-03-04 08:45:00, 15, bicycle riders, F, 2, 35, 4, 0, 6, 3, 2, 5, 0, 0, 5, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-UpfieldDawsonSt,2014-03-04 07:00:00,15,bicycle riders,M,1,30,1,0,3,2,0,4,0,0,3,2
-B-UpfieldDawsonSt,2014-03-04 07:15:00,15,bicycle riders,M,0,22,0,0,0,0,0,1,0,0,4,0
-B-UpfieldDawsonSt,2014-03-04 07:30:00,15,bicycle riders,M,0,43,0,1,6,3,0,4,2,2,14,2
-B-UpfieldDawsonSt,2014-03-04 07:45:00,15,bicycle riders,M,3,55,0,0,2,1,0,3,0,0,1,0
-B-UpfieldDawsonSt,2014-03-04 08:00:00,15,bicycle riders,M,2,79,0,0,3,0,1,9,0,1,10,0
-B-UpfieldDawsonSt,2014-03-04 08:15:00,15,bicycle riders,M,2,95,1,1,0,1,0,10,0,0,6,2
-B-UpfieldDawsonSt,2014-03-04 08:30:00,15,bicycle riders,M,1,55,6,2,9,2,0,3,0,0,10,1
-B-UpfieldDawsonSt,2014-03-04 08:45:00,15,bicycle riders,M,0,43,3,0,10,3,0,4,1,0,2,3
+B-UpfieldDawsonSt, 2014-03-04 07:00:00, 15, bicycle riders, M, 1, 30, 1, 0, 3, 2, 0, 4, 0, 0, 3, 2
+B-UpfieldDawsonSt, 2014-03-04 07:15:00, 15, bicycle riders, M, 0, 22, 0, 0, 0, 0, 0, 1, 0, 0, 4, 0
+B-UpfieldDawsonSt, 2014-03-04 07:30:00, 15, bicycle riders, M, 0, 43, 0, 1, 6, 3, 0, 4, 2, 2, 14, 2
+B-UpfieldDawsonSt, 2014-03-04 07:45:00, 15, bicycle riders, M, 3, 55, 0, 0, 2, 1, 0, 3, 0, 0, 1, 0
+B-UpfieldDawsonSt, 2014-03-04 08:00:00, 15, bicycle riders, M, 2, 79, 0, 0, 3, 0, 1, 9, 0, 1, 10, 0
+B-UpfieldDawsonSt, 2014-03-04 08:15:00, 15, bicycle riders, M, 2, 95, 1, 1, 0, 1, 0, 10, 0, 0, 6, 2
+B-UpfieldDawsonSt, 2014-03-04 08:30:00, 15, bicycle riders, M, 1, 55, 6, 2, 9, 2, 0, 3, 0, 0, 10, 1
+B-UpfieldDawsonSt, 2014-03-04 08:45:00, 15, bicycle riders, M, 0, 43, 3, 0, 10, 3, 0, 4, 1, 0, 2, 3

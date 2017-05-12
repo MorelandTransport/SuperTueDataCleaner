@@ -1,28 +1,28 @@
 BW-MelvilleRdVictoriaSt-2013-03-05
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BW-MelvilleRdVictoriaSt,Melville Rd and Victoria St,Brunswick West,7.2,318883.04,5818287.17,29 C6,Melville Rd,Victoria St
+BW-MelvilleRdVictoriaSt, Melville Rd and Victoria St, Brunswick West, 7.2, 318883.04, 5818287.17, 29 C6, Melville Rd, Victoria St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BW-MelvilleRdVictoriaSt,2013-03-05,15,bicycle riders,Y,Nic Dolby
+BW-MelvilleRdVictoriaSt, 2013-03-05, 15, bicycle riders, Y, Nic Dolby
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-MelvilleRdVictoriaSt,2013-03-05 07:00:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,0,0
-BW-MelvilleRdVictoriaSt,2013-03-05 07:15:00,15,bicycle riders,F,0,2,2,0,0,0,0,0,0,0,0,0
-BW-MelvilleRdVictoriaSt,2013-03-05 07:30:00,15,bicycle riders,F,0,1,0,0,1,0,0,0,0,0,0,1
-BW-MelvilleRdVictoriaSt,2013-03-05 07:45:00,15,bicycle riders,F,1,0,0,0,1,0,0,0,0,0,1,0
-BW-MelvilleRdVictoriaSt,2013-03-05 08:00:00,15,bicycle riders,F,0,2,0,0,0,0,0,0,0,0,0,0
-BW-MelvilleRdVictoriaSt,2013-03-05 08:15:00,15,bicycle riders,F,1,4,0,0,0,2,0,0,0,0,1,0
-BW-MelvilleRdVictoriaSt,2013-03-05 08:30:00,15,bicycle riders,F,0,0,0,0,2,0,0,2,0,0,3,0
-BW-MelvilleRdVictoriaSt,2013-03-05 08:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:00:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:15:00, 15, bicycle riders, F, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:30:00, 15, bicycle riders, F, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:45:00, 15, bicycle riders, F, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:00:00, 15, bicycle riders, F, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:15:00, 15, bicycle riders, F, 1, 4, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 3, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-MelvilleRdVictoriaSt,2013-03-05 07:00:00,15,bicycle riders,M,1,2,0,0,0,0,0,0,0,0,0,0
-BW-MelvilleRdVictoriaSt,2013-03-05 07:15:00,15,bicycle riders,M,0,2,1,0,0,0,0,0,0,0,1,0
-BW-MelvilleRdVictoriaSt,2013-03-05 07:30:00,15,bicycle riders,M,1,6,0,0,2,0,0,0,0,0,1,0
-BW-MelvilleRdVictoriaSt,2013-03-05 07:45:00,15,bicycle riders,M,0,2,1,0,1,0,0,2,0,0,2,1
-BW-MelvilleRdVictoriaSt,2013-03-05 08:00:00,15,bicycle riders,M,1,7,0,0,0,0,0,0,0,0,1,1
-BW-MelvilleRdVictoriaSt,2013-03-05 08:15:00,15,bicycle riders,M,0,7,0,0,0,0,0,0,0,0,1,0
-BW-MelvilleRdVictoriaSt,2013-03-05 08:30:00,15,bicycle riders,M,1,2,0,0,3,0,0,0,0,0,2,1
-BW-MelvilleRdVictoriaSt,2013-03-05 08:45:00,15,bicycle riders,M,0,1,0,1,1,0,0,1,0,0,1,0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:00:00, 15, bicycle riders, M, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:15:00, 15, bicycle riders, M, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:30:00, 15, bicycle riders, M, 1, 6, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 07:45:00, 15, bicycle riders, M, 0, 2, 1, 0, 1, 0, 0, 2, 0, 0, 2, 1
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:00:00, 15, bicycle riders, M, 1, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:15:00, 15, bicycle riders, M, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:30:00, 15, bicycle riders, M, 1, 2, 0, 0, 3, 0, 0, 0, 0, 0, 2, 1
+BW-MelvilleRdVictoriaSt, 2013-03-05 08:45:00, 15, bicycle riders, M, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0

@@ -1,28 +1,28 @@
 B-UpfieldParkSt-2015-02-26
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-UpfieldParkSt,Upfield Shared Path and Park St,Brunswick,4.5,320186.38,5816875.04,29 G10,Upfield Shared Path,Park St
+B-UpfieldParkSt, Upfield Shared Path and Park St, Brunswick, 4.5, 320186.38, 5816875.04, 29 G10, Upfield Shared Path, Park St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-B-UpfieldParkSt,2015-02-26,15,bicycle riders,Y,
+B-UpfieldParkSt, 2015-02-26, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-UpfieldParkSt,2015-02-26 07:00:00,15,bicycle riders,F,6,13,0,0,0,0,0,1,0,0,2,1
-B-UpfieldParkSt,2015-02-26 07:15:00,15,bicycle riders,F,19,29,0,0,0,0,0,1,0,0,3,0
-B-UpfieldParkSt,2015-02-26 07:30:00,15,bicycle riders,F,19,26,0,1,2,1,0,5,0,0,7,1
-B-UpfieldParkSt,2015-02-26 07:45:00,15,bicycle riders,F,40,24,0,0,2,1,0,1,0,1,7,1
-B-UpfieldParkSt,2015-02-26 08:00:00,15,bicycle riders,F,45,44,1,0,0,0,0,3,0,0,5,1
-B-UpfieldParkSt,2015-02-26 08:15:00,15,bicycle riders,F,65,31,1,0,3,3,0,1,0,0,7,3
-B-UpfieldParkSt,2015-02-26 08:30:00,15,bicycle riders,F,73,54,1,0,2,0,0,3,0,0,11,2
-B-UpfieldParkSt,2015-02-26 08:45:00,15,bicycle riders,F,48,26,0,0,1,4,0,3,0,0,8,2
+B-UpfieldParkSt, 2015-02-26 07:00:00, 15, bicycle riders, F, 6, 13, 0, 0, 0, 0, 0, 1, 0, 0, 2, 1
+B-UpfieldParkSt, 2015-02-26 07:15:00, 15, bicycle riders, F, 19, 29, 0, 0, 0, 0, 0, 1, 0, 0, 3, 0
+B-UpfieldParkSt, 2015-02-26 07:30:00, 15, bicycle riders, F, 19, 26, 0, 1, 2, 1, 0, 5, 0, 0, 7, 1
+B-UpfieldParkSt, 2015-02-26 07:45:00, 15, bicycle riders, F, 40, 24, 0, 0, 2, 1, 0, 1, 0, 1, 7, 1
+B-UpfieldParkSt, 2015-02-26 08:00:00, 15, bicycle riders, F, 45, 44, 1, 0, 0, 0, 0, 3, 0, 0, 5, 1
+B-UpfieldParkSt, 2015-02-26 08:15:00, 15, bicycle riders, F, 65, 31, 1, 0, 3, 3, 0, 1, 0, 0, 7, 3
+B-UpfieldParkSt, 2015-02-26 08:30:00, 15, bicycle riders, F, 73, 54, 1, 0, 2, 0, 0, 3, 0, 0, 11, 2
+B-UpfieldParkSt, 2015-02-26 08:45:00, 15, bicycle riders, F, 48, 26, 0, 0, 1, 4, 0, 3, 0, 0, 8, 2
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-B-UpfieldParkSt,2015-02-26 07:00:00,15,bicycle riders,M,10,7,0,0,2,0,0,0,0,0,4,0
-B-UpfieldParkSt,2015-02-26 07:15:00,15,bicycle riders,M,18,7,0,0,0,0,0,0,0,0,6,2
-B-UpfieldParkSt,2015-02-26 07:30:00,15,bicycle riders,M,28,8,0,0,0,1,0,1,0,0,2,0
-B-UpfieldParkSt,2015-02-26 07:45:00,15,bicycle riders,M,17,29,2,0,2,2,0,2,0,0,8,0
-B-UpfieldParkSt,2015-02-26 08:00:00,15,bicycle riders,M,33,13,2,0,0,0,0,2,0,0,8,3
-B-UpfieldParkSt,2015-02-26 08:15:00,15,bicycle riders,M,42,33,1,0,2,2,0,0,0,0,8,5
-B-UpfieldParkSt,2015-02-26 08:30:00,15,bicycle riders,M,23,22,0,0,3,2,0,5,0,0,15,3
-B-UpfieldParkSt,2015-02-26 08:45:00,15,bicycle riders,M,36,33,1,0,1,3,0,2,0,0,7,1
+B-UpfieldParkSt, 2015-02-26 07:00:00, 15, bicycle riders, M, 10, 7, 0, 0, 2, 0, 0, 0, 0, 0, 4, 0
+B-UpfieldParkSt, 2015-02-26 07:15:00, 15, bicycle riders, M, 18, 7, 0, 0, 0, 0, 0, 0, 0, 0, 6, 2
+B-UpfieldParkSt, 2015-02-26 07:30:00, 15, bicycle riders, M, 28, 8, 0, 0, 0, 1, 0, 1, 0, 0, 2, 0
+B-UpfieldParkSt, 2015-02-26 07:45:00, 15, bicycle riders, M, 17, 29, 2, 0, 2, 2, 0, 2, 0, 0, 8, 0
+B-UpfieldParkSt, 2015-02-26 08:00:00, 15, bicycle riders, M, 33, 13, 2, 0, 0, 0, 0, 2, 0, 0, 8, 3
+B-UpfieldParkSt, 2015-02-26 08:15:00, 15, bicycle riders, M, 42, 33, 1, 0, 2, 2, 0, 0, 0, 0, 8, 5
+B-UpfieldParkSt, 2015-02-26 08:30:00, 15, bicycle riders, M, 23, 22, 0, 0, 3, 2, 0, 5, 0, 0, 15, 3
+B-UpfieldParkSt, 2015-02-26 08:45:00, 15, bicycle riders, M, 36, 33, 1, 0, 1, 3, 0, 2, 0, 0, 7, 1

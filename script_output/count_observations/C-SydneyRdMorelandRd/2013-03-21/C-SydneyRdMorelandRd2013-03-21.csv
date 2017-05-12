@@ -1,28 +1,28 @@
 C-SydneyRdMorelandRd-2013-03-21
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-C-SydneyRdMorelandRd,Sydney Rd and Moreland Rd,Coburg,6.9,320652.71,5819366.01,29 H4,Sydney Rd,Moreland Rd
+C-SydneyRdMorelandRd, Sydney Rd and Moreland Rd, Coburg, 6.9, 320652.71, 5819366.01, 29 H4, Sydney Rd, Moreland Rd
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-C-SydneyRdMorelandRd,2013-03-21,15,bicycle riders,Y,
+C-SydneyRdMorelandRd, 2013-03-21, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-C-SydneyRdMorelandRd,2013-03-21 07:00:00,15,bicycle riders,F,1,0,0,0,1,0,1,1,0,1,0,0
-C-SydneyRdMorelandRd,2013-03-21 07:15:00,15,bicycle riders,F,0,2,0,0,0,0,0,0,0,0,0,0
-C-SydneyRdMorelandRd,2013-03-21 07:30:00,15,bicycle riders,F,0,3,0,1,1,0,0,0,0,0,0,0
-C-SydneyRdMorelandRd,2013-03-21 07:45:00,15,bicycle riders,F,0,1,0,1,1,0,0,0,0,0,0,0
-C-SydneyRdMorelandRd,2013-03-21 08:00:00,15,bicycle riders,F,0,3,1,1,0,0,0,1,0,0,0,0
-C-SydneyRdMorelandRd,2013-03-21 08:15:00,15,bicycle riders,F,0,1,1,1,1,0,0,1,0,0,0,1
-C-SydneyRdMorelandRd,2013-03-21 08:30:00,15,bicycle riders,F,0,2,0,1,1,0,0,0,0,0,3,1
-C-SydneyRdMorelandRd,2013-03-21 08:45:00,15,bicycle riders,F,0,1,0,1,0,0,0,0,0,0,1,1
+C-SydneyRdMorelandRd, 2013-03-21 07:00:00, 15, bicycle riders, F, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0
+C-SydneyRdMorelandRd, 2013-03-21 07:15:00, 15, bicycle riders, F, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+C-SydneyRdMorelandRd, 2013-03-21 07:30:00, 15, bicycle riders, F, 0, 3, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0
+C-SydneyRdMorelandRd, 2013-03-21 07:45:00, 15, bicycle riders, F, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0
+C-SydneyRdMorelandRd, 2013-03-21 08:00:00, 15, bicycle riders, F, 0, 3, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0
+C-SydneyRdMorelandRd, 2013-03-21 08:15:00, 15, bicycle riders, F, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1
+C-SydneyRdMorelandRd, 2013-03-21 08:30:00, 15, bicycle riders, F, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0, 3, 1
+C-SydneyRdMorelandRd, 2013-03-21 08:45:00, 15, bicycle riders, F, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-C-SydneyRdMorelandRd,2013-03-21 07:00:00,15,bicycle riders,M,0,1,0,1,3,0,0,1,1,1,3,1
-C-SydneyRdMorelandRd,2013-03-21 07:15:00,15,bicycle riders,M,2,1,0,0,1,0,1,1,0,0,2,0
-C-SydneyRdMorelandRd,2013-03-21 07:30:00,15,bicycle riders,M,0,5,0,0,1,0,1,1,0,0,2,0
-C-SydneyRdMorelandRd,2013-03-21 07:45:00,15,bicycle riders,M,1,12,0,1,0,0,1,1,0,0,1,0
-C-SydneyRdMorelandRd,2013-03-21 08:00:00,15,bicycle riders,M,1,8,2,1,1,0,1,1,0,0,1,1
-C-SydneyRdMorelandRd,2013-03-21 08:15:00,15,bicycle riders,M,0,6,1,1,1,1,0,1,0,0,1,1
-C-SydneyRdMorelandRd,2013-03-21 08:30:00,15,bicycle riders,M,0,6,1,3,5,1,0,1,0,0,3,1
-C-SydneyRdMorelandRd,2013-03-21 08:45:00,15,bicycle riders,M,1,3,0,1,1,1,0,3,0,0,1,2
+C-SydneyRdMorelandRd, 2013-03-21 07:00:00, 15, bicycle riders, M, 0, 1, 0, 1, 3, 0, 0, 1, 1, 1, 3, 1
+C-SydneyRdMorelandRd, 2013-03-21 07:15:00, 15, bicycle riders, M, 2, 1, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0
+C-SydneyRdMorelandRd, 2013-03-21 07:30:00, 15, bicycle riders, M, 0, 5, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0
+C-SydneyRdMorelandRd, 2013-03-21 07:45:00, 15, bicycle riders, M, 1, 12, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0
+C-SydneyRdMorelandRd, 2013-03-21 08:00:00, 15, bicycle riders, M, 1, 8, 2, 1, 1, 0, 1, 1, 0, 0, 1, 1
+C-SydneyRdMorelandRd, 2013-03-21 08:15:00, 15, bicycle riders, M, 0, 6, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1
+C-SydneyRdMorelandRd, 2013-03-21 08:30:00, 15, bicycle riders, M, 0, 6, 1, 3, 5, 1, 0, 1, 0, 0, 3, 1
+C-SydneyRdMorelandRd, 2013-03-21 08:45:00, 15, bicycle riders, M, 1, 3, 0, 1, 1, 1, 0, 3, 0, 0, 1, 2

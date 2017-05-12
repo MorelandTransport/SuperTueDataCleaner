@@ -1,28 +1,28 @@
 CN-UpfieldBoundaryRd-2011-03-01
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-CN-UpfieldBoundaryRd,Upfield Shared Path and Boundary Road,Coburg North,11.2,320228.14,5823412.83,17 H6,Upfield Shared Path,Boundary Rd
+CN-UpfieldBoundaryRd, Upfield Shared Path and Boundary Road, Coburg North, 11.2, 320228.14, 5823412.83, 17 H6, Upfield Shared Path, Boundary Rd
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-CN-UpfieldBoundaryRd,2011-03-01,15,bicycle riders,Y,Peter Frangopolous
+CN-UpfieldBoundaryRd, 2011-03-01, 15, bicycle riders, Y, Peter Frangopolous
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-CN-UpfieldBoundaryRd,2011-03-01 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 07:15:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 07:30:00,15,bicycle riders,F,0,0,0,2,0,0,0,0,0,0,0,2
-CN-UpfieldBoundaryRd,2011-03-01 07:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,1,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:15:00,15,bicycle riders,F,0,1,0,0,0,0,0,0,0,0,1,1
-CN-UpfieldBoundaryRd,2011-03-01 08:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+CN-UpfieldBoundaryRd, 2011-03-01 07:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 07:15:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 07:30:00, 15, bicycle riders, F, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2
+CN-UpfieldBoundaryRd, 2011-03-01 07:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:15:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+CN-UpfieldBoundaryRd, 2011-03-01 08:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-CN-UpfieldBoundaryRd,2011-03-01 07:00:00,15,bicycle riders,M,0,0,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 07:15:00,15,bicycle riders,M,0,1,0,0,0,0,0,1,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 07:30:00,15,bicycle riders,M,0,1,0,0,0,0,0,0,0,0,0,1
-CN-UpfieldBoundaryRd,2011-03-01 07:45:00,15,bicycle riders,M,0,0,0,1,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:00:00,15,bicycle riders,M,0,1,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:15:00,15,bicycle riders,M,1,3,0,0,1,0,0,1,0,0,1,0
-CN-UpfieldBoundaryRd,2011-03-01 08:30:00,15,bicycle riders,M,0,2,0,0,0,0,0,0,0,0,0,0
-CN-UpfieldBoundaryRd,2011-03-01 08:45:00,15,bicycle riders,M,0,0,0,0,0,0,0,0,0,0,0,0
+CN-UpfieldBoundaryRd, 2011-03-01 07:00:00, 15, bicycle riders, M, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 07:15:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 07:30:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+CN-UpfieldBoundaryRd, 2011-03-01 07:45:00, 15, bicycle riders, M, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:00:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:15:00, 15, bicycle riders, M, 1, 3, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:30:00, 15, bicycle riders, M, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+CN-UpfieldBoundaryRd, 2011-03-01 08:45:00, 15, bicycle riders, M, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0

@@ -1,28 +1,28 @@
 PV-DerbyStGaffneySt-2011-03-01
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-PV-DerbyStGaffneySt,Derby St and Gaffney St,Pascoe Vale,11.2,318982.18,5821901.07,29 G10,Derby St,Gaffney St
+PV-DerbyStGaffneySt, Derby St and Gaffney St, Pascoe Vale, 11.2, 318982.18, 5821901.07, 29 G10, Derby St, Gaffney St
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-PV-DerbyStGaffneySt,2011-03-01,15,bicycle riders,Y,
+PV-DerbyStGaffneySt, 2011-03-01, 15, bicycle riders, Y, 
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-PV-DerbyStGaffneySt,2011-03-01 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 07:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,1,0
-PV-DerbyStGaffneySt,2011-03-01 07:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,1,0,0,0,2
-PV-DerbyStGaffneySt,2011-03-01 07:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:45:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
+PV-DerbyStGaffneySt, 2011-03-01 07:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 07:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+PV-DerbyStGaffneySt, 2011-03-01 07:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2
+PV-DerbyStGaffneySt, 2011-03-01 07:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:45:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-PV-DerbyStGaffneySt,2011-03-01 07:00:00,15,bicycle riders,M,0,1,0,0,0,0,0,0,0,2,0,0
-PV-DerbyStGaffneySt,2011-03-01 07:15:00,15,bicycle riders,M,1,2,0,0,0,0,0,0,0,0,1,0
-PV-DerbyStGaffneySt,2011-03-01 07:30:00,15,bicycle riders,M,0,0,0,0,1,0,0,0,0,0,0,2
-PV-DerbyStGaffneySt,2011-03-01 07:45:00,15,bicycle riders,M,1,0,0,0,2,0,0,3,1,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:00:00,15,bicycle riders,M,0,3,0,0,0,0,0,1,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:15:00,15,bicycle riders,M,0,3,0,0,0,0,0,0,0,0,0,0
-PV-DerbyStGaffneySt,2011-03-01 08:30:00,15,bicycle riders,M,0,0,0,0,1,0,0,0,0,0,2,0
-PV-DerbyStGaffneySt,2011-03-01 08:45:00,15,bicycle riders,M,0,1,0,0,0,0,0,0,0,0,0,0
+PV-DerbyStGaffneySt, 2011-03-01 07:00:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 07:15:00, 15, bicycle riders, M, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+PV-DerbyStGaffneySt, 2011-03-01 07:30:00, 15, bicycle riders, M, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2
+PV-DerbyStGaffneySt, 2011-03-01 07:45:00, 15, bicycle riders, M, 1, 0, 0, 0, 2, 0, 0, 3, 1, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:00:00, 15, bicycle riders, M, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:15:00, 15, bicycle riders, M, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:30:00, 15, bicycle riders, M, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0
+PV-DerbyStGaffneySt, 2011-03-01 08:45:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0

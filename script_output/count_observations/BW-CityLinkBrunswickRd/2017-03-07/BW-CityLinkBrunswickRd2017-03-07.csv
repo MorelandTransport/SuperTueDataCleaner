@@ -1,28 +1,28 @@
 BW-CityLinkBrunswickRd-2017-03-07
 
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-BW-CityLinkBrunswickRd,Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge,Brunswick West,5.7,318495.19,5817202.69,29 B6,Moonee Ponds Creek Trail,Brunswick Rd
+BW-CityLinkBrunswickRd, Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge, Brunswick West, 5.7, 318495.19, 5817202.69, 29 B6, Moonee Ponds Creek Trail, Brunswick Rd
 
 countsite, count_date, bin_duration, counting, gender_split, counter
-BW-CityLinkBrunswickRd,2017-03-07,15,bicycle riders,Y,Greg Downes
+BW-CityLinkBrunswickRd, 2017-03-07, 15, bicycle riders, Y, Greg Downes
 
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-CityLinkBrunswickRd,2017-03-07 07:00:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,1,0
-BW-CityLinkBrunswickRd,2017-03-07 07:15:00,15,bicycle riders,F,0,0,0,1,0,0,0,0,0,0,2,1
-BW-CityLinkBrunswickRd,2017-03-07 07:30:00,15,bicycle riders,F,0,0,0,0,2,0,0,0,0,0,2,0
-BW-CityLinkBrunswickRd,2017-03-07 07:45:00,15,bicycle riders,F,1,0,1,0,0,0,0,0,0,0,1,2
-BW-CityLinkBrunswickRd,2017-03-07 08:00:00,15,bicycle riders,F,0,1,1,1,0,0,1,0,0,0,2,3
-BW-CityLinkBrunswickRd,2017-03-07 08:15:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,0,0,0,0
-BW-CityLinkBrunswickRd,2017-03-07 08:30:00,15,bicycle riders,F,0,0,0,0,0,0,0,0,1,0,0,0
-BW-CityLinkBrunswickRd,2017-03-07 08:45:00,15,bicycle riders,F,0,0,0,1,0,0,0,0,0,0,1,0
+BW-CityLinkBrunswickRd, 2017-03-07 07:00:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+BW-CityLinkBrunswickRd, 2017-03-07 07:15:00, 15, bicycle riders, F, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 1
+BW-CityLinkBrunswickRd, 2017-03-07 07:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2, 0
+BW-CityLinkBrunswickRd, 2017-03-07 07:45:00, 15, bicycle riders, F, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+BW-CityLinkBrunswickRd, 2017-03-07 08:00:00, 15, bicycle riders, F, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 2, 3
+BW-CityLinkBrunswickRd, 2017-03-07 08:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+BW-CityLinkBrunswickRd, 2017-03-07 08:30:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+BW-CityLinkBrunswickRd, 2017-03-07 08:45:00, 15, bicycle riders, F, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0
 
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
-BW-CityLinkBrunswickRd,2017-03-07 07:00:00,15,bicycle riders,M,0,1,1,0,2,0,0,0,0,0,1,2
-BW-CityLinkBrunswickRd,2017-03-07 07:15:00,15,bicycle riders,M,0,0,0,0,0,0,0,0,0,0,4,1
-BW-CityLinkBrunswickRd,2017-03-07 07:30:00,15,bicycle riders,M,0,1,0,0,0,0,0,0,0,0,1,1
-BW-CityLinkBrunswickRd,2017-03-07 07:45:00,15,bicycle riders,M,0,0,1,0,1,0,0,0,0,0,0,5
-BW-CityLinkBrunswickRd,2017-03-07 08:00:00,15,bicycle riders,M,0,1,0,0,3,0,4,0,0,0,1,7
-BW-CityLinkBrunswickRd,2017-03-07 08:15:00,15,bicycle riders,M,0,3,0,0,0,0,0,0,0,0,3,1
-BW-CityLinkBrunswickRd,2017-03-07 08:30:00,15,bicycle riders,M,0,1,1,1,2,0,1,0,3,0,1,2
-BW-CityLinkBrunswickRd,2017-03-07 08:45:00,15,bicycle riders,M,0,0,0,0,1,0,0,0,0,1,1,1
+BW-CityLinkBrunswickRd, 2017-03-07 07:00:00, 15, bicycle riders, M, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 2
+BW-CityLinkBrunswickRd, 2017-03-07 07:15:00, 15, bicycle riders, M, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1
+BW-CityLinkBrunswickRd, 2017-03-07 07:30:00, 15, bicycle riders, M, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+BW-CityLinkBrunswickRd, 2017-03-07 07:45:00, 15, bicycle riders, M, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 5
+BW-CityLinkBrunswickRd, 2017-03-07 08:00:00, 15, bicycle riders, M, 0, 1, 0, 0, 3, 0, 4, 0, 0, 0, 1, 7
+BW-CityLinkBrunswickRd, 2017-03-07 08:15:00, 15, bicycle riders, M, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1
+BW-CityLinkBrunswickRd, 2017-03-07 08:30:00, 15, bicycle riders, M, 0, 1, 1, 1, 2, 0, 1, 0, 3, 0, 1, 2
+BW-CityLinkBrunswickRd, 2017-03-07 08:45:00, 15, bicycle riders, M, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1
