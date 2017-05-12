@@ -177,9 +177,9 @@ for worksheet_num in range(6, 101):  # From 6 to 101
 dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road' + '\n')
 
             # Fourth line of results file, the site information.
-            output_file.write(countsite + "," + site_description + "," + suburb \
-            + "," + dist_from_cbd + "," + easting + "," + northing + "," \
-            + melway_ref + "," + primary_road + "," + secondary_road + '\n')
+            output_file.write(countsite + ", " + site_description + ", " + suburb \
+            + ", " + dist_from_cbd + ", " + easting + ", " + northing + ", " \
+            + melway_ref + ", " + primary_road + ", " + secondary_road + '\n')
             output_file.write('\n')
 
 
@@ -209,9 +209,9 @@ gender_split, counter' + '\n')
 
             # Seventh line of results file, the count specific information
             output_file.write(
-                countsite + "," + str(formatted_date) + "," \
-                + str(bin_duration) + "," + counting + ","\
-                + gender_split + "," + counter_name + '\n'
+                countsite + ", " + str(formatted_date) + ", " \
+                + str(bin_duration) + ", " + counting + ", "\
+                + gender_split + ", " + counter_name + '\n'
                 )
             output_file.write('\n')
 
@@ -277,12 +277,12 @@ south_turn_right, west_turn_left, west_through, west_turn_right' + '\n')
                         turndic[turn] = turnscrape
 
                     output_file.write(
-                        countsite + "," + str(start_datetime) + "," \
-                        + str(bin_duration) + "," + counting + "," + gender + "," \
-                        + str(turndic['north_turn_left']) + "," + str(turndic['north_through']) + "," + str(turndic['north_turn_right']) + "," \
-                        + str(turndic['east_turn_left']) + "," + str(turndic['east_through']) + "," + str(turndic['east_turn_right']) + "," \
-                        + str(turndic['south_turn_left']) + "," + str(turndic['south_through']) + "," + str(turndic['south_turn_right']) + "," \
-                        + str(turndic['west_turn_left']) + "," + str(turndic['west_through']) + ","   + str(turndic['west_turn_right']) + '\n' \
+                        countsite + ", " + str(start_datetime) + ", " \
+                        + str(bin_duration) + ", " + counting + ", " + gender + ", " \
+                        + str(turndic['north_turn_left']) + ", " + str(turndic['north_through']) + ", " + str(turndic['north_turn_right']) + ", " \
+                        + str(turndic['east_turn_left']) + ", " + str(turndic['east_through']) + ", " + str(turndic['east_turn_right']) + ", " \
+                        + str(turndic['south_turn_left']) + ", " + str(turndic['south_through']) + ", " + str(turndic['south_turn_right']) + ", " \
+                        + str(turndic['west_turn_left']) + ", " + str(turndic['west_through']) + ", "   + str(turndic['west_turn_right']) + '\n' \
                         )
 
 
