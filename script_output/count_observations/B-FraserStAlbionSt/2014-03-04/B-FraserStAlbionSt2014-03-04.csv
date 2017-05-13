@@ -1,12 +1,5 @@
 B-FraserStAlbionSt-2014-03-04
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-FraserStAlbionSt, Albion St and Fraser, Brunswick, 7.2, 316701.79, 5818878.36, 29 E5, West Brunswick Shimmy, Albion St
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-B-FraserStAlbionSt, 2014-03-04, 15, bicycle riders, Y, 
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-FraserStAlbionSt, 2014-03-04 07:00:00, 15, bicycle riders, F, NA, NA, NA, 0, 0, NA, 0, NA, 0, NA, 2, 1
 B-FraserStAlbionSt, 2014-03-04 07:15:00, 15, bicycle riders, F, NA, NA, NA, 0, 0, NA, 0, NA, 0, NA, 1, 0

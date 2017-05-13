@@ -1,12 +1,5 @@
 G-LoganStGlenroyRd-2012-03-06
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-G-LoganStGlenroyRd, Logan St and Glenroy Rd, Glenroy, 15.6, 317036.79, 5824798.84, 16 J2, Glenroy Rd, Logan St
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-G-LoganStGlenroyRd, 2012-03-06, 15, bicycle riders, Y, 
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 G-LoganStGlenroyRd, 2012-03-06 07:00:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 0, NA
 G-LoganStGlenroyRd, 2012-03-06 07:15:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 0, NA

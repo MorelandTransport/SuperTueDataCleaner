@@ -98,6 +98,13 @@ Morning Peak 7am to 9am - Weekday - Super ~ 2017.XLSX"
 workbook	= open_workbook(inputfilename, on_demand=True)
 print ' Opening ', inputfilename
 
+# Create a file for count details - potentially useful of GIS mapping.
+siteoutputfile = open(resultsdir + "count_location_details.csv", "w")
+siteoutputfile.write('count_location_details.csv' + '\n')
+siteoutputfile.write('\n')
+siteoutputfile.write('countsite, site_description, suburb, \
+dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road' + '\n')
+
 # Source file is a multiple worksheet excel file. One count site per sheet, mulitple counts on each sheet.
 # Count observations are recorded on work sheets (pythonic)6 'BW-CityLinkBrunswickRd' to 100 'MerriCrkTrailWestRingRdTrail'
 for worksheet_num in range(6, 101):  # From 6 to 101
@@ -138,6 +145,12 @@ for worksheet_num in range(6, 101):  # From 6 to 101
 
     sitedic = collections.OrderedDict()
 
+
+    # Write site details to file
+    siteoutputfile.write(countsite + ", " + site_description + ", " + suburb \
+    + ", " + dist_from_cbd + ", " + easting + ", " + northing + ", " \
+    + melway_ref + ", " + primary_road + ", " + secondary_road + '\n')
+
     # Collect details from each count.
     for count_row in (92, 124, 156, 188, 221, 253, 285):
         # The counts are recorded in blocks commencing on (excel)rows  93, 125, 157, 189, 221, 253, 285
@@ -169,19 +182,6 @@ for worksheet_num in range(6, 101):  # From 6 to 101
 
             # First line of results file, count site and date of count
             output_file.write(countsite + "-" + str_formatted_date + '\n')
-            output_file.write('\n')
-
-
-            # Third line of results file, a header row for site information
-            output_file.write('countsite, site_description, suburb, \
-dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road' + '\n')
-
-            # Fourth line of results file, the site information.
-            output_file.write(countsite + ", " + site_description + ", " + suburb \
-            + ", " + dist_from_cbd + ", " + easting + ", " + northing + ", " \
-            + melway_ref + ", " + primary_road + ", " + secondary_road + '\n')
-            output_file.write('\n')
-
 
             # Collect details specific to an given count date.
             # Collect bin duration. Stored in second row, colunn K. An integer.
@@ -204,16 +204,15 @@ dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road' + '\
             counting = "bicycle riders"
 
             # Sixth line of results file, a header for count specific information
-            output_file.write('countsite, count_date, bin_duration, counting, \
-gender_split, counter' + '\n')
+#            output_file.write('countsite, count_date, bin_duration, counting, gender_split, counter' + '\n')
 
             # Seventh line of results file, the count specific information
-            output_file.write(
-                countsite + ", " + str(formatted_date) + ", " \
-                + str(bin_duration) + ", " + counting + ", "\
-                + gender_split + ", " + counter_name + '\n'
-                )
-            output_file.write('\n')
+#            output_file.write(
+#                countsite + ", " + str(formatted_date) + ", " \
+#                + str(bin_duration) + ", " + counting + ", "\
+#                + gender_split + ", " + counter_name + '\n'
+#                )
+#            output_file.write('\n')
 
             countdic = {}
 

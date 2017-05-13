@@ -1,12 +1,5 @@
 CN-ElizabethStBoyneSt-2015-03-03
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-CN-ElizabethStBoyneSt, Elizabeth St and Boyne St / Jacka St, Coburg North, 10.9, 322314.31, 5822024.41, 18 B10, Elizabeth St, Boyne St
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-CN-ElizabethStBoyneSt, 2015-03-03, 15, bicycle riders, Y, Nancy Atkin
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 CN-ElizabethStBoyneSt, 2015-03-03 07:00:00, 15, bicycle riders, F, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 CN-ElizabethStBoyneSt, 2015-03-03 07:15:00, 15, bicycle riders, F, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0

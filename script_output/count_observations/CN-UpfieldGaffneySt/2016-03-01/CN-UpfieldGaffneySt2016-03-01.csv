@@ -1,12 +1,5 @@
 CN-UpfieldGaffneySt-2016-03-01
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-CN-UpfieldGaffneySt, Upfield Shared Path and Gaffney St, Coburg North, 9.3, 320509.19, 5821771.04, 17 H10, Upfield Shared Path, Gaffney St
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-CN-UpfieldGaffneySt, 2016-03-01, 15, bicycle riders, Y, Jane Holroyd
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 CN-UpfieldGaffneySt, 2016-03-01 07:00:00, 15, bicycle riders, F, 0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0
 CN-UpfieldGaffneySt, 2016-03-01 07:15:00, 15, bicycle riders, F, 0, 3, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0

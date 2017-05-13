@@ -1,12 +1,5 @@
 C-MerriCrkDeCheneBridge-2011-03-01
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-C-MerriCrkDeCheneBridge, Merri Creek Trail at DeChene Bridge, Coburg, 10.7, 321899.04, 5821182.32, 18 A12, Merri Creek Trail, 
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-C-MerriCrkDeCheneBridge, 2011-03-01, 15, bicycle riders, Y, 
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 C-MerriCrkDeCheneBridge, 2011-03-01 07:00:00, 15, bicycle riders, F, 0, 0, NA, 0, NA, 0, NA, 1, 0, NA, NA, NA
 C-MerriCrkDeCheneBridge, 2011-03-01 07:15:00, 15, bicycle riders, F, 0, 0, NA, 0, NA, 0, NA, 0, 0, NA, NA, NA

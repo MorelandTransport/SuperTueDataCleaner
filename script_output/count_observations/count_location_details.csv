@@ -1,0 +1,98 @@
+count_location_details.csv
+
+countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
+BW-CityLinkBrunswickRd, Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge, Brunswick West, 5.7, 318495.19, 5817202.69, 29 B6, Moonee Ponds Creek Trail, Brunswick Rd
+BW-CityLinkDawsonSt, Dawson St and Jewel Crs - near CityLink, Brunswick West, 7.1, 318424.79, 5817844.06, 29 B8, Moonee Ponds Creek Trail, Dawson St
+BW-CityLinkVictoriaSt, Victoria St (CityLink Overpass), Brunswick West, 7.8, 318346.84, 5818350.13, 29 E10, Moonee Ponds Creek Trail, Victoria St
+BW-HopetounAvAlbionSt, Hopetoun Av Waxman Pde and Albion St, Brunswick West, 8.8, 318042.84, 5819089.27, 29 A4, Moonee Ponds Creek Trail, Albion St
+BW-MelvilleDawsonSt, Melville St and Dawson St, Brunswick West, 6.6, 318908.2, 5817775.38, 29 C8, Melville Rd, Glenlyon - Dawson
+BW-DalyStDawsonSt, Daly St South Daly St and Dawson St, Brunswick West, 6.6, 318907.57, 5817774.7, 29 C8, Daly St, Glenlyon - Dawson
+BW-FlemingStParkSt, Fleming St and Park St, Brunswick West, 5.6, 319031.96, 5817025.18, 29 D10, Fleming St, Park St
+BW-55TramParkSt, 55 Tram and Park St, Brunswick West, 5.2, 319428.72, 5816965.79, 29 E10, West Brunswick Shimmy, Park St
+BW-GranthamStBrunswickRd, Grantham St and Brunswick Rd, Brunswick, 5.5, 319352.37, 5817091.0, 29 D9, West Brunswick Shimmy, Brunswick Rd
+BW-MelvilleRdVictoriaSt, Melville Rd and Victoria St, Brunswick West, 7.2, 318883.04, 5818287.17, 29 C6, Melville Rd, Victoria St
+BW-JolleyStAlbionSt, Jolley St Burnell St and Albion St, Brunswick West, 7.8, 319075.02, 5818959.22, 29 D5, Daly St, Albion St
+BW-PearsonStVictoriaSt, Pearson St and Victoria Street, Brunswick West, 6.7, 319372.44, 5818223.81, 29 D7, Pearson St, Victoria St
+B-GranthamDawsonSt, Grantham St and Dawson St, Brunswick, 6.1, 319432.93, 5817706.24, 29 E8, Grantham St, Glenlyon - Dawson
+B-FraserStAlbionSt, Albion St and Fraser, Brunswick, 7.2, 316701.79, 5818878.36, 29 E5, West Brunswick Shimmy, Albion St
+B-GrayBrunswick, Gray St and Brunswick Rd, Brunswick, 5.4, 319647.91, 5817054.46, 29 E10, Southbound, Eastbound
+B-UpfieldParkSt, Upfield Shared Path and Park St, Brunswick, 4.5, 320186.38, 5816875.04, 29 G10, Upfield Shared Path, Park St
+B-UpfieldBrunswickRd, Upfield Shared Path and Brunswick Rd, Brunswick, 4.7, 320207.04, 5816980.19, 29 G10, Upfield Shared Path, Brunswick Rd
+B-UpfieldDawsonSt, Upfield Path and Dawson St, Brunswick, 5.3, 320448.88, 5817573.33, 29 G8, Upfield Shared Path, Glenlyon - Dawson
+B-UpfieldVictoriaSt, Upfield Shared Path and Victoria Street, Brunswick, 5.8, 320304.04, 5818102.21, 29 H5, Upfield Shared Path, Victoria St
+B-UpfieldAlbionSt, Upfield Bike Path at Albion St, Brunswick, 6.5, 320384.5, 5818798.43, 29 G7, Upfield Shared Path, Albion St
+B-SydneyRdParkSt, Sydney Rd and Park St, Brunswick, 4.4, 320365.86, 5816853.53, 29 G10, Sydney Rd, Park St
+B-SydneyRdBrunswickRd, Sydney Rd and Brunswick Rd, Brunswick, 4.5, 320382.36, 5816955.63, 29 G10, Sydney Rd, Brunswick Rd
+B-SydneyRdGlenlyonRd, Sydney Rd and Glenylon Rd / Dawson St, Brunswick, 5.1, 320445.98, 5817514.76, 29 K9, Sydney Rd, Glenlyon - Dawson
+B-SydneyRdVictoriaSt, Sydney Rd and Victoria Street, Brunswick, 5.6, 320506.34, 5818075.8, 29 G7, Sydney Rd, Victoria St
+B-SydneyRdBlythSt, Sydney Rd and Blyth St, Brunswick, 5.8, 320525.2, 5818249.55, 29G7, Sydney Rd, Blyth St
+B-SydneyRdAlbionSt, Sydney Rd and Albion St, Brunswick, 6.3, 320448.88, 5817573.33, 29 H5, Sydney Rd, Albion St
+B-EwingStBrunswickRd, Ewing St and Brunswick Rd, Brunswick, 5.2, 320942.8, 5816889.1, 29 H10, Ewing St, Brunswick Rd
+B-BarrowStAlbionSt, Barrow St and Albion St, Brunswick, 6.9, 321143.92, 581869.75, 29 J6, Barrow St, Albion St
+BE-LygonStBrunswickRd, Lygon Street and Brunswick Road, Brunswick East, 4.8, 321287.35, 5816845.22, 29 J10, Lygon  - Holmes - Nicholson, Brunswick Rd
+BE-LygonStGlenlyonRd, Lygon St and Glenlyon Rd, Brunswick East, 6.0, 321344.6, 5817471.7, 29 K9, Lygon  - Holmes - Nicholson, Glenlyon - Dawson
+BE-LygonStBlythSt, Lygon St and Blyth St, Brunswick East, 6.7, 321426.84, 5818149.75, 29 K7, Lygon  - Holmes - Nicholson, Blyth St
+BE-TruscottBrunswickRd, Truscott / Amess St and Brunswick Road, Brunswick East, 4.7, 321645.0, 5816805.39, 29 K10, East Brunswick Shimmy, Brunswick Rd
+BE-JohnStGlenlyonRd, John St (East Brunswick Shimmy) and Glenlyon Rd, Brunswick East, 5.4, 321802.54, 5817418.14, 30 A9, East Brunswick Shimmy, Glenlyon - Dawson
+BE-BellvueStBlythSt, Bellvue St Elesbury (EB Shimmy) and Blyth St, Brunswick East, 6.4, 321842.98, 5818104.26, 29 G10, East Brunswick Shimmy, Blyth St
+BE-CanningBrunswick, Canning Street x Brunswick Rd Brunswick East, Brunswick East, 4.9, , , 30 A10, East Brunswick Shimmy, Brunswick Road
+BE-NicholsonStBrunswickRd, Nicholson St and Brunswick Rd / Holden St, Brunswick East, 5.0, 321954.67, 5816773.69, 30 A11, Nicholson St, Brunswick Rd
+BE-NicholsonStGlenlyonRd, Nicholson St and Glenlyon Rd, Brunswick East, 5.6, 322024.52, 5817393.12, 30 A9, Nicholson St, Glenlyon Rd
+BE-NicholsonStBlythSt, Nicholson St  & Blyth St, Brunswick East, 6.3, 322101.18, 5818077.54, 30 A7, Nicholson St, Blyth St
+FN-KingStGlenlyon, King St and Glenlyon Rd, Fitzroy North, 5.9, 322396.42, 5817350.33, 30 B9, Southbound, Eastbound
+BE-MerriCrkSumner, Merri Creek Trail & Sumner Park Bridge, Brunswick East, 6.3, 322573.83, 5817498.2, 29 C9, Merri Creek Trail, Glenlyon - Dawson
+BE-MerriCrkBlythSt, Merri Creek Trail & Blyth St, Brunswick East, 6.7, 322429.11, 5818077.44, 29 B8, Merri Creek Trail, Blyth St
+PVS-MooneePondsCrkMorelandRd, Moonee Ponds Creek Trail and Moreland Road, Pascoe Vale South, 10.3, 317340.03, 5819783.97, 28 J3, Moonee Ponds Creek Trail, Moreland Rd
+PVS-KernanAvTateSt, Hayes Pde / Kernan Avenue and Tate St, Pascoe Vale South, 13.4, 317453.26, 5821724.56, 16 J10, Craigieburn Express, Moonee Ponds Creek Trail
+PVS-MelvilleRdMorelandRd, Melville Rd and Moreland Rd, Pascoe Vale South, 8.5, 319029.36, 5819572.59, 29 D3, Melville Rd, Moreland Rd
+PVS-SussexStOHeaSt, Sussex St and OHea, Pascoe Vale South, 10.5, 319279.5, 5821495.22, 17 D11, Sussex St, OHea St Shared Path
+PVS-ReynoldsPdeReynardSt, Reynolds Pde Coonans Rd and Renyard St, Pascoe Vale South, 9.9, 318373.23, 5820387.61, 29 B1, Reynolds Pde, Renyard St
+PVS-MelvilleRdRenyardSt, Melville Rd and Reynard St, Pascoe Vale South, 9.3, 318898.26, 5820318.17, 29 C2, Melville Rd, Renyard St
+C-HaigAvMorelandRd, Haig Av Garnet St Shamrock St and Moreland Rd, Coburg, 7.8, 319745.49, 5819481.73, 17 A1, West Brunswick Shimmy, Moreland Rd
+C-ShaftsburyStMunroSt, Shaftsbury Vincent and Munro St, Coburg, 8.9, 319909.57, 5820621.82, 29 F1, West Brunswick Shimmy, Munro - Harding
+C-BourkeStOHeaSt, OHea St Path and Bourke St, Coburg, 9.7, 320024.3, 5821419.22, 17 F11, West Brunswick Shimmy, OHea St Shared Path
+C-UpfieldMorelandRd, Upfield Shared Path and Moreland Rd, Coburg, 7.1, 320475.61, 5819390.53, 29 G4, Upfield Shared Path, Moreland Rd
+C-UpfieldMunroSt, Railway Pl and Munro St, Coburg, 8.3, 320545.15, 5820555.2, 29 H1, Upfield Shared Path, Munro - Harding
+C-UpfieldOHeaSt, Upfield Shared Path and OHea St, Coburg, 9.2, 320532.55, 5821368.45, 17 H11, Upfield Shared Path, OHea St Shared Path
+C-SydneyRdMorelandRd, Sydney Rd and Moreland Rd, Coburg, 6.9, 320652.71, 5819366.01, 29 H4, Sydney Rd, Moreland Rd
+C-SydneyRdMunroSt, Sydney Rd and Munro St Harding St, Coburg, 8.1, 320788.29, 5820529.19, 29 H1, Sydney Rd, Munro - Harding
+C-SydneyRdOHeaSt, Sydney Rd and Ohea St, Coburg, 8.8, 320860.11, 5821334.55, 17 H11, Sydney Rd, OHea St Shared Path
+C-DeCarleStMorelandRd, DeCarle St and Moreland Rd, Coburg, 7.1, 320819.69, 5819344.39, 29 H4, De Carle St, Moreland Rd
+C-BarrowStMorelandRd, Barrow St and Moreland Rd, Coburg, 8.0, 321209.87, 5819297.96, 29 J4, Barrow St, Moreland Rd
+C-BarrowStRennieSt, Barrow St & Rennie St, Coburg, 8.0, 321272.95, 5819879.16, 29 J3, Barrow St, Rennie St
+C-BarrowStHardingSt, Barrow St and Harding Street, Coburg, 8.6, 321351.47, 5820462.95, 29 K1, Barrow St, Munro - Harding
+C-NicholsonStMorelandRd, Nicholson St Holmes Rd and Moreland Rd, Coburg, 8.7, 321603.11, 5819252.65, 29 K4, Lygon  - Holmes - Nicholson, Moreland Rd
+C-NicholsonStHardingSt, Nicholson St and Harding St, Coburg, 9.1, 321801.26, 5820412.39, 30 A1, Lygon  - Holmes - Nicholson, Munro - Harding
+C-MerriCrkMorelandRd, Merri Creek Trail & Moreland Rd, Coburg, 8.2, 322040.61, 5819193.3, 29 C9, Merri Creek Trail, Moreland Rd
+C-MerriCrkHardingSt, Merri Creek Trail  at the Harding St Suspension Bridge, Coburg, 11.3, 322015.64, 5820397.1, 30 B2, Merri Creek Trail, Munro - Harding
+C-MerriCrkDeCheneBridge, Merri Creek Trail at DeChene Bridge, Coburg, 10.7, 321899.04, 5821182.32, 18 A12, Merri Creek Trail, 
+PV-BurgandyStGaffneySt, Railway Pde Burgandy St and Gaffney St Park St, Pascoe Vale, 14.1, 317439.57, 5822079.87, 16 K9, Craigieburn Express, Gaffney St
+PV-DerbyStGaffneySt, Derby St and Gaffney St, Pascoe Vale, 11.2, 318982.18, 5821901.07, 29 G10, Derby St, Gaffney St
+PV-CumberlandRdEssexSt, Cumberland Rd and Essex, Pascoe Vale, 12.3, 318400.56, 5822530.22, 17 B8, Cumberland Rd, Essex St
+PV-LandellsRdKentRd, Kent Rd and Landells Rd, Pascoe Vale, 12.9, 318797.82, 582300.48, 17 C6, Landells Rd, Kent Rd
+PV-WestStBoundaryRd, West St Lake St and Pascoe St Boundary Rd), Pascoe Vale, 13.4, 318137.87, 582363.37, 17 B5, West St, Boundary Rd
+CN-SussexStBoundaryRd, Sussex St and Boundary Road, Coburg North, 12.0, 319470.42, 5823494.07, 17 E6, Sussex St, Boundary Rd
+CN-UpfieldGaffneySt, Upfield Shared Path and Gaffney St, Coburg North, 9.3, 320509.19, 5821771.04, 17 H10, Upfield Shared Path, Gaffney St
+CN-UpfieldBakersRd, Upfield Path and Bakers Road, Coburg North, 10.2, 320410.69, 5822487.81, 17 G8, Upfield Shared Path, Bakers Rd
+CN-UpfieldBoundaryRd, Upfield Shared Path and Boundary Road, Coburg North, 11.2, 320228.14, 5823412.83, 17 H6, Upfield Shared Path, Boundary Rd
+CN-SydneyRdBakersRd, Sydney Rd and Bakers Road, Coburg North, 10.1, 320546.87, 5822472.97, 17 G8, Sydney Rd, Bakers Rd
+CN-NewlandsRdCarrSt, Newlands Rd and Carr St, Coburg North, 10.3, 321259.75, 5822113.06, 17 K9, Newlands Rd, Carr St
+CN-ElizabethStBoyneSt, Elizabeth St and Boyne St / Jacka St, Coburg North, 10.9, 322314.31, 5822024.41, 18 B10, Elizabeth St, Boyne St
+OP-PascoeValeRdWinifredSt, Pascoe Vale Rd and Winifred Devon St, Oak Park, 14.9, 316784.88, 5823089.11, 16 H7, Pascoe Vale Rd, Winifred St
+OP-StationRdMeakerAv, Meaker Av and Station Rd, Oak Park, 14.8, 316778.32, 5823451.33, 16 H6, Craigieburn Express, Meaker Av
+OP-WaterlooStSnellGv, Waterloo St and Snell Grove, Oak Park, 14.8, 316826.84, 5823448.53, 16 H6, Craigieburn Express, Snell Gv
+Gow-WestRingRdTrailGowanbraeDr, Western Ring Rd Trail and Gowanbrae Drive, Gowanbrae, 20.0, 314163.46, 5824324.8, 16 A3, Western Ring Road Trail, Gowanbrae Drive
+Gow-MooneePondsCrkTrestleBridge, Moonee Ponds Creek Trail Under Trestle Bridge, Gowanbrae, 18.4, 314719.41, 5824357.16, 16 C3, Moonee Ponds Creek Trail, Eastbound
+Gow-MooneePondsCrkWestRingRd, Moonee Ponds Creek Trail and Western Ring Road Trail, Fawkner, 20.9, 315484.31, 5826140.65, 7J10, Southbound, Eastbound
+G-PascoeValeRdGlenroyRd, Pascoe Vale Rd and Glenroy Rd, Glenroy, 16.1, 316303.28, 5824729.32, 16 J3, Pascoe Vale Rd, Glenroy Rd
+G-HarringtonStWestRingRdTrail, Electric St Harrington Ave and Western Ring Rd Trail, Glenroy, 17.3, 316276.41, 5826014.69, 6 G11, Craigieburn Express, Western Ring Road Trail
+G-WidfordStWestRingRdTrail, Widford St & Western Ring Road Trail, Glenroy, 19.1, 317074.01, 5826027.4, 6 J11, Widford St, Western Ring Road Trail
+G-LoganStGlenroyRd, Logan St and Glenroy Rd, Glenroy, 15.6, 317036.79, 5824798.84, 16 J2, Glenroy Rd, Logan St
+H-HiltonStWestSt, West St and Hilton St, Hadfield, 14.7, 318329.35, 5825250.36, 17 B1, West St, Hilton - Box Forest
+F-UpfieldBoxForestRd, Upfield Shared Path Sages Rd and Box Forest Rd Hilton St, Fawkner, 12.9, 320080.84, 5825025.77, 17 G2, Upfield Shared Path, Hilton - Box Forest
+SydneyRdWestRingRdTrail, Sydney Rd (Hume Hwy) and Western Ring Road Trail, Fawkner, 14.4, 320004.88, 5826389.19, 7 G11, Sydney Rd, Western Ring Road Trail
+F-WyunaStYungeraSt, Wyuna St and Yungera St, Fawkner, 12.4, 320598.88, 5823952.02, 17 H5, Wyuna St, Yungera St
+F-WilliamStAndersonRd, Hogan St William St and Anderson Rd, Fawkner, 14.7, 320946.39, 5825990.26, 7 J12, William St, Anderson Rd
+F-McBrydeStVictorySt, McBryde St Victory St Hare St, Fawkner, 13.2, 321613.97, 5824793.67, 18 A3, McBryde St, Victory
+F-MerriCrkQueensPde, Derby St Merri Crk Trail and Queens Pde, Fawkner, 11.6, 321299.44, 5823367.12, 17 K6, Merri Creek Trail, Boundary Rd
+MerriCrkTrailWestRingRdTrail, Merri Creek Trail and Western Ring Road Trail, Fawkner, 19.3, 321048.28, 5826327.23, 7 J11, Merri Creek Trail, Western Ring Road Trail

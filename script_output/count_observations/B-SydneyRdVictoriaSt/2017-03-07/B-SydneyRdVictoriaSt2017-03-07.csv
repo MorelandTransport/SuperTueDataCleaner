@@ -1,12 +1,5 @@
 B-SydneyRdVictoriaSt-2017-03-07
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-SydneyRdVictoriaSt, Sydney Rd and Victoria Street, Brunswick, 5.6, 320506.34, 5818075.8, 29 G7, Sydney Rd, Victoria St
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-B-SydneyRdVictoriaSt, 2017-03-07, 15, bicycle riders, Y, Nancy Atkin & Helen Corry
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-SydneyRdVictoriaSt, 2017-03-07 07:00:00, 15, bicycle riders, F, 0, 5, 0, 0, 3, 0, 0, 0, 0, 0, 2, 1
 B-SydneyRdVictoriaSt, 2017-03-07 07:15:00, 15, bicycle riders, F, 0, 4, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0

@@ -1,12 +1,5 @@
 B-SydneyRdGlenlyonRd-2008-03-11
 
-countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
-B-SydneyRdGlenlyonRd, Sydney Rd and Glenylon Rd / Dawson St, Brunswick, 5.1, 320445.98, 5817514.76, 29 K9, Sydney Rd, Glenlyon - Dawson
-
-countsite, count_date, bin_duration, counting, gender_split, counter
-B-SydneyRdGlenlyonRd, 2008-03-11, 120, bicycle riders, Y, BV Count - no breakdown available
-
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-SydneyRdGlenlyonRd, 2008-03-11 07:00:00, 120, bicycle riders, F, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA
 B-SydneyRdGlenlyonRd, 2008-03-11 07:15:00, 120, bicycle riders, F, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA
