@@ -1,5 +1,3 @@
-B-SydneyRdBlythSt-2017-03-07
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-SydneyRdBlythSt, 2017-03-07 07:00:00, 15, bicycle riders, F, 0, 4, NA, 1, NA, 0, NA, 0, 0, NA, NA, NA
 B-SydneyRdBlythSt, 2017-03-07 07:15:00, 15, bicycle riders, F, 0, 3, NA, 3, NA, 0, NA, 0, 0, NA, NA, NA
@@ -9,8 +7,6 @@ B-SydneyRdBlythSt, 2017-03-07 08:00:00, 15, bicycle riders, F, 0, 8, NA, 2, NA, 
 B-SydneyRdBlythSt, 2017-03-07 08:15:00, 15, bicycle riders, F, 0, 5, NA, 0, NA, 1, NA, 0, 1, NA, NA, NA
 B-SydneyRdBlythSt, 2017-03-07 08:30:00, 15, bicycle riders, F, 0, 10, NA, 3, NA, 2, NA, 0, 1, NA, NA, NA
 B-SydneyRdBlythSt, 2017-03-07 08:45:00, 15, bicycle riders, F, 1, 11, NA, 2, NA, 0, NA, 1, 0, NA, NA, NA
-
-countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-SydneyRdBlythSt, 2017-03-07 07:00:00, 15, bicycle riders, M, 0, 2, NA, 0, NA, 0, NA, 1, 0, NA, NA, NA
 B-SydneyRdBlythSt, 2017-03-07 07:15:00, 15, bicycle riders, M, 0, 6, NA, 1, NA, 0, NA, 1, 1, NA, NA, NA
 B-SydneyRdBlythSt, 2017-03-07 07:30:00, 15, bicycle riders, M, 0, 11, NA, 3, NA, 1, NA, 0, 0, NA, NA, NA

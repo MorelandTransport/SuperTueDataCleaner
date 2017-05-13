@@ -180,9 +180,6 @@ for worksheet_num in range(6, 101):  # From 6 to 101
                 os.makedirs(savepoint)
             output_file = open(savepoint + countsite + str_formatted_date + ".csv", "w")
 
-            # First line of results file, count site and date of count
-            output_file.write(countsite + "-" + str_formatted_date + '\n')
-
             # Collect details specific to an given count date.
             # Collect bin duration. Stored in second row, colunn K. An integer.
             try:
@@ -217,6 +214,7 @@ for worksheet_num in range(6, 101):  # From 6 to 101
             countdic = {}
 
             # Collect movement bin and turn details from this year's count
+            output_file.write('countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right' + '\n')
 
             # A full data block has bin_duration = "15", gender_split = "Y"
             # There are no counts that have have a gender count without a 15min breakdown
@@ -232,11 +230,6 @@ for worksheet_num in range(6, 101):  # From 6 to 101
 
                 genderdic = {}
 
-                output_file.write('\n')
-                output_file.write('countsite, time, bin_duration, counting, \
-gender, north_turn_left, north_through, north_turn_right, east_turn_left, \
-east_through, east_turn_right, south_turn_left, south_through, \
-south_turn_right, west_turn_left, west_through, west_turn_right' + '\n')
 
 
                 # Collect each of the 15 minute observations

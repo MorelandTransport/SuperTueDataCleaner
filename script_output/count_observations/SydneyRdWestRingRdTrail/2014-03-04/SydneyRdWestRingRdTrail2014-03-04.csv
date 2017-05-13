@@ -1,5 +1,3 @@
-SydneyRdWestRingRdTrail-2014-03-04
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 SydneyRdWestRingRdTrail, 2014-03-04 07:00:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 0, NA
 SydneyRdWestRingRdTrail, 2014-03-04 07:15:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 0, NA
@@ -9,8 +7,6 @@ SydneyRdWestRingRdTrail, 2014-03-04 08:00:00, 15, bicycle riders, F, 0, NA, 0, N
 SydneyRdWestRingRdTrail, 2014-03-04 08:15:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 2, NA
 SydneyRdWestRingRdTrail, 2014-03-04 08:30:00, 15, bicycle riders, F, 0, NA, 0, NA, 0, 0, NA, NA, NA, 0, 0, NA
 SydneyRdWestRingRdTrail, 2014-03-04 08:45:00, 15, bicycle riders, F, 0, NA, 0, NA, 1, 0, NA, NA, NA, 0, 0, NA
-
-countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 SydneyRdWestRingRdTrail, 2014-03-04 07:00:00, 15, bicycle riders, M, 0, NA, 3, NA, 3, 1, NA, NA, NA, 2, 0, NA
 SydneyRdWestRingRdTrail, 2014-03-04 07:15:00, 15, bicycle riders, M, 1, NA, 1, NA, 0, 1, NA, NA, NA, 1, 0, NA
 SydneyRdWestRingRdTrail, 2014-03-04 07:30:00, 15, bicycle riders, M, 0, NA, 2, NA, 1, 0, NA, NA, NA, 2, 0, NA

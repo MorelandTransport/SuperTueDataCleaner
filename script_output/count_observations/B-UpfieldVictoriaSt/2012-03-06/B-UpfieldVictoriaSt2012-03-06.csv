@@ -1,5 +1,3 @@
-B-UpfieldVictoriaSt-2012-03-06
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-UpfieldVictoriaSt, 2012-03-06 07:00:00, 15, bicycle riders, F, 0, 8, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0
 B-UpfieldVictoriaSt, 2012-03-06 07:15:00, 15, bicycle riders, F, 0, 13, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0
@@ -9,8 +7,6 @@ B-UpfieldVictoriaSt, 2012-03-06 08:00:00, 15, bicycle riders, F, 0, 43, 2, 0, 1,
 B-UpfieldVictoriaSt, 2012-03-06 08:15:00, 15, bicycle riders, F, 1, 35, 1, 1, 1, 0, 0, 2, 0, 1, 3, 6
 B-UpfieldVictoriaSt, 2012-03-06 08:30:00, 15, bicycle riders, F, 0, 33, 1, 3, 0, 1, 0, 3, 0, 0, 2, 1
 B-UpfieldVictoriaSt, 2012-03-06 08:45:00, 15, bicycle riders, F, 1, 23, 0, 1, 3, 1, 1, 1, 0, 0, 3, 2
-
-countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-UpfieldVictoriaSt, 2012-03-06 07:00:00, 15, bicycle riders, M, 1, 15, 0, 2, 0, 0, 2, 2, 0, 0, 2, 0
 B-UpfieldVictoriaSt, 2012-03-06 07:15:00, 15, bicycle riders, M, 0, 26, 1, 0, 2, 0, 2, 2, 0, 0, 3, 2
 B-UpfieldVictoriaSt, 2012-03-06 07:30:00, 15, bicycle riders, M, 0, 31, 1, 0, 0, 0, 2, 1, 0, 0, 2, 0

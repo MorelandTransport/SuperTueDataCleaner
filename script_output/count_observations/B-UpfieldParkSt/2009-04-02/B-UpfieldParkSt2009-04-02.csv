@@ -1,5 +1,3 @@
-B-UpfieldParkSt-2009-04-02
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-UpfieldParkSt, 2009-04-02 07:00:00, 15, bicycle riders, F, 4, 3, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0
 B-UpfieldParkSt, 2009-04-02 07:15:00, 15, bicycle riders, F, 5, 5, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
@@ -9,8 +7,6 @@ B-UpfieldParkSt, 2009-04-02 08:00:00, 15, bicycle riders, F, 15, 29, 1, 0, 0, 0,
 B-UpfieldParkSt, 2009-04-02 08:15:00, 15, bicycle riders, F, 22, 25, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
 B-UpfieldParkSt, 2009-04-02 08:30:00, 15, bicycle riders, F, 24, 16, 0, 0, 1, 1, 0, 0, 0, 1, 4, 0
 B-UpfieldParkSt, 2009-04-02 08:45:00, 15, bicycle riders, F, 18, 21, 0, 1, 1, 1, 0, 2, 0, 1, 3, 0
-
-countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 B-UpfieldParkSt, 2009-04-02 07:00:00, 15, bicycle riders, M, 6, 10, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
 B-UpfieldParkSt, 2009-04-02 07:15:00, 15, bicycle riders, M, 8, 10, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0
 B-UpfieldParkSt, 2009-04-02 07:30:00, 15, bicycle riders, M, 22, 13, 0, 0, 1, 0, 1, 3, 0, 2, 6, 0

@@ -1,5 +1,3 @@
-BE-JohnStGlenlyonRd-2016-03-01
-
 countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 BE-JohnStGlenlyonRd, 2016-03-01 07:00:00, 15, bicycle riders, F, 0, 9, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0
 BE-JohnStGlenlyonRd, 2016-03-01 07:15:00, 15, bicycle riders, F, 0, 9, 0, 1, 1, 0, 0, 0, 0, 0, 2, 1
@@ -9,8 +7,6 @@ BE-JohnStGlenlyonRd, 2016-03-01 08:00:00, 15, bicycle riders, F, 1, 11, 2, 1, 2,
 BE-JohnStGlenlyonRd, 2016-03-01 08:15:00, 15, bicycle riders, F, 1, 17, 1, 0, 4, 0, 0, 0, 0, 0, 2, 5
 BE-JohnStGlenlyonRd, 2016-03-01 08:30:00, 15, bicycle riders, F, 0, 22, 1, 2, 2, 0, 0, 0, 1, 0, 4, 4
 BE-JohnStGlenlyonRd, 2016-03-01 08:45:00, 15, bicycle riders, F, 0, 15, 0, 2, 4, 0, 0, 0, 1, 0, 1, 4
-
-countsite, time, bin_duration, counting, gender, north_turn_left, north_through, north_turn_right, east_turn_left, east_through, east_turn_right, south_turn_left, south_through, south_turn_right, west_turn_left, west_through, west_turn_right
 BE-JohnStGlenlyonRd, 2016-03-01 07:00:00, 15, bicycle riders, M, 1, 6, 0, 1, 0, 0, 2, 0, 0, 0, 6, 3
 BE-JohnStGlenlyonRd, 2016-03-01 07:15:00, 15, bicycle riders, M, 0, 8, 0, 0, 0, 0, 1, 2, 0, 0, 1, 1
 BE-JohnStGlenlyonRd, 2016-03-01 07:30:00, 15, bicycle riders, M, 0, 13, 0, 0, 0, 0, 1, 1, 0, 0, 3, 1
