@@ -92,6 +92,12 @@ resultsdir = "./script_output/count_observations/"
 if not os.path.exists(resultsdir):
     os.makedirs(resultsdir)
 
+# Create a directory (if needed) for location information
+gisdir = "./script_output/count_locations/"
+if not os.path.exists(gisdir):
+    os.makedirs(gisdir)
+
+
 # Open the source data excel spreadsheet
 inputfilename    = "Traffic Count - Bicycle Count - Bike count - \
 Morning Peak 7am to 9am - Weekday - Super ~ 2017.XLSX"
@@ -99,9 +105,7 @@ workbook	= open_workbook(inputfilename, on_demand=True)
 print ' Opening ', inputfilename
 
 # Create a file for count details - potentially useful of GIS mapping.
-siteoutputfile = open(resultsdir + "count_location_details.csv", "w")
-siteoutputfile.write('count_location_details.csv' + '\n')
-siteoutputfile.write('\n')
+siteoutputfile = open(gisdir + "count_location_details.csv", "w")
 siteoutputfile.write('countsite, site_description, suburb, \
 dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road' + '\n')
 
