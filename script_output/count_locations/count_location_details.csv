@@ -1,5 +1,3 @@
-count_location_details.csv
-
 countsite, site_description, suburb, dist_from_cbd, easting, northing, melway_ref, primary_road, secondary_road
 BW-CityLinkBrunswickRd, Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge, Brunswick West, 5.7, 318495.19, 5817202.69, 29 B6, Moonee Ponds Creek Trail, Brunswick Rd
 BW-CityLinkDawsonSt, Dawson St and Jewel Crs - near CityLink, Brunswick West, 7.1, 318424.79, 5817844.06, 29 B8, Moonee Ponds Creek Trail, Dawson St
