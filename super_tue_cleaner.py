@@ -97,6 +97,11 @@ gisdir = "./script_output/count_locations/"
 if not os.path.exists(gisdir):
     os.makedirs(gisdir)
 
+# Create a directory (if needed) for summaries
+summarydir = "./script_output/summaries/"
+if not os.path.exists(summarydir):
+    os.makedirs(summarydir)
+
 
 # Open the source data excel spreadsheet
 inputfilename    = "Traffic Count - Bicycle Count - Bike count - \
@@ -462,7 +467,7 @@ for worksheet_num in range(6, 101):  # From 6 to 101
                         'from_north', 'from_east', 'from_south', 'from_west', \
                         'to_north', 'to_east', 'to_south', 'to_west']
 
-        output_file = open(resultsdir + countsite + "/" + countsite + "_summary7am-9am.csv", "w")
+        output_file = open(summarydir + countsite + "_summary7am-9am.csv", "w")
         for field in summary_list:
             output_file.write(field + ', ')
         output_file.write('\n')
@@ -475,15 +480,3 @@ for worksheet_num in range(6, 101):  # From 6 to 101
         # TODO: Output Summarised count to a file one file for each count site
         # [countdate 07:00:00][bin_duration = 120][gender = NA][total][from north][from east]\
         # [from south][from west][to north][to east][to south][to west]
-
-
-
-
-
-
-                # ------------------------------------------------------------------------------
-
-
-# Step 3
-#
-# For each of the metrics in step 2, calculate annualised growth, to report on change over time
