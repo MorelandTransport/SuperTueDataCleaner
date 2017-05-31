@@ -1,6 +1,6 @@
 # SuperTueDataCleaner
 ## Background
-The Moreland Council conducted bicycle surveys between 7am and 9am on a Tuesday in early March between 2006 and 2017. 
+The Moreland Council conducted bicycle surveys between 7am and 9am on a Tuesday in early March between 2006 and 2017.
 The methods used for these surveys were similar to the 'Super Tuesday' survey conducted by bicycle network https://www.bicyclenetwork.com.au/general/for-government-and-business/3060/
 
 Data from these serveys and analysis of the results was recorded the excel file 'Traffic Count - Bicycle Count - Bike count - Morning Peak 7am to 9am - Weekday - Super ~ 2017.xlsx'
@@ -18,11 +18,11 @@ super_tue_cleaner.py script written in python 2.7.13 and uses xlrd (available fr
 
 
 # TODO
-* Set up a *.github.io page to display and discuss results
-* Convert location point information display count site points on a WD84 (Web Macador - used by Google Maps and Open Street Maps) base map 
-* Configure the *.github.io page to support leaflet  - display points on a map window
+### Documentation
+* Add a licence to this repo.
+* Describe the execution order to go from raw data excel spreadsheet to results.
+
+### Add functionality
+* Join './script_output/count_locations/count_location_details.csv' and './script_output/allsites_summary/allmovesallriders7to9year.csv'. Convert to geojsn for display on a web map.
+* Convert location point information display count site points on a WD84 (Web Macador - used by Google Maps and Open Street Maps) base map
 * Create pop up boxes that depict 'change over time' graphs
-
-
-
-
