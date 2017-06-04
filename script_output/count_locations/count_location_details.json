@@ -1,0 +1,1552 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9391, 
+          -37.7745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge", 
+        "countsite": "BW-CityLinkBrunswickRd", 
+        "dist_from_cbd": 5.7, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9385, 
+          -37.7687
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Dawson St", 
+        "site_description": "Dawson St and Jewel Crs - near CityLink", 
+        "countsite": "BW-CityLinkDawsonSt", 
+        "dist_from_cbd": 7.1, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9377, 
+          -37.7641
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victoria St", 
+        "site_description": "Victoria St (CityLink Overpass)", 
+        "countsite": "BW-CityLinkVictoriaSt", 
+        "dist_from_cbd": 7.8, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9344, 
+          -37.7574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Albion St", 
+        "site_description": "Hopetoun Av Waxman Pde and Albion St", 
+        "countsite": "BW-HopetounAvAlbionSt", 
+        "dist_from_cbd": 8.8, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9439, 
+          -37.7694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Melville St and Dawson St", 
+        "countsite": "BW-MelvilleDawsonSt", 
+        "dist_from_cbd": 6.6, 
+        "primary_road": "Melville Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9439, 
+          -37.7694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Daly St South Daly St and Dawson St", 
+        "countsite": "BW-DalyStDawsonSt", 
+        "dist_from_cbd": 6.6, 
+        "primary_road": "Daly St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9451, 
+          -37.7762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Park St", 
+        "site_description": "Fleming St and Park St", 
+        "countsite": "BW-FlemingStParkSt", 
+        "dist_from_cbd": 5.6, 
+        "primary_road": "Fleming St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9496, 
+          -37.7768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Park St", 
+        "site_description": "55 Tram and Park St", 
+        "countsite": "BW-55TramParkSt", 
+        "dist_from_cbd": 5.2, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9488, 
+          -37.7757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Grantham St and Brunswick Rd", 
+        "countsite": "BW-GranthamStBrunswickRd", 
+        "dist_from_cbd": 5.5, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9438, 
+          -37.7648
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victoria St", 
+        "site_description": "Melville Rd and Victoria St", 
+        "countsite": "BW-MelvilleRdVictoriaSt", 
+        "dist_from_cbd": 7.2, 
+        "primary_road": "Melville Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9461, 
+          -37.7588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Albion St", 
+        "site_description": "Jolley St Burnell St and Albion St", 
+        "countsite": "BW-JolleyStAlbionSt", 
+        "dist_from_cbd": 7.8, 
+        "primary_road": "Daly St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9493, 
+          -37.7655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victoria St", 
+        "site_description": "Pearson St and Victoria Street", 
+        "countsite": "BW-PearsonStVictoriaSt", 
+        "dist_from_cbd": 6.7, 
+        "primary_road": "Pearson St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9499, 
+          -37.7702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Grantham St and Dawson St", 
+        "countsite": "B-GranthamDawsonSt", 
+        "dist_from_cbd": 6.1, 
+        "primary_road": "Grantham St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9192, 
+          -37.7591
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Albion St", 
+        "site_description": "Albion St and Fraser", 
+        "countsite": "B-FraserStAlbionSt", 
+        "dist_from_cbd": 7.2, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9521, 
+          -37.7761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Eastbound", 
+        "site_description": "Gray St and Brunswick Rd", 
+        "countsite": "B-GrayBrunswick", 
+        "dist_from_cbd": 5.4, 
+        "primary_road": "Southbound"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9582, 
+          -37.7778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Park St", 
+        "site_description": "Upfield Shared Path and Park St", 
+        "countsite": "B-UpfieldParkSt", 
+        "dist_from_cbd": 4.5, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9585, 
+          -37.7769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Upfield Shared Path and Brunswick Rd", 
+        "countsite": "B-UpfieldBrunswickRd", 
+        "dist_from_cbd": 4.7, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9614, 
+          -37.7716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Upfield Path and Dawson St", 
+        "countsite": "B-UpfieldDawsonSt", 
+        "dist_from_cbd": 5.3, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9598, 
+          -37.7668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victoria St", 
+        "site_description": "Upfield Shared Path and Victoria Street", 
+        "countsite": "B-UpfieldVictoriaSt", 
+        "dist_from_cbd": 5.8, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9609, 
+          -37.7605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Albion St", 
+        "site_description": "Upfield Bike Path at Albion St", 
+        "countsite": "B-UpfieldAlbionSt", 
+        "dist_from_cbd": 6.5, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9602, 
+          -37.778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Park St", 
+        "site_description": "Sydney Rd and Park St", 
+        "countsite": "B-SydneyRdParkSt", 
+        "dist_from_cbd": 4.4, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9604, 
+          -37.7771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Sydney Rd and Brunswick Rd", 
+        "countsite": "B-SydneyRdBrunswickRd", 
+        "dist_from_cbd": 4.5, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9613, 
+          -37.7721
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Sydney Rd and Glenylon Rd / Dawson St", 
+        "countsite": "B-SydneyRdGlenlyonRd", 
+        "dist_from_cbd": 5.1, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9621, 
+          -37.767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victoria St", 
+        "site_description": "Sydney Rd and Victoria Street", 
+        "countsite": "B-SydneyRdVictoriaSt", 
+        "dist_from_cbd": 5.6, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9624, 
+          -37.7655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Blyth St", 
+        "site_description": "Sydney Rd and Blyth St", 
+        "countsite": "B-SydneyRdBlythSt", 
+        "dist_from_cbd": 5.8, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9614, 
+          -37.7716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Albion St", 
+        "site_description": "Sydney Rd and Albion St", 
+        "countsite": "B-SydneyRdAlbionSt", 
+        "dist_from_cbd": 6.3, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9668, 
+          -37.7778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Ewing St and Brunswick Rd", 
+        "countsite": "B-EwingStBrunswickRd", 
+        "dist_from_cbd": 5.2, 
+        "primary_road": "Ewing St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9707, 
+          -37.7783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Lygon Street and Brunswick Road", 
+        "countsite": "BE-LygonStBrunswickRd", 
+        "dist_from_cbd": 4.8, 
+        "primary_road": "Lygon  - Holmes - Nicholson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9715, 
+          -37.7727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Lygon St and Glenlyon Rd", 
+        "countsite": "BE-LygonStGlenlyonRd", 
+        "dist_from_cbd": 6.0, 
+        "primary_road": "Lygon  - Holmes - Nicholson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9726, 
+          -37.7666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Blyth St", 
+        "site_description": "Lygon St and Blyth St", 
+        "countsite": "BE-LygonStBlythSt", 
+        "dist_from_cbd": 6.7, 
+        "primary_road": "Lygon  - Holmes - Nicholson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9747, 
+          -37.7787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Truscott / Amess St and Brunswick Road", 
+        "countsite": "BE-TruscottBrunswickRd", 
+        "dist_from_cbd": 4.7, 
+        "primary_road": "East Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9767, 
+          -37.7732
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "John St (East Brunswick Shimmy) and Glenlyon Rd", 
+        "countsite": "BE-JohnStGlenlyonRd", 
+        "dist_from_cbd": 5.4, 
+        "primary_road": "East Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9773, 
+          -37.7671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Blyth St", 
+        "site_description": "Bellvue St Elesbury (EB Shimmy) and Blyth St", 
+        "countsite": "BE-BellvueStBlythSt", 
+        "dist_from_cbd": 6.4, 
+        "primary_road": "East Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9782, 
+          -37.7791
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Brunswick Rd", 
+        "site_description": "Nicholson St and Brunswick Rd / Holden St", 
+        "countsite": "BE-NicholsonStBrunswickRd", 
+        "dist_from_cbd": 5.0, 
+        "primary_road": "Nicholson St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9792, 
+          -37.7735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon Rd", 
+        "site_description": "Nicholson St and Glenlyon Rd", 
+        "countsite": "BE-NicholsonStGlenlyonRd", 
+        "dist_from_cbd": 5.6, 
+        "primary_road": "Nicholson St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9802, 
+          -37.7673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Blyth St", 
+        "site_description": "Nicholson St  & Blyth St", 
+        "countsite": "BE-NicholsonStBlythSt", 
+        "dist_from_cbd": 6.3, 
+        "primary_road": "Nicholson St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9834, 
+          -37.7739
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Eastbound", 
+        "site_description": "King St and Glenlyon Rd", 
+        "countsite": "FN-KingStGlenlyon", 
+        "dist_from_cbd": 5.9, 
+        "primary_road": "Southbound"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9854, 
+          -37.7727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenlyon - Dawson", 
+        "site_description": "Merri Creek Trail & Sumner Park Bridge", 
+        "countsite": "BE-MerriCrkSumner", 
+        "dist_from_cbd": 6.3, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9839, 
+          -37.7674
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Blyth St", 
+        "site_description": "Merri Creek Trail & Blyth St", 
+        "countsite": "BE-MerriCrkBlythSt", 
+        "dist_from_cbd": 6.7, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9266, 
+          -37.751
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Moonee Ponds Creek Trail and Moreland Road", 
+        "countsite": "PVS-MooneePondsCrkMorelandRd", 
+        "dist_from_cbd": 10.3, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9284, 
+          -37.7336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moonee Ponds Creek Trail", 
+        "site_description": "Hayes Pde / Kernan Avenue and Tate St", 
+        "countsite": "PVS-KernanAvTateSt", 
+        "dist_from_cbd": 13.4, 
+        "primary_road": "Craigieburn Express"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9457, 
+          -37.7533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Melville Rd and Moreland Rd", 
+        "countsite": "PVS-MelvilleRdMorelandRd", 
+        "dist_from_cbd": 8.5, 
+        "primary_road": "Melville Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9491, 
+          -37.736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "OHea St Shared Path", 
+        "site_description": "Sussex St and OHea", 
+        "countsite": "PVS-SussexStOHeaSt", 
+        "dist_from_cbd": 10.5, 
+        "primary_road": "Sussex St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9385, 
+          -37.7458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Renyard St", 
+        "site_description": "Reynolds Pde Coonans Rd and Renyard St", 
+        "countsite": "PVS-ReynoldsPdeReynardSt", 
+        "dist_from_cbd": 9.9, 
+        "primary_road": "Reynolds Pde"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9444, 
+          -37.7465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Renyard St", 
+        "site_description": "Melville Rd and Reynard St", 
+        "countsite": "PVS-MelvilleRdRenyardSt", 
+        "dist_from_cbd": 9.3, 
+        "primary_road": "Melville Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9538, 
+          -37.7542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Haig Av Garnet St Shamrock St and Moreland Rd", 
+        "countsite": "C-HaigAvMorelandRd", 
+        "dist_from_cbd": 7.8, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.956, 
+          -37.744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Shaftsbury Vincent and Munro St", 
+        "countsite": "C-ShaftsburyStMunroSt", 
+        "dist_from_cbd": 8.9, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9575, 
+          -37.7368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "OHea St Shared Path", 
+        "site_description": "OHea St Path and Bourke St", 
+        "countsite": "C-BourkeStOHeaSt", 
+        "dist_from_cbd": 9.7, 
+        "primary_road": "West Brunswick Shimmy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9621, 
+          -37.7552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Upfield Shared Path and Moreland Rd", 
+        "countsite": "C-UpfieldMorelandRd", 
+        "dist_from_cbd": 7.1, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9632, 
+          -37.7447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Railway Pl and Munro St", 
+        "countsite": "C-UpfieldMunroSt", 
+        "dist_from_cbd": 8.3, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9632, 
+          -37.7374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "OHea St Shared Path", 
+        "site_description": "Upfield Shared Path and OHea St", 
+        "countsite": "C-UpfieldOHeaSt", 
+        "dist_from_cbd": 9.2, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9641, 
+          -37.7555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Sydney Rd and Moreland Rd", 
+        "countsite": "C-SydneyRdMorelandRd", 
+        "dist_from_cbd": 6.9, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9659, 
+          -37.745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Sydney Rd and Munro St Harding St", 
+        "countsite": "C-SydneyRdMunroSt", 
+        "dist_from_cbd": 8.1, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9669, 
+          -37.7378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "OHea St Shared Path", 
+        "site_description": "Sydney Rd and Ohea St", 
+        "countsite": "C-SydneyRdOHeaSt", 
+        "dist_from_cbd": 8.8, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.966, 
+          -37.7557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "DeCarle St and Moreland Rd", 
+        "countsite": "C-DeCarleStMorelandRd", 
+        "dist_from_cbd": 7.1, 
+        "primary_road": "De Carle St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9704, 
+          -37.7562
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Barrow St and Moreland Rd", 
+        "countsite": "C-BarrowStMorelandRd", 
+        "dist_from_cbd": 8.0, 
+        "primary_road": "Barrow St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9713, 
+          -37.751
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Rennie St", 
+        "site_description": "Barrow St & Rennie St", 
+        "countsite": "C-BarrowStRennieSt", 
+        "dist_from_cbd": 8.0, 
+        "primary_road": "Barrow St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9723, 
+          -37.7457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Barrow St and Harding Street", 
+        "countsite": "C-BarrowStHardingSt", 
+        "dist_from_cbd": 8.6, 
+        "primary_road": "Barrow St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9749, 
+          -37.7567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Nicholson St Holmes Rd and Moreland Rd", 
+        "countsite": "C-NicholsonStMorelandRd", 
+        "dist_from_cbd": 8.7, 
+        "primary_road": "Lygon  - Holmes - Nicholson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9774, 
+          -37.7463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Nicholson St and Harding St", 
+        "countsite": "C-NicholsonStHardingSt", 
+        "dist_from_cbd": 9.1, 
+        "primary_road": "Lygon  - Holmes - Nicholson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9798, 
+          -37.7573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Moreland Rd", 
+        "site_description": "Merri Creek Trail & Moreland Rd", 
+        "countsite": "C-MerriCrkMorelandRd", 
+        "dist_from_cbd": 8.2, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9798, 
+          -37.7464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Munro - Harding", 
+        "site_description": "Merri Creek Trail  at the Harding St Suspension Bridge", 
+        "countsite": "C-MerriCrkHardingSt", 
+        "dist_from_cbd": 11.3, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9787, 
+          -37.7393
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": null, 
+        "site_description": "Merri Creek Trail at DeChene Bridge", 
+        "countsite": "C-MerriCrkDeCheneBridge", 
+        "dist_from_cbd": 10.7, 
+        "primary_road": "Merri Creek Trail,"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9283, 
+          -37.7304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Gaffney St", 
+        "site_description": "Railway Pde Burgandy St and Gaffney St Park St", 
+        "countsite": "PV-BurgandyStGaffneySt", 
+        "dist_from_cbd": 14.1, 
+        "primary_road": "Craigieburn Express"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9458, 
+          -37.7323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Gaffney St", 
+        "site_description": "Derby St and Gaffney St", 
+        "countsite": "PV-DerbyStGaffneySt", 
+        "dist_from_cbd": 11.2, 
+        "primary_road": "Derby St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9393, 
+          -37.7265
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Essex St", 
+        "site_description": "Cumberland Rd and Essex", 
+        "countsite": "PV-CumberlandRdEssexSt", 
+        "dist_from_cbd": 12.3, 
+        "primary_road": "Cumberland Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9517, 
+          -37.718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Boundary Rd", 
+        "site_description": "Sussex St and Boundary Road", 
+        "countsite": "CN-SussexStBoundaryRd", 
+        "dist_from_cbd": 12.0, 
+        "primary_road": "Sussex St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9631, 
+          -37.7338
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Gaffney St", 
+        "site_description": "Upfield Shared Path and Gaffney St", 
+        "countsite": "CN-UpfieldGaffneySt", 
+        "dist_from_cbd": 9.3, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9621, 
+          -37.7273
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Bakers Rd", 
+        "site_description": "Upfield Path and Bakers Road", 
+        "countsite": "CN-UpfieldBakersRd", 
+        "dist_from_cbd": 10.2, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9603, 
+          -37.7189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Boundary Rd", 
+        "site_description": "Upfield Shared Path and Boundary Road", 
+        "countsite": "CN-UpfieldBoundaryRd", 
+        "dist_from_cbd": 11.2, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9637, 
+          -37.7274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Bakers Rd", 
+        "site_description": "Sydney Rd and Bakers Road", 
+        "countsite": "CN-SydneyRdBakersRd", 
+        "dist_from_cbd": 10.1, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9717, 
+          -37.7308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Carr St", 
+        "site_description": "Newlands Rd and Carr St", 
+        "countsite": "CN-NewlandsRdCarrSt", 
+        "dist_from_cbd": 10.3, 
+        "primary_road": "Newlands Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9836, 
+          -37.7318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Boyne St", 
+        "site_description": "Elizabeth St and Boyne St / Jacka St", 
+        "countsite": "CN-ElizabethStBoyneSt", 
+        "dist_from_cbd": 10.9, 
+        "primary_road": "Elizabeth St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9212, 
+          -37.7212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Winifred St", 
+        "site_description": "Pascoe Vale Rd and Winifred Devon St", 
+        "countsite": "OP-PascoeValeRdWinifredSt", 
+        "dist_from_cbd": 14.9, 
+        "primary_road": "Pascoe Vale Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9212, 
+          -37.7179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Meaker Av", 
+        "site_description": "Meaker Av and Station Rd", 
+        "countsite": "OP-StationRdMeakerAv", 
+        "dist_from_cbd": 14.8, 
+        "primary_road": "Craigieburn Express"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9217, 
+          -37.7179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Snell Gv", 
+        "site_description": "Waterloo St and Snell Grove", 
+        "countsite": "OP-WaterlooStSnellGv", 
+        "dist_from_cbd": 14.8, 
+        "primary_road": "Craigieburn Express"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.8918, 
+          -37.7095
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Gowanbrae Drive", 
+        "site_description": "Western Ring Rd Trail and Gowanbrae Drive", 
+        "countsite": "Gow-WestRingRdTrailGowanbraeDr", 
+        "dist_from_cbd": 20.0, 
+        "primary_road": "Western Ring Road Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.8981, 
+          -37.7093
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Eastbound", 
+        "site_description": "Moonee Ponds Creek Trail Under Trestle Bridge", 
+        "countsite": "Gow-MooneePondsCrkTrestleBridge", 
+        "dist_from_cbd": 18.4, 
+        "primary_road": "Moonee Ponds Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9072, 
+          -37.6934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Eastbound", 
+        "site_description": "Moonee Ponds Creek Trail and Western Ring Road Trail", 
+        "countsite": "Gow-MooneePondsCrkWestRingRd", 
+        "dist_from_cbd": 20.9, 
+        "primary_road": "Southbound"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9161, 
+          -37.7063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Glenroy Rd", 
+        "site_description": "Pascoe Vale Rd and Glenroy Rd", 
+        "countsite": "G-PascoeValeRdGlenroyRd", 
+        "dist_from_cbd": 16.1, 
+        "primary_road": "Pascoe Vale Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9161, 
+          -37.6947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Western Ring Road Trail", 
+        "site_description": "Electric St Harrington Ave and Western Ring Rd Trail", 
+        "countsite": "G-HarringtonStWestRingRdTrail", 
+        "dist_from_cbd": 17.3, 
+        "primary_road": "Craigieburn Express"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9252, 
+          -37.6947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Western Ring Road Trail", 
+        "site_description": "Widford St & Western Ring Road Trail", 
+        "countsite": "G-WidfordStWestRingRdTrail", 
+        "dist_from_cbd": 19.1, 
+        "primary_road": "Widford St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9245, 
+          -37.7058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Logan St", 
+        "site_description": "Logan St and Glenroy Rd", 
+        "countsite": "G-LoganStGlenroyRd", 
+        "dist_from_cbd": 15.6, 
+        "primary_road": "Glenroy Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9392, 
+          -37.702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Hilton - Box Forest", 
+        "site_description": "West St and Hilton St", 
+        "countsite": "H-HiltonStWestSt", 
+        "dist_from_cbd": 14.7, 
+        "primary_road": "West St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.959, 
+          -37.7044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Hilton - Box Forest", 
+        "site_description": "Upfield Shared Path Sages Rd and Box Forest Rd Hilton St", 
+        "countsite": "F-UpfieldBoxForestRd", 
+        "dist_from_cbd": 12.9, 
+        "primary_road": "Upfield Shared Path"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9585, 
+          -37.6921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Western Ring Road Trail", 
+        "site_description": "Sydney Rd (Hume Hwy) and Western Ring Road Trail", 
+        "countsite": "SydneyRdWestRingRdTrail", 
+        "dist_from_cbd": 14.4, 
+        "primary_road": "Sydney Rd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9646, 
+          -37.7141
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Yungera St", 
+        "site_description": "Wyuna St and Yungera St", 
+        "countsite": "F-WyunaStYungeraSt", 
+        "dist_from_cbd": 12.4, 
+        "primary_road": "Wyuna St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9691, 
+          -37.6958
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Anderson Rd", 
+        "site_description": "Hogan St William St and Anderson Rd", 
+        "countsite": "F-WilliamStAndersonRd", 
+        "dist_from_cbd": 14.7, 
+        "primary_road": "William St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9763, 
+          -37.7067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Victory", 
+        "site_description": "McBryde St Victory St Hare St", 
+        "countsite": "F-McBrydeStVictorySt", 
+        "dist_from_cbd": 13.2, 
+        "primary_road": "McBryde St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9724, 
+          -37.7195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Boundary Rd", 
+        "site_description": "Derby St Merri Crk Trail and Queens Pde", 
+        "countsite": "F-MerriCrkQueensPde", 
+        "dist_from_cbd": 11.6, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9703, 
+          -37.6928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "secondary_road": "Western Ring Road Trail", 
+        "site_description": "Merri Creek Trail and Western Ring Road Trail", 
+        "countsite": "MerriCrkTrailWestRingRdTrail", 
+        "dist_from_cbd": 19.3, 
+        "primary_road": "Merri Creek Trail"
+      }
+    }
+  ]
+}
