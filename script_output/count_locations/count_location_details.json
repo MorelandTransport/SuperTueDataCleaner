@@ -3,1549 +3,3005 @@
   "features": [
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9391, 
+          144.9391,
           -37.7745
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge", 
-        "countsite": "BW-CityLinkBrunswickRd", 
-        "dist_from_cbd": 5.7, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": 64.0,
+        "2016": null,
+        "countsite": "BW-CityLinkBrunswickRd",
+        "Most_recent_count_value": 87,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.9640000000000001,
+        "dist_from_cbd": 5.7,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Brunswick Rd / Ormond Rd and Gibson St - Near CityLink Bridge",
+        "2017": 87.0,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": null,
+        "2012": 60.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 6.9,
+        "2013": null,
+        "Annual_increase": 6.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9385, 
+          144.9385,
           -37.7687
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Dawson St", 
-        "site_description": "Dawson St and Jewel Crs - near CityLink", 
-        "countsite": "BW-CityLinkDawsonSt", 
-        "dist_from_cbd": 7.1, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": null,
+        "2016": null,
+        "countsite": "BW-CityLinkDawsonSt",
+        "Most_recent_count_value": 47,
+        "secondary_road": "Dawson St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.997,
+        "dist_from_cbd": 7.1,
+        "2010": 10.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Dawson St and Jewel Crs - near CityLink",
+        "2017": null,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": 47.0,
+        "2012": null,
+        "2008": 0.0,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 14.89,
+        "2013": null,
+        "Annual_increase": 7.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9377, 
+          144.9377,
           -37.7641
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victoria St", 
-        "site_description": "Victoria St (CityLink Overpass)", 
-        "countsite": "BW-CityLinkVictoriaSt", 
-        "dist_from_cbd": 7.8, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": 42.0,
+        "2016": null,
+        "countsite": "BW-CityLinkVictoriaSt",
+        "Most_recent_count_value": 42,
+        "secondary_road": "Victoria St",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 7.8,
+        "2010": null,
+        "Most_recent_count_year": 2014,
+        "site_description": "Victoria St (CityLink Overpass)",
+        "2017": null,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9344, 
+          144.9344,
           -37.7574
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Albion St", 
-        "site_description": "Hopetoun Av Waxman Pde and Albion St", 
-        "countsite": "BW-HopetounAvAlbionSt", 
-        "dist_from_cbd": 8.8, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": null,
+        "2016": 75.0,
+        "countsite": "BW-HopetounAvAlbionSt",
+        "Most_recent_count_value": 75,
+        "secondary_road": "Albion St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.937,
+        "dist_from_cbd": 8.8,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Hopetoun Av Waxman Pde and Albion St",
+        "2017": null,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 33.0,
+        "Growth_rate": 10.67,
+        "2013": 63.0,
+        "Annual_increase": 8.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9439, 
+          144.9439,
           -37.7694
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Melville St and Dawson St", 
-        "countsite": "BW-MelvilleDawsonSt", 
-        "dist_from_cbd": 6.6, 
-        "primary_road": "Melville Rd"
+        "2014": null,
+        "2016": 78.0,
+        "countsite": "BW-MelvilleDawsonSt",
+        "Most_recent_count_value": 78,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.945,
+        "dist_from_cbd": 6.6,
+        "2010": 57.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Melville St and Dawson St",
+        "2017": null,
+        "primary_road": "Melville Rd",
+        "2015": null,
+        "2012": 57.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 5.13,
+        "2013": null,
+        "Annual_increase": 4.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9439, 
+          144.9439,
           -37.7694
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Daly St South Daly St and Dawson St", 
-        "countsite": "BW-DalyStDawsonSt", 
-        "dist_from_cbd": 6.6, 
-        "primary_road": "Daly St"
+        "2014": null,
+        "2016": 133.0,
+        "countsite": "BW-DalyStDawsonSt",
+        "Most_recent_count_value": 133,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.392,
+        "dist_from_cbd": 6.6,
+        "2010": 119.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Daly St South Daly St and Dawson St",
+        "2017": null,
+        "primary_road": "Daly St",
+        "2015": null,
+        "2012": 70.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": 4.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9451, 
+          144.9451,
           -37.7762
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Park St", 
-        "site_description": "Fleming St and Park St", 
-        "countsite": "BW-FlemingStParkSt", 
-        "dist_from_cbd": 5.6, 
-        "primary_road": "Fleming St"
+        "2014": null,
+        "2016": null,
+        "countsite": "BW-FlemingStParkSt",
+        "Most_recent_count_value": 136,
+        "secondary_road": "Park St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 5.6,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Fleming St and Park St",
+        "2017": null,
+        "primary_road": "Fleming St",
+        "2015": 136.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 126.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9496, 
+          144.9496,
           -37.7768
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Park St", 
-        "site_description": "55 Tram and Park St", 
-        "countsite": "BW-55TramParkSt", 
-        "dist_from_cbd": 5.2, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": 300.0,
+        "2016": null,
+        "countsite": "BW-55TramParkSt",
+        "Most_recent_count_value": 287,
+        "secondary_road": "Park St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.512,
+        "dist_from_cbd": 5.2,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "55 Tram and Park St",
+        "2017": 287.0,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 2.44,
+        "2013": 245.0,
+        "Annual_increase": 7.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9488, 
+          144.9488,
           -37.7757
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Grantham St and Brunswick Rd", 
-        "countsite": "BW-GranthamStBrunswickRd", 
-        "dist_from_cbd": 5.5, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": null,
+        "2016": null,
+        "countsite": "BW-GranthamStBrunswickRd",
+        "Most_recent_count_value": 195,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.9990000000000001,
+        "dist_from_cbd": 5.5,
+        "2010": 120.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Grantham St and Brunswick Rd",
+        "2017": 195.0,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": 139.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 5.64,
+        "2013": null,
+        "Annual_increase": 11.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9438, 
+          144.9438,
           -37.7648
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victoria St", 
-        "site_description": "Melville Rd and Victoria St", 
-        "countsite": "BW-MelvilleRdVictoriaSt", 
-        "dist_from_cbd": 7.2, 
-        "primary_road": "Melville Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "BW-MelvilleRdVictoriaSt",
+        "Most_recent_count_value": 103,
+        "secondary_road": "Victoria St",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.8390000000000001,
+        "dist_from_cbd": 7.2,
+        "2010": 75.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Melville Rd and Victoria St",
+        "2017": 103.0,
+        "primary_road": "Melville Rd",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 55.0,
+        "Growth_rate": 4.85,
+        "2013": 86.0,
+        "Annual_increase": 5.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9461, 
+          144.9461,
           -37.7588
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Albion St", 
-        "site_description": "Jolley St Burnell St and Albion St", 
-        "countsite": "BW-JolleyStAlbionSt", 
-        "dist_from_cbd": 7.8, 
-        "primary_road": "Daly St"
+        "2014": null,
+        "2016": null,
+        "countsite": "BW-JolleyStAlbionSt",
+        "Most_recent_count_value": 98,
+        "secondary_road": "Albion St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 7.8,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Jolley St Burnell St and Albion St",
+        "2017": null,
+        "primary_road": "Daly St",
+        "2015": 98.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 59.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9493, 
+          144.9493,
           -37.7655
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victoria St", 
-        "site_description": "Pearson St and Victoria Street", 
-        "countsite": "BW-PearsonStVictoriaSt", 
-        "dist_from_cbd": 6.7, 
-        "primary_road": "Pearson St"
+        "2014": null,
+        "2016": 181.0,
+        "countsite": "BW-PearsonStVictoriaSt",
+        "Most_recent_count_value": 181,
+        "secondary_road": "Victoria St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.975,
+        "dist_from_cbd": 6.7,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Pearson St and Victoria Street",
+        "2017": null,
+        "primary_road": "Pearson St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 112.0,
+        "Growth_rate": 7.18,
+        "2013": 153.0,
+        "Annual_increase": 13.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9499, 
+          144.9499,
           -37.7702
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Grantham St and Dawson St", 
-        "countsite": "B-GranthamDawsonSt", 
-        "dist_from_cbd": 6.1, 
-        "primary_road": "Grantham St"
+        "2014": null,
+        "2016": 180.0,
+        "countsite": "B-GranthamDawsonSt",
+        "Most_recent_count_value": 180,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.545,
+        "dist_from_cbd": 6.1,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Grantham St and Dawson St",
+        "2017": null,
+        "primary_road": "Grantham St",
+        "2015": 187.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": -0.56,
+        "2013": 185.0,
+        "Annual_increase": -1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9192, 
+          144.9192,
           -37.7591
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Albion St", 
-        "site_description": "Albion St and Fraser", 
-        "countsite": "B-FraserStAlbionSt", 
-        "dist_from_cbd": 7.2, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": 84.0,
+        "2016": null,
+        "countsite": "B-FraserStAlbionSt",
+        "Most_recent_count_value": 114,
+        "secondary_road": "Albion St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.998,
+        "dist_from_cbd": 7.2,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Albion St and Fraser",
+        "2017": 114.0,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": 68.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 7.89,
+        "2013": null,
+        "Annual_increase": 9.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9521, 
+          144.9521,
           -37.7761
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Eastbound", 
-        "site_description": "Gray St and Brunswick Rd", 
-        "countsite": "B-GrayBrunswick", 
-        "dist_from_cbd": 5.4, 
-        "primary_road": "Southbound"
+        "2014": null,
+        "2016": null,
+        "countsite": "B-GrayBrunswick",
+        "Most_recent_count_value": 62,
+        "secondary_road": "Eastbound",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 5.4,
+        "2010": null,
+        "Most_recent_count_year": 2013,
+        "site_description": "Gray St and Brunswick Rd",
+        "2017": null,
+        "primary_road": "Southbound",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 44.0,
+        "Growth_rate": null,
+        "2013": 62.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9582, 
+          144.9582,
           -37.7778
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Park St", 
-        "site_description": "Upfield Shared Path and Park St", 
-        "countsite": "B-UpfieldParkSt", 
-        "dist_from_cbd": 4.5, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "B-UpfieldParkSt",
+        "Most_recent_count_value": 1134,
+        "secondary_road": "Park St",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.7440000000000001,
+        "dist_from_cbd": 4.5,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Upfield Shared Path and Park St",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 1134.0,
+        "2012": null,
+        "2008": null,
+        "2009": 681.0,
+        "2011": 807.0,
+        "Growth_rate": 5.47,
+        "2013": 681.0,
+        "Annual_increase": 62.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9585, 
+          144.9585,
           -37.7769
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Upfield Shared Path and Brunswick Rd", 
-        "countsite": "B-UpfieldBrunswickRd", 
-        "dist_from_cbd": 4.7, 
-        "primary_road": "Upfield Shared Path"
+        "2014": 1074.0,
+        "2016": null,
+        "countsite": "B-UpfieldBrunswickRd",
+        "Most_recent_count_value": 1187,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.975,
+        "dist_from_cbd": 4.7,
+        "2010": 689.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Upfield Shared Path and Brunswick Rd",
+        "2017": 1187.0,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 6.15,
+        "2013": null,
+        "Annual_increase": 73.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9614, 
+          144.9614,
           -37.7716
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Upfield Path and Dawson St", 
-        "countsite": "B-UpfieldDawsonSt", 
-        "dist_from_cbd": 5.3, 
-        "primary_road": "Upfield Shared Path"
+        "2014": 1074.0,
+        "2016": null,
+        "countsite": "B-UpfieldDawsonSt",
+        "Most_recent_count_value": 651,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.39299999999999996,
+        "dist_from_cbd": 5.3,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Upfield Path and Dawson St",
+        "2017": 651.0,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": 775.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": -34.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9598, 
+          144.9598,
           -37.7668
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victoria St", 
-        "site_description": "Upfield Shared Path and Victoria Street", 
-        "countsite": "B-UpfieldVictoriaSt", 
-        "dist_from_cbd": 5.8, 
-        "primary_road": "Upfield Shared Path"
+        "2014": 832.0,
+        "2016": null,
+        "countsite": "B-UpfieldVictoriaSt",
+        "Most_recent_count_value": 985,
+        "secondary_road": "Victoria St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.9790000000000001,
+        "dist_from_cbd": 5.8,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Upfield Shared Path and Victoria Street",
+        "2017": 985.0,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": 623.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 7.21,
+        "2013": null,
+        "Annual_increase": 71.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9609, 
+          144.9609,
           -37.7605
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Albion St", 
-        "site_description": "Upfield Bike Path at Albion St", 
-        "countsite": "B-UpfieldAlbionSt", 
-        "dist_from_cbd": 6.5, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": 668.0,
+        "countsite": "B-UpfieldAlbionSt",
+        "Most_recent_count_value": 668,
+        "secondary_road": "Albion St",
+        "Number_of_times_counted": 3,
+        "rvalue": 1.0,
+        "dist_from_cbd": 6.5,
+        "2010": 405.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Upfield Bike Path at Albion St",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": 487.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 6.59,
+        "2013": null,
+        "Annual_increase": 44.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9602, 
+          144.9602,
           -37.778
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Park St", 
-        "site_description": "Sydney Rd and Park St", 
-        "countsite": "B-SydneyRdParkSt", 
-        "dist_from_cbd": 4.4, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "B-SydneyRdParkSt",
+        "Most_recent_count_value": 1063,
+        "secondary_road": "Park St",
+        "Number_of_times_counted": 5,
+        "rvalue": 0.905,
+        "dist_from_cbd": 4.4,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Sydney Rd and Park St",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": 1063.0,
+        "2012": null,
+        "2008": null,
+        "2009": 740.0,
+        "2011": 766.0,
+        "Growth_rate": 3.76,
+        "2013": 747.0,
+        "Annual_increase": 40.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9604, 
+          144.9604,
           -37.7771
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Sydney Rd and Brunswick Rd", 
-        "countsite": "B-SydneyRdBrunswickRd", 
-        "dist_from_cbd": 4.5, 
-        "primary_road": "Sydney Rd"
+        "2014": 689.0,
+        "2016": null,
+        "countsite": "B-SydneyRdBrunswickRd",
+        "Most_recent_count_value": 549,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.377,
+        "dist_from_cbd": 4.5,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Sydney Rd and Brunswick Rd",
+        "2017": 549.0,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 463.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": 14.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9613, 
+          144.9613,
           -37.7721
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Sydney Rd and Glenylon Rd / Dawson St", 
-        "countsite": "B-SydneyRdGlenlyonRd", 
-        "dist_from_cbd": 5.1, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": 459.0,
+        "countsite": "B-SydneyRdGlenlyonRd",
+        "Most_recent_count_value": 459,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.685,
+        "dist_from_cbd": 5.1,
+        "2010": 458.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Sydney Rd and Glenylon Rd / Dawson St",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": 281.0,
+        "2008": 0.0,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 9.37,
+        "2013": null,
+        "Annual_increase": 43.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9621, 
+          144.9621,
           -37.767
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victoria St", 
-        "site_description": "Sydney Rd and Victoria Street", 
-        "countsite": "B-SydneyRdVictoriaSt", 
-        "dist_from_cbd": 5.6, 
-        "primary_road": "Sydney Rd"
+        "2014": 361.0,
+        "2016": null,
+        "countsite": "B-SydneyRdVictoriaSt",
+        "Most_recent_count_value": 300,
+        "secondary_road": "Victoria St",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.6759999999999999,
+        "dist_from_cbd": 5.6,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Sydney Rd and Victoria Street",
+        "2017": 300.0,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": 336.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": -2.67,
+        "2013": null,
+        "Annual_increase": -8.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9624, 
+          144.9624,
           -37.7655
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Blyth St", 
-        "site_description": "Sydney Rd and Blyth St", 
-        "countsite": "B-SydneyRdBlythSt", 
-        "dist_from_cbd": 5.8, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "B-SydneyRdBlythSt",
+        "Most_recent_count_value": 208,
+        "secondary_road": "Blyth St",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.805,
+        "dist_from_cbd": 5.8,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Sydney Rd and Blyth St",
+        "2017": 208.0,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 224.0,
+        "Growth_rate": -1.44,
+        "2013": 231.0,
+        "Annual_increase": -3.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9614, 
+          144.9614,
           -37.7716
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Albion St", 
-        "site_description": "Sydney Rd and Albion St", 
-        "countsite": "B-SydneyRdAlbionSt", 
-        "dist_from_cbd": 6.3, 
-        "primary_road": "Sydney Rd"
+        "2014": 216.0,
+        "2016": 233.0,
+        "countsite": "B-SydneyRdAlbionSt",
+        "Most_recent_count_value": 233,
+        "secondary_road": "Albion St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.585,
+        "dist_from_cbd": 6.3,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Sydney Rd and Albion St",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": 223.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 1.29,
+        "2013": null,
+        "Annual_increase": 3.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9668, 
+          144.9668,
           -37.7778
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Ewing St and Brunswick Rd", 
-        "countsite": "B-EwingStBrunswickRd", 
-        "dist_from_cbd": 5.2, 
-        "primary_road": "Ewing St"
+        "2014": null,
+        "2016": 287.0,
+        "countsite": "B-EwingStBrunswickRd",
+        "Most_recent_count_value": 287,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.763,
+        "dist_from_cbd": 5.2,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Ewing St and Brunswick Rd",
+        "2017": null,
+        "primary_road": "Ewing St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 209.0,
+        "Growth_rate": 4.88,
+        "2013": 293.0,
+        "Annual_increase": 14.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9707, 
+          144.9707,
           -37.7783
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Lygon Street and Brunswick Road", 
-        "countsite": "BE-LygonStBrunswickRd", 
-        "dist_from_cbd": 4.8, 
-        "primary_road": "Lygon  - Holmes - Nicholson"
+        "2014": null,
+        "2016": null,
+        "countsite": "BE-LygonStBrunswickRd",
+        "Most_recent_count_value": 309,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.982,
+        "dist_from_cbd": 4.8,
+        "2010": 276.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Lygon Street and Brunswick Road",
+        "2017": null,
+        "primary_road": "Lygon  - Holmes - Nicholson",
+        "2015": 309.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 276.0,
+        "Growth_rate": 2.27,
+        "2013": null,
+        "Annual_increase": 7.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9715, 
+          144.9715,
           -37.7727
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Lygon St and Glenlyon Rd", 
-        "countsite": "BE-LygonStGlenlyonRd", 
-        "dist_from_cbd": 6.0, 
-        "primary_road": "Lygon  - Holmes - Nicholson"
+        "2014": null,
+        "2016": 322.0,
+        "countsite": "BE-LygonStGlenlyonRd",
+        "Most_recent_count_value": 322,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.7440000000000001,
+        "dist_from_cbd": 6.0,
+        "2010": 269.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Lygon St and Glenlyon Rd",
+        "2017": null,
+        "primary_road": "Lygon  - Holmes - Nicholson",
+        "2015": null,
+        "2012": 235.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 3.42,
+        "2013": null,
+        "Annual_increase": 11.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9726, 
+          144.9726,
           -37.7666
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Blyth St", 
-        "site_description": "Lygon St and Blyth St", 
-        "countsite": "BE-LygonStBlythSt", 
-        "dist_from_cbd": 6.7, 
-        "primary_road": "Lygon  - Holmes - Nicholson"
+        "2014": null,
+        "2016": null,
+        "countsite": "BE-LygonStBlythSt",
+        "Most_recent_count_value": 210,
+        "secondary_road": "Blyth St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 6.7,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Lygon St and Blyth St",
+        "2017": null,
+        "primary_road": "Lygon  - Holmes - Nicholson",
+        "2015": 210.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 196.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9747, 
+          144.9747,
           -37.7787
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Truscott / Amess St and Brunswick Road", 
-        "countsite": "BE-TruscottBrunswickRd", 
-        "dist_from_cbd": 4.7, 
-        "primary_road": "East Brunswick Shimmy"
+        "2014": null,
+        "2016": null,
+        "countsite": "BE-TruscottBrunswickRd",
+        "Most_recent_count_value": 322,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.6920000000000001,
+        "dist_from_cbd": 4.7,
+        "2010": 255.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Truscott / Amess St and Brunswick Road",
+        "2017": 322.0,
+        "primary_road": "East Brunswick Shimmy",
+        "2015": 389.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 301.0,
+        "Growth_rate": 3.73,
+        "2013": null,
+        "Annual_increase": 12.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9767, 
+          144.9767,
           -37.7732
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "John St (East Brunswick Shimmy) and Glenlyon Rd", 
-        "countsite": "BE-JohnStGlenlyonRd", 
-        "dist_from_cbd": 5.4, 
-        "primary_road": "East Brunswick Shimmy"
+        "2014": null,
+        "2016": 382.0,
+        "countsite": "BE-JohnStGlenlyonRd",
+        "Most_recent_count_value": 382,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.986,
+        "dist_from_cbd": 5.4,
+        "2010": 205.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "John St (East Brunswick Shimmy) and Glenlyon Rd",
+        "2017": null,
+        "primary_road": "East Brunswick Shimmy",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 7.85,
+        "2013": 319.0,
+        "Annual_increase": 30.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9773, 
+          144.9773,
           -37.7671
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Blyth St", 
-        "site_description": "Bellvue St Elesbury (EB Shimmy) and Blyth St", 
-        "countsite": "BE-BellvueStBlythSt", 
-        "dist_from_cbd": 6.4, 
-        "primary_road": "East Brunswick Shimmy"
+        "2014": null,
+        "2016": null,
+        "countsite": "BE-BellvueStBlythSt",
+        "Most_recent_count_value": 185,
+        "secondary_road": "Blyth St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 6.4,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Bellvue St Elesbury (EB Shimmy) and Blyth St",
+        "2017": null,
+        "primary_road": "East Brunswick Shimmy",
+        "2015": 185.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 176.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9782, 
+          144.9782,
           -37.7791
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Brunswick Rd", 
-        "site_description": "Nicholson St and Brunswick Rd / Holden St", 
-        "countsite": "BE-NicholsonStBrunswickRd", 
-        "dist_from_cbd": 5.0, 
-        "primary_road": "Nicholson St"
+        "2014": null,
+        "2016": 124.0,
+        "countsite": "BE-NicholsonStBrunswickRd",
+        "Most_recent_count_value": 124,
+        "secondary_road": "Brunswick Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.9520000000000001,
+        "dist_from_cbd": 5.0,
+        "2010": 166.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Nicholson St and Brunswick Rd / Holden St",
+        "2017": null,
+        "primary_road": "Nicholson St",
+        "2015": null,
+        "2012": 165.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": -5.65,
+        "2013": null,
+        "Annual_increase": -7.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9792, 
+          144.9792,
           -37.7735
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon Rd", 
-        "site_description": "Nicholson St and Glenlyon Rd", 
-        "countsite": "BE-NicholsonStGlenlyonRd", 
-        "dist_from_cbd": 5.6, 
-        "primary_road": "Nicholson St"
+        "2014": 197.0,
+        "2016": null,
+        "countsite": "BE-NicholsonStGlenlyonRd",
+        "Most_recent_count_value": 173,
+        "secondary_road": "Glenlyon Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.196,
+        "dist_from_cbd": 5.6,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Nicholson St and Glenlyon Rd",
+        "2017": 173.0,
+        "primary_road": "Nicholson St",
+        "2015": null,
+        "2012": 162.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9802, 
+          144.9802,
           -37.7673
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Blyth St", 
-        "site_description": "Nicholson St  & Blyth St", 
-        "countsite": "BE-NicholsonStBlythSt", 
-        "dist_from_cbd": 6.3, 
-        "primary_road": "Nicholson St"
+        "2014": null,
+        "2016": null,
+        "countsite": "BE-NicholsonStBlythSt",
+        "Most_recent_count_value": 113,
+        "secondary_road": "Blyth St",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.907,
+        "dist_from_cbd": 6.3,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Nicholson St  & Blyth St",
+        "2017": 113.0,
+        "primary_road": "Nicholson St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 169.0,
+        "Growth_rate": -8.85,
+        "2013": 176.0,
+        "Annual_increase": -10.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9834, 
+          144.9834,
           -37.7739
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Eastbound", 
-        "site_description": "King St and Glenlyon Rd", 
-        "countsite": "FN-KingStGlenlyon", 
-        "dist_from_cbd": 5.9, 
-        "primary_road": "Southbound"
+        "2014": null,
+        "2016": null,
+        "countsite": "FN-KingStGlenlyon",
+        "Most_recent_count_value": 167,
+        "secondary_road": "Eastbound",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 5.9,
+        "2010": null,
+        "Most_recent_count_year": 2013,
+        "site_description": "King St and Glenlyon Rd",
+        "2017": null,
+        "primary_road": "Southbound",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 167.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9854, 
+          144.9854,
           -37.7727
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenlyon - Dawson", 
-        "site_description": "Merri Creek Trail & Sumner Park Bridge", 
-        "countsite": "BE-MerriCrkSumner", 
-        "dist_from_cbd": 6.3, 
-        "primary_road": "Merri Creek Trail"
+        "2014": 203.0,
+        "2016": 253.0,
+        "countsite": "BE-MerriCrkSumner",
+        "Most_recent_count_value": 253,
+        "secondary_road": "Glenlyon - Dawson",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 6.3,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Merri Creek Trail & Sumner Park Bridge",
+        "2017": null,
+        "primary_road": "Merri Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9839, 
+          144.9839,
           -37.7674
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Blyth St", 
-        "site_description": "Merri Creek Trail & Blyth St", 
-        "countsite": "BE-MerriCrkBlythSt", 
-        "dist_from_cbd": 6.7, 
-        "primary_road": "Merri Creek Trail"
+        "2014": 342.0,
+        "2016": 429.0,
+        "countsite": "BE-MerriCrkBlythSt",
+        "Most_recent_count_value": 429,
+        "secondary_road": "Blyth St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 6.7,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Merri Creek Trail & Blyth St",
+        "2017": null,
+        "primary_road": "Merri Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9266, 
+          144.9266,
           -37.751
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Moonee Ponds Creek Trail and Moreland Road", 
-        "countsite": "PVS-MooneePondsCrkMorelandRd", 
-        "dist_from_cbd": 10.3, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": null,
+        "2016": null,
+        "countsite": "PVS-MooneePondsCrkMorelandRd",
+        "Most_recent_count_value": 156,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 10.3,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Moonee Ponds Creek Trail and Moreland Road",
+        "2017": null,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": 156.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 151.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9284, 
+          144.9284,
           -37.7336
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moonee Ponds Creek Trail", 
-        "site_description": "Hayes Pde / Kernan Avenue and Tate St", 
-        "countsite": "PVS-KernanAvTateSt", 
-        "dist_from_cbd": 13.4, 
-        "primary_road": "Craigieburn Express"
+        "2014": 88.0,
+        "2016": null,
+        "countsite": "PVS-KernullAvTateSt",
+        "Most_recent_count_value": 49,
+        "secondary_road": "Moonee Ponds Creek Trail",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.505,
+        "dist_from_cbd": 13.4,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Hayes Pde / Kernull Avenue and Tate St",
+        "2017": null,
+        "primary_road": "Craigieburn Express",
+        "2015": 49.0,
+        "2012": 29.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 20.41,
+        "2013": null,
+        "Annual_increase": 10.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9457, 
+          144.9457,
           -37.7533
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Melville Rd and Moreland Rd", 
-        "countsite": "PVS-MelvilleRdMorelandRd", 
-        "dist_from_cbd": 8.5, 
-        "primary_road": "Melville Rd"
+        "2014": null,
+        "2016": 73.0,
+        "countsite": "PVS-MelvilleRdMorelandRd",
+        "Most_recent_count_value": 73,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.711,
+        "dist_from_cbd": 8.5,
+        "2010": 98.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Melville Rd and Moreland Rd",
+        "2017": null,
+        "primary_road": "Melville Rd",
+        "2015": null,
+        "2012": 71.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": -4.11,
+        "2013": null,
+        "Annual_increase": -3.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9491, 
+          144.9491,
           -37.736
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "OHea St Shared Path", 
-        "site_description": "Sussex St and OHea", 
-        "countsite": "PVS-SussexStOHeaSt", 
-        "dist_from_cbd": 10.5, 
-        "primary_road": "Sussex St"
+        "2014": null,
+        "2016": null,
+        "countsite": "PVS-SussexStOHeaSt",
+        "Most_recent_count_value": 55,
+        "secondary_road": "OHea St Shared Path",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.935,
+        "dist_from_cbd": 10.5,
+        "2010": 37.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Sussex St and OHea",
+        "2017": null,
+        "primary_road": "Sussex St",
+        "2015": 55.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 33.0,
+        "Growth_rate": 7.27,
+        "2013": null,
+        "Annual_increase": 4.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9385, 
+          144.9385,
           -37.7458
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Renyard St", 
-        "site_description": "Reynolds Pde Coonans Rd and Renyard St", 
-        "countsite": "PVS-ReynoldsPdeReynardSt", 
-        "dist_from_cbd": 9.9, 
-        "primary_road": "Reynolds Pde"
+        "2014": null,
+        "2016": null,
+        "countsite": "PVS-ReynoldsPdeReynardSt",
+        "Most_recent_count_value": 24,
+        "secondary_road": "Renyard St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 9.9,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Reynolds Pde Coonulls Rd and Renyard St",
+        "2017": null,
+        "primary_road": "Reynolds Pde",
+        "2015": 24.0,
+        "2012": 19.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9444, 
+          144.9444,
           -37.7465
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Renyard St", 
-        "site_description": "Melville Rd and Reynard St", 
-        "countsite": "PVS-MelvilleRdRenyardSt", 
-        "dist_from_cbd": 9.3, 
-        "primary_road": "Melville Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "PVS-MelvilleRdRenyardSt",
+        "Most_recent_count_value": 58,
+        "secondary_road": "Renyard St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 9.3,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Melville Rd and Reynard St",
+        "2017": null,
+        "primary_road": "Melville Rd",
+        "2015": 58.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 33.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9538, 
+          144.9538,
           -37.7542
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Haig Av Garnet St Shamrock St and Moreland Rd", 
-        "countsite": "C-HaigAvMorelandRd", 
-        "dist_from_cbd": 7.8, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": null,
+        "2016": 97.0,
+        "countsite": "C-HaigAvMorelandRd",
+        "Most_recent_count_value": 97,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.978,
+        "dist_from_cbd": 7.8,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Haig Av Garnet St Shamrock St and Moreland Rd",
+        "2017": null,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": 80.0,
+        "2008": null,
+        "2009": null,
+        "2011": 69.0,
+        "Growth_rate": 5.15,
+        "2013": null,
+        "Annual_increase": 5.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.956, 
+          144.956,
           -37.744
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Shaftsbury Vincent and Munro St", 
-        "countsite": "C-ShaftsburyStMunroSt", 
-        "dist_from_cbd": 8.9, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": null,
+        "2016": 32.0,
+        "countsite": "C-ShaftsburyStMunroSt",
+        "Most_recent_count_value": 32,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.996,
+        "dist_from_cbd": 8.9,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Shaftsbury Vincent and Munro St",
+        "2017": null,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": 27.0,
+        "2008": null,
+        "2009": null,
+        "2011": 25.0,
+        "Growth_rate": 3.13,
+        "2013": null,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9575, 
+          144.9575,
           -37.7368
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "OHea St Shared Path", 
-        "site_description": "OHea St Path and Bourke St", 
-        "countsite": "C-BourkeStOHeaSt", 
-        "dist_from_cbd": 9.7, 
-        "primary_road": "West Brunswick Shimmy"
+        "2014": 88.0,
+        "2016": 106.0,
+        "countsite": "C-BourkeStOHeaSt",
+        "Most_recent_count_value": 106,
+        "secondary_road": "OHea St Shared Path",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.976,
+        "dist_from_cbd": 9.7,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "OHea St Path and Bourke St",
+        "2017": null,
+        "primary_road": "West Brunswick Shimmy",
+        "2015": null,
+        "2012": 47.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 14.15,
+        "2013": null,
+        "Annual_increase": 15.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9621, 
+          144.9621,
           -37.7552
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Upfield Shared Path and Moreland Rd", 
-        "countsite": "C-UpfieldMorelandRd", 
-        "dist_from_cbd": 7.1, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-UpfieldMorelandRd",
+        "Most_recent_count_value": 406,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.898,
+        "dist_from_cbd": 7.1,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Upfield Shared Path and Moreland Rd",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 406.0,
+        "2012": null,
+        "2008": null,
+        "2009": 243.0,
+        "2011": 327.0,
+        "Growth_rate": 5.67,
+        "2013": 306.0,
+        "Annual_increase": 23.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9632, 
+          144.9632,
           -37.7447
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Railway Pl and Munro St", 
-        "countsite": "C-UpfieldMunroSt", 
-        "dist_from_cbd": 8.3, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-UpfieldMunroSt",
+        "Most_recent_count_value": 238,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.6629999999999999,
+        "dist_from_cbd": 8.3,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Railway Pl and Munro St",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 238.0,
+        "2012": 213.0,
+        "2008": null,
+        "2009": null,
+        "2011": 156.0,
+        "Growth_rate": 6.72,
+        "2013": 155.0,
+        "Annual_increase": 16.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9632, 
+          144.9632,
           -37.7374
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "OHea St Shared Path", 
-        "site_description": "Upfield Shared Path and OHea St", 
-        "countsite": "C-UpfieldOHeaSt", 
-        "dist_from_cbd": 9.2, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-UpfieldOHeaSt",
+        "Most_recent_count_value": 241,
+        "secondary_road": "OHea St Shared Path",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.7609999999999999,
+        "dist_from_cbd": 9.2,
+        "2010": 125.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Upfield Shared Path and OHea St",
+        "2017": 241.0,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": 123.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 7.47,
+        "2013": 247.0,
+        "Annual_increase": 18.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9641, 
+          144.9641,
           -37.7555
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Sydney Rd and Moreland Rd", 
-        "countsite": "C-SydneyRdMorelandRd", 
-        "dist_from_cbd": 6.9, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-SydneyRdMorelandRd",
+        "Most_recent_count_value": 156,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.981,
+        "dist_from_cbd": 6.9,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Sydney Rd and Moreland Rd",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": 156.0,
+        "2012": null,
+        "2008": null,
+        "2009": 122.0,
+        "2011": 138.0,
+        "Growth_rate": 3.85,
+        "2013": 150.0,
+        "Annual_increase": 6.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9659, 
+          144.9659,
           -37.745
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Sydney Rd and Munro St Harding St", 
-        "countsite": "C-SydneyRdMunroSt", 
-        "dist_from_cbd": 8.1, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-SydneyRdMunroSt",
+        "Most_recent_count_value": 79,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 4,
+        "rvalue": 0.353,
+        "dist_from_cbd": 8.1,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Sydney Rd and Munro St Harding St",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": 79.0,
+        "2012": null,
+        "2008": null,
+        "2009": 67.0,
+        "2011": 92.0,
+        "Growth_rate": null,
+        "2013": 85.0,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9669, 
+          144.9669,
           -37.7378
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "OHea St Shared Path", 
-        "site_description": "Sydney Rd and Ohea St", 
-        "countsite": "C-SydneyRdOHeaSt", 
-        "dist_from_cbd": 8.8, 
-        "primary_road": "Sydney Rd"
+        "2014": 99.0,
+        "2016": 82.0,
+        "countsite": "C-SydneyRdOHeaSt",
+        "Most_recent_count_value": 82,
+        "secondary_road": "OHea St Shared Path",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 8.8,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Sydney Rd and Ohea St",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.966, 
+          144.966,
           -37.7557
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "DeCarle St and Moreland Rd", 
-        "countsite": "C-DeCarleStMorelandRd", 
-        "dist_from_cbd": 7.1, 
-        "primary_road": "De Carle St"
+        "2014": null,
+        "2016": 89.0,
+        "countsite": "C-DeCarleStMorelandRd",
+        "Most_recent_count_value": 89,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.981,
+        "dist_from_cbd": 7.1,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "DeCarle St and Moreland Rd",
+        "2017": null,
+        "primary_road": "De Carle St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 38.0,
+        "Growth_rate": 11.24,
+        "2013": 67.0,
+        "Annual_increase": 10.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9704, 
+          144.9704,
           -37.7562
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Barrow St and Moreland Rd", 
-        "countsite": "C-BarrowStMorelandRd", 
-        "dist_from_cbd": 8.0, 
-        "primary_road": "Barrow St"
+        "2014": null,
+        "2016": 138.0,
+        "countsite": "C-BarrowStMorelandRd",
+        "Most_recent_count_value": 138,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.897,
+        "dist_from_cbd": 8.0,
+        "2010": 77.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Barrow St and Moreland Rd",
+        "2017": null,
+        "primary_road": "Barrow St",
+        "2015": null,
+        "2012": 122.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 6.52,
+        "2013": null,
+        "Annual_increase": 9.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9713, 
+          144.9713,
           -37.751
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Rennie St", 
-        "site_description": "Barrow St & Rennie St", 
-        "countsite": "C-BarrowStRennieSt", 
-        "dist_from_cbd": 8.0, 
-        "primary_road": "Barrow St"
+        "2014": 78.0,
+        "2016": null,
+        "countsite": "C-BarrowStRennieSt",
+        "Most_recent_count_value": 97,
+        "secondary_road": "Rennie St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 8.0,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Barrow St & Rennie St",
+        "2017": 97.0,
+        "primary_road": "Barrow St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9723, 
+          144.9723,
           -37.7457
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Barrow St and Harding Street", 
-        "countsite": "C-BarrowStHardingSt", 
-        "dist_from_cbd": 8.6, 
-        "primary_road": "Barrow St"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-BarrowStHardingSt",
+        "Most_recent_count_value": 91,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.961,
+        "dist_from_cbd": 8.6,
+        "2010": 39.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Barrow St and Harding Street",
+        "2017": 91.0,
+        "primary_road": "Barrow St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 8.79,
+        "2013": 48.0,
+        "Annual_increase": 8.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9749, 
+          144.9749,
           -37.7567
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Nicholson St Holmes Rd and Moreland Rd", 
-        "countsite": "C-NicholsonStMorelandRd", 
-        "dist_from_cbd": 8.7, 
-        "primary_road": "Lygon  - Holmes - Nicholson"
+        "2014": null,
+        "2016": 147.0,
+        "countsite": "C-NicholsonStMorelandRd",
+        "Most_recent_count_value": 147,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.995,
+        "dist_from_cbd": 8.7,
+        "2010": 109.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Nicholson St Holmes Rd and Moreland Rd",
+        "2017": null,
+        "primary_road": "Lygon  - Holmes - Nicholson",
+        "2015": null,
+        "2012": 118.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 4.08,
+        "2013": null,
+        "Annual_increase": 6.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9774, 
+          144.9774,
           -37.7463
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Nicholson St and Harding St", 
-        "countsite": "C-NicholsonStHardingSt", 
-        "dist_from_cbd": 9.1, 
-        "primary_road": "Lygon  - Holmes - Nicholson"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-NicholsonStHardingSt",
+        "Most_recent_count_value": 91,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.7559999999999999,
+        "dist_from_cbd": 9.1,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Nicholson St and Harding St",
+        "2017": 91.0,
+        "primary_road": "Lygon  - Holmes - Nicholson",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 53.0,
+        "Growth_rate": 5.49,
+        "2013": 91.0,
+        "Annual_increase": 5.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9798, 
+          144.9798,
           -37.7573
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Moreland Rd", 
-        "site_description": "Merri Creek Trail & Moreland Rd", 
-        "countsite": "C-MerriCrkMorelandRd", 
-        "dist_from_cbd": 8.2, 
-        "primary_road": "Merri Creek Trail"
+        "2014": 227.0,
+        "2016": 275.0,
+        "countsite": "C-MerriCrkMorelandRd",
+        "Most_recent_count_value": 275,
+        "secondary_road": "Moreland Rd",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 8.2,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Merri Creek Trail & Moreland Rd",
+        "2017": null,
+        "primary_road": "Merri Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9798, 
+          144.9798,
           -37.7464
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Munro - Harding", 
-        "site_description": "Merri Creek Trail  at the Harding St Suspension Bridge", 
-        "countsite": "C-MerriCrkHardingSt", 
-        "dist_from_cbd": 11.3, 
-        "primary_road": "Merri Creek Trail"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-MerriCrkHardingSt",
+        "Most_recent_count_value": 161,
+        "secondary_road": "Munro - Harding",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.973,
+        "dist_from_cbd": 11.3,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Merri Creek Trail  at the Harding St Suspension Bridge",
+        "2017": 161.0,
+        "primary_road": "Merri Creek Trail",
+        "2015": 147.0,
+        "2012": 85.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 9.94,
+        "2013": null,
+        "Annual_increase": 16.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9787, 
+          144.9787,
           -37.7393
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": null, 
-        "site_description": "Merri Creek Trail at DeChene Bridge", 
-        "countsite": "C-MerriCrkDeCheneBridge", 
-        "dist_from_cbd": 10.7, 
-        "primary_road": "Merri Creek Trail,"
+        "2014": null,
+        "2016": null,
+        "countsite": "C-MerriCrkDeCheneBridge",
+        "Most_recent_count_value": 117,
+        "secondary_road": null,
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 10.7,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Merri Creek Trail at DeChene Bridge",
+        "2017": 117.0,
+        "primary_road": "Merri Creek Trail,",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 60.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9283, 
+          144.9283,
           -37.7304
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Gaffney St", 
-        "site_description": "Railway Pde Burgandy St and Gaffney St Park St", 
-        "countsite": "PV-BurgandyStGaffneySt", 
-        "dist_from_cbd": 14.1, 
-        "primary_road": "Craigieburn Express"
+        "2014": null,
+        "2016": null,
+        "countsite": "PV-BurgandyStGaffneySt",
+        "Most_recent_count_value": 57,
+        "secondary_road": "Gaffney St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.895,
+        "dist_from_cbd": 14.1,
+        "2010": 44.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Railway Pde Burgandy St and Gaffney St Park St",
+        "2017": null,
+        "primary_road": "Craigieburn Express",
+        "2015": 57.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 39.0,
+        "Growth_rate": 5.26,
+        "2013": null,
+        "Annual_increase": 3.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9458, 
+          144.9458,
           -37.7323
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Gaffney St", 
-        "site_description": "Derby St and Gaffney St", 
-        "countsite": "PV-DerbyStGaffneySt", 
-        "dist_from_cbd": 11.2, 
-        "primary_road": "Derby St"
+        "2014": null,
+        "2016": 34.0,
+        "countsite": "PV-DerbyStGaffneySt",
+        "Most_recent_count_value": 34,
+        "secondary_road": "Gaffney St",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.053,
+        "dist_from_cbd": 11.2,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Derby St and Gaffney St",
+        "2017": null,
+        "primary_road": "Derby St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 32.0,
+        "Growth_rate": null,
+        "2013": 61.0,
+        "Annual_increase": -0.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9393, 
+          144.9393,
           -37.7265
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Essex St", 
-        "site_description": "Cumberland Rd and Essex", 
-        "countsite": "PV-CumberlandRdEssexSt", 
-        "dist_from_cbd": 12.3, 
-        "primary_road": "Cumberland Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "PV-CumberlandRdEssexSt",
+        "Most_recent_count_value": 23,
+        "secondary_road": "Essex St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.8420000000000001,
+        "dist_from_cbd": 12.3,
+        "2010": 18.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Cumberland Rd and Essex",
+        "2017": null,
+        "primary_road": "Cumberland Rd",
+        "2015": 23.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 15.0,
+        "Growth_rate": 4.35,
+        "2013": null,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9517, 
+          144.9517,
           -37.718
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Boundary Rd", 
-        "site_description": "Sussex St and Boundary Road", 
-        "countsite": "CN-SussexStBoundaryRd", 
-        "dist_from_cbd": 12.0, 
-        "primary_road": "Sussex St"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-SussexStBoundaryRd",
+        "Most_recent_count_value": 15,
+        "secondary_road": "Boundary Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.319,
+        "dist_from_cbd": 12.0,
+        "2010": 16.0,
+        "Most_recent_count_year": 2017,
+        "site_description": "Sussex St and Boundary Road",
+        "2017": 15.0,
+        "primary_road": "Sussex St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 19.0,
+        "Annual_increase": -0.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9631, 
+          144.9631,
           -37.7338
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Gaffney St", 
-        "site_description": "Upfield Shared Path and Gaffney St", 
-        "countsite": "CN-UpfieldGaffneySt", 
-        "dist_from_cbd": 9.3, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": 170.0,
+        "countsite": "CN-UpfieldGaffneySt",
+        "Most_recent_count_value": 170,
+        "secondary_road": "Gaffney St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.9279999999999999,
+        "dist_from_cbd": 9.3,
+        "2010": 118.0,
+        "Most_recent_count_year": 2016,
+        "site_description": "Upfield Shared Path and Gaffney St",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": null,
+        "2012": 115.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 5.29,
+        "2013": null,
+        "Annual_increase": 9.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9621, 
+          144.9621,
           -37.7273
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Bakers Rd", 
-        "site_description": "Upfield Path and Bakers Road", 
-        "countsite": "CN-UpfieldBakersRd", 
-        "dist_from_cbd": 10.2, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-UpfieldBakersRd",
+        "Most_recent_count_value": 25,
+        "secondary_road": "Bakers Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.753,
+        "dist_from_cbd": 10.2,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Upfield Path and Bakers Road",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 25.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 60.0,
+        "Growth_rate": -36.0,
+        "2013": 16.0,
+        "Annual_increase": -9.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9603, 
+          144.9603,
           -37.7189
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Boundary Rd", 
-        "site_description": "Upfield Shared Path and Boundary Road", 
-        "countsite": "CN-UpfieldBoundaryRd", 
-        "dist_from_cbd": 11.2, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-UpfieldBoundaryRd",
+        "Most_recent_count_value": 51,
+        "secondary_road": "Boundary Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.682,
+        "dist_from_cbd": 11.2,
+        "2010": 40.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Upfield Shared Path and Boundary Road",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 51.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 24.0,
+        "Growth_rate": 7.84,
+        "2013": null,
+        "Annual_increase": 4.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9637, 
+          144.9637,
           -37.7274
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Bakers Rd", 
-        "site_description": "Sydney Rd and Bakers Road", 
-        "countsite": "CN-SydneyRdBakersRd", 
-        "dist_from_cbd": 10.1, 
-        "primary_road": "Sydney Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-SydneyRdBakersRd",
+        "Most_recent_count_value": 15,
+        "secondary_road": "Bakers Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.42700000000000005,
+        "dist_from_cbd": 10.1,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Sydney Rd and Bakers Road",
+        "2017": null,
+        "primary_road": "Sydney Rd",
+        "2015": 15.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 12.0,
+        "Growth_rate": null,
+        "2013": 19.0,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9717, 
+          144.9717,
           -37.7308
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Carr St", 
-        "site_description": "Newlands Rd and Carr St", 
-        "countsite": "CN-NewlandsRdCarrSt", 
-        "dist_from_cbd": 10.3, 
-        "primary_road": "Newlands Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-NewlandsRdCarrSt",
+        "Most_recent_count_value": 11,
+        "secondary_road": "Carr St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 10.3,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Newlands Rd and Carr St",
+        "2017": null,
+        "primary_road": "Newlands Rd",
+        "2015": 11.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 15.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9836, 
+          144.9836,
           -37.7318
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Boyne St", 
-        "site_description": "Elizabeth St and Boyne St / Jacka St", 
-        "countsite": "CN-ElizabethStBoyneSt", 
-        "dist_from_cbd": 10.9, 
-        "primary_road": "Elizabeth St"
+        "2014": null,
+        "2016": null,
+        "countsite": "CN-ElizabethStBoyneSt",
+        "Most_recent_count_value": 42,
+        "secondary_road": "Boyne St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 10.9,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Elizabeth St and Boyne St / Jacka St",
+        "2017": null,
+        "primary_road": "Elizabeth St",
+        "2015": 42.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 47.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9212, 
+          144.9212,
           -37.7212
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Winifred St", 
-        "site_description": "Pascoe Vale Rd and Winifred Devon St", 
-        "countsite": "OP-PascoeValeRdWinifredSt", 
-        "dist_from_cbd": 14.9, 
-        "primary_road": "Pascoe Vale Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "OP-PascoeValeRdWinifredSt",
+        "Most_recent_count_value": 22,
+        "secondary_road": "Winifred St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.8540000000000001,
+        "dist_from_cbd": 14.9,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Pascoe Vale Rd and Winifred Devon St",
+        "2017": null,
+        "primary_road": "Pascoe Vale Rd",
+        "2015": 22.0,
+        "2012": 9.0,
+        "2008": null,
+        "2009": null,
+        "2011": 13.0,
+        "Growth_rate": 13.64,
+        "2013": null,
+        "Annual_increase": 3.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9212, 
+          144.9212,
           -37.7179
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Meaker Av", 
-        "site_description": "Meaker Av and Station Rd", 
-        "countsite": "OP-StationRdMeakerAv", 
-        "dist_from_cbd": 14.8, 
-        "primary_road": "Craigieburn Express"
+        "2014": null,
+        "2016": null,
+        "countsite": "OP-StationRdMeakerAv",
+        "Most_recent_count_value": 14,
+        "secondary_road": "Meaker Av",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.655,
+        "dist_from_cbd": 14.8,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Meaker Av and Station Rd",
+        "2017": 14.0,
+        "primary_road": "Craigieburn Express",
+        "2015": 5.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": 14.29,
+        "2013": 8.0,
+        "Annual_increase": 2.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9217, 
+          144.9217,
           -37.7179
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Snell Gv", 
-        "site_description": "Waterloo St and Snell Grove", 
-        "countsite": "OP-WaterlooStSnellGv", 
-        "dist_from_cbd": 14.8, 
-        "primary_road": "Craigieburn Express"
+        "2014": null,
+        "2016": null,
+        "countsite": "OP-WaterlooStSnellGv",
+        "Most_recent_count_value": 10,
+        "secondary_road": "Snell Gv",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 14.8,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Waterloo St and Snell Grove",
+        "2017": null,
+        "primary_road": "Craigieburn Express",
+        "2015": 10.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 9.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.8918, 
+          144.8918,
           -37.7095
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Gowanbrae Drive", 
-        "site_description": "Western Ring Rd Trail and Gowanbrae Drive", 
-        "countsite": "Gow-WestRingRdTrailGowanbraeDr", 
-        "dist_from_cbd": 20.0, 
-        "primary_road": "Western Ring Road Trail"
+        "2014": 17.0,
+        "2016": null,
+        "countsite": "Gow-WestRingRdTrailGowanbraeDr",
+        "Most_recent_count_value": 17,
+        "secondary_road": "Gowanbrae Drive",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 20.0,
+        "2010": null,
+        "Most_recent_count_year": 2014,
+        "site_description": "Western Ring Rd Trail and Gowanbrae Drive",
+        "2017": null,
+        "primary_road": "Western Ring Road Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.8981, 
+          144.8981,
           -37.7093
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Eastbound", 
-        "site_description": "Moonee Ponds Creek Trail Under Trestle Bridge", 
-        "countsite": "Gow-MooneePondsCrkTrestleBridge", 
-        "dist_from_cbd": 18.4, 
-        "primary_road": "Moonee Ponds Creek Trail"
+        "2014": 44.0,
+        "2016": null,
+        "countsite": "Gow-MooneePondsCrkTrestleBridge",
+        "Most_recent_count_value": 44,
+        "secondary_road": "Eastbound",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 18.4,
+        "2010": null,
+        "Most_recent_count_year": 2014,
+        "site_description": "Moonee Ponds Creek Trail Under Trestle Bridge",
+        "2017": null,
+        "primary_road": "Moonee Ponds Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9072, 
+          144.9072,
           -37.6934
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Eastbound", 
-        "site_description": "Moonee Ponds Creek Trail and Western Ring Road Trail", 
-        "countsite": "Gow-MooneePondsCrkWestRingRd", 
-        "dist_from_cbd": 20.9, 
-        "primary_road": "Southbound"
+        "2014": 35.0,
+        "2016": null,
+        "countsite": "Gow-MooneePondsCrkWestRingRd",
+        "Most_recent_count_value": 35,
+        "secondary_road": "Eastbound",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 20.9,
+        "2010": null,
+        "Most_recent_count_year": 2014,
+        "site_description": "Moonee Ponds Creek Trail and Western Ring Road Trail",
+        "2017": null,
+        "primary_road": "Southbound",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9161, 
+          144.9161,
           -37.7063
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Glenroy Rd", 
-        "site_description": "Pascoe Vale Rd and Glenroy Rd", 
-        "countsite": "G-PascoeValeRdGlenroyRd", 
-        "dist_from_cbd": 16.1, 
-        "primary_road": "Pascoe Vale Rd"
+        "2014": null,
+        "2016": null,
+        "countsite": "G-PascoeValeRdGlenroyRd",
+        "Most_recent_count_value": 15,
+        "secondary_road": "Glenroy Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": -0.397,
+        "dist_from_cbd": 16.1,
+        "2010": 19.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Pascoe Vale Rd and Glenroy Rd",
+        "2017": null,
+        "primary_road": "Pascoe Vale Rd",
+        "2015": 15.0,
+        "2012": 11.0,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": -1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9161, 
+          144.9161,
           -37.6947
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Western Ring Road Trail", 
-        "site_description": "Electric St Harrington Ave and Western Ring Rd Trail", 
-        "countsite": "G-HarringtonStWestRingRdTrail", 
-        "dist_from_cbd": 17.3, 
-        "primary_road": "Craigieburn Express"
+        "2014": null,
+        "2016": null,
+        "countsite": "G-HarringtonStWestRingRdTrail",
+        "Most_recent_count_value": 22,
+        "secondary_road": "Western Ring Road Trail",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 17.3,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Electric St Harrington Ave and Western Ring Rd Trail",
+        "2017": null,
+        "primary_road": "Craigieburn Express",
+        "2015": 22.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 16.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9252, 
+          144.9252,
           -37.6947
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Western Ring Road Trail", 
-        "site_description": "Widford St & Western Ring Road Trail", 
-        "countsite": "G-WidfordStWestRingRdTrail", 
-        "dist_from_cbd": 19.1, 
-        "primary_road": "Widford St"
+        "2014": 22.0,
+        "2016": null,
+        "countsite": "G-WidfordStWestRingRdTrail",
+        "Most_recent_count_value": 26,
+        "secondary_road": "Western Ring Road Trail",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 19.1,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Widford St & Western Ring Road Trail",
+        "2017": 26.0,
+        "primary_road": "Widford St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9245, 
+          144.9245,
           -37.7058
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Logan St", 
-        "site_description": "Logan St and Glenroy Rd", 
-        "countsite": "G-LoganStGlenroyRd", 
-        "dist_from_cbd": 15.6, 
-        "primary_road": "Glenroy Rd"
+        "2014": null,
+        "2016": 18.0,
+        "countsite": "G-LoganStGlenroyRd",
+        "Most_recent_count_value": 18,
+        "secondary_road": "Logan St",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.9940000000000001,
+        "dist_from_cbd": 15.6,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Logan St and Glenroy Rd",
+        "2017": null,
+        "primary_road": "Glenroy Rd",
+        "2015": null,
+        "2012": 8.0,
+        "2008": null,
+        "2009": null,
+        "2011": 7.0,
+        "Growth_rate": 11.11,
+        "2013": null,
+        "Annual_increase": 2.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9392, 
+          144.9392,
           -37.702
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Hilton - Box Forest", 
-        "site_description": "West St and Hilton St", 
-        "countsite": "H-HiltonStWestSt", 
-        "dist_from_cbd": 14.7, 
-        "primary_road": "West St"
+        "2014": null,
+        "2016": 2.0,
+        "countsite": "H-HiltonStWestSt",
+        "Most_recent_count_value": 2,
+        "secondary_road": "Hilton - Box Forest",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 14.7,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "West St and Hilton St",
+        "2017": null,
+        "primary_road": "West St",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 8.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.959, 
+          144.959,
           -37.7044
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Hilton - Box Forest", 
-        "site_description": "Upfield Shared Path Sages Rd and Box Forest Rd Hilton St", 
-        "countsite": "F-UpfieldBoxForestRd", 
-        "dist_from_cbd": 12.9, 
-        "primary_road": "Upfield Shared Path"
+        "2014": null,
+        "2016": null,
+        "countsite": "F-UpfieldBoxForestRd",
+        "Most_recent_count_value": 28,
+        "secondary_road": "Hilton - Box Forest",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.645,
+        "dist_from_cbd": 12.9,
+        "2010": 24.0,
+        "Most_recent_count_year": 2015,
+        "site_description": "Upfield Shared Path Sages Rd and Box Forest Rd Hilton St",
+        "2017": null,
+        "primary_road": "Upfield Shared Path",
+        "2015": 28.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 17.0,
+        "Growth_rate": 3.57,
+        "2013": null,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9585, 
+          144.9585,
           -37.6921
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Western Ring Road Trail", 
-        "site_description": "Sydney Rd (Hume Hwy) and Western Ring Road Trail", 
-        "countsite": "SydneyRdWestRingRdTrail", 
-        "dist_from_cbd": 14.4, 
-        "primary_road": "Sydney Rd"
+        "2014": 38.0,
+        "2016": null,
+        "countsite": "SydneyRdWestRingRdTrail",
+        "Most_recent_count_value": 24,
+        "secondary_road": "Western Ring Road Trail",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 14.4,
+        "2010": null,
+        "Most_recent_count_year": 2017,
+        "site_description": "Sydney Rd (Hume Hwy) and Western Ring Road Trail",
+        "2017": 24.0,
+        "primary_road": "Sydney Rd",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9646, 
+          144.9646,
           -37.7141
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Yungera St", 
-        "site_description": "Wyuna St and Yungera St", 
-        "countsite": "F-WyunaStYungeraSt", 
-        "dist_from_cbd": 12.4, 
-        "primary_road": "Wyuna St"
+        "2014": null,
+        "2016": null,
+        "countsite": "F-WyunaStYungeraSt",
+        "Most_recent_count_value": 9,
+        "secondary_road": "Yungera St",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 12.4,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Wyuna St and Yungera St",
+        "2017": null,
+        "primary_road": "Wyuna St",
+        "2015": 9.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": 13.0,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9691, 
+          144.9691,
           -37.6958
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Anderson Rd", 
-        "site_description": "Hogan St William St and Anderson Rd", 
-        "countsite": "F-WilliamStAndersonRd", 
-        "dist_from_cbd": 14.7, 
-        "primary_road": "William St"
+        "2014": null,
+        "2016": 7.0,
+        "countsite": "F-WilliamStAndersonRd",
+        "Most_recent_count_value": 7,
+        "secondary_road": "Anderson Rd",
+        "Number_of_times_counted": 3,
+        "rvalue": 0.7559999999999999,
+        "dist_from_cbd": 14.7,
+        "2010": null,
+        "Most_recent_count_year": 2016,
+        "site_description": "Hogan St William St and Anderson Rd",
+        "2017": null,
+        "primary_road": "William St",
+        "2015": 12.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 2.0,
+        "Growth_rate": 14.29,
+        "2013": null,
+        "Annual_increase": 1.0
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9763, 
+          144.9763,
           -37.7067
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Victory", 
-        "site_description": "McBryde St Victory St Hare St", 
-        "countsite": "F-McBrydeStVictorySt", 
-        "dist_from_cbd": 13.2, 
-        "primary_road": "McBryde St"
+        "2014": null,
+        "2016": null,
+        "countsite": "F-McBrydeStVictorySt",
+        "Most_recent_count_value": 12,
+        "secondary_road": "Victory",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 13.2,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "McBryde St Victory St Hare St",
+        "2017": null,
+        "primary_road": "McBryde St",
+        "2015": 12.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 5.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9724, 
+          144.9724,
           -37.7195
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Boundary Rd", 
-        "site_description": "Derby St Merri Crk Trail and Queens Pde", 
-        "countsite": "F-MerriCrkQueensPde", 
-        "dist_from_cbd": 11.6, 
-        "primary_road": "Merri Creek Trail"
+        "2014": null,
+        "2016": null,
+        "countsite": "F-MerriCrkQueensPde",
+        "Most_recent_count_value": 2,
+        "secondary_road": "Boundary Rd",
+        "Number_of_times_counted": 2,
+        "rvalue": null,
+        "dist_from_cbd": 11.6,
+        "2010": null,
+        "Most_recent_count_year": 2015,
+        "site_description": "Derby St Merri Crk Trail and Queens Pde",
+        "2017": null,
+        "primary_road": "Merri Creek Trail",
+        "2015": 2.0,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": 2.0,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
-    }, 
+    },
     {
       "geometry": {
-        "type": "Point", 
+        "type": "Point",
         "coordinates": [
-          144.9703, 
+          144.9703,
           -37.6928
         ]
-      }, 
-      "type": "Feature", 
+      },
+      "type": "Feature",
       "properties": {
-        "secondary_road": "Western Ring Road Trail", 
-        "site_description": "Merri Creek Trail and Western Ring Road Trail", 
-        "countsite": "MerriCrkTrailWestRingRdTrail", 
-        "dist_from_cbd": 19.3, 
-        "primary_road": "Merri Creek Trail"
+        "2014": 38.0,
+        "2016": null,
+        "countsite": "MerriCrkTrailWestRingRdTrail",
+        "Most_recent_count_value": 38,
+        "secondary_road": "Western Ring Road Trail",
+        "Number_of_times_counted": 1,
+        "rvalue": null,
+        "dist_from_cbd": 19.3,
+        "2010": null,
+        "Most_recent_count_year": 2014,
+        "site_description": "Merri Creek Trail and Western Ring Road Trail",
+        "2017": null,
+        "primary_road": "Merri Creek Trail",
+        "2015": null,
+        "2012": null,
+        "2008": null,
+        "2009": null,
+        "2011": null,
+        "Growth_rate": null,
+        "2013": null,
+        "Annual_increase": null
       }
     }
   ]
